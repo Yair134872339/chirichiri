@@ -1,0 +1,654 @@
+{
+	"type" : "FeatureCollection",
+	"name" : "26105_kyoto-shi_higashiyama-ku_landmark",
+	"features" : [
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.7771122165, 35.0001111695 ]
+			},
+			"properties" : {
+				"名称" : "文化庁地域文化創生本部",
+				"高さ" : "14.4",
+				"種類" : "国の機関"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.7769083469, 35.0036272897 ]
+			},
+			"properties" : {
+				"名称" : "東山警察署祇園交番",
+				"高さ" : "10.1",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.7735049474, 35.0080665607 ]
+			},
+			"properties" : {
+				"名称" : "東山警察署三条大橋東交番",
+				"高さ" : "7.4",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.7731962464, 35.0039968502 ]
+			},
+			"properties" : {
+				"名称" : "東山警察署大和大路警備派出所",
+				"高さ" : "8.8",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.780785648, 35.0068923898 ]
+			},
+			"properties" : {
+				"名称" : "私立華頂女子中学校",
+				"高さ" : "18.5",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.780785648, 35.0068923898 ]
+			},
+			"properties" : {
+				"名称" : "私立華頂女子高等学校",
+				"高さ" : "18.5",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.780785648, 35.0068923898 ]
+			},
+			"properties" : {
+				"名称" : "華頂短期大学",
+				"高さ" : "18.5",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.7796502475, 35.00705499 ]
+			},
+			"properties" : {
+				"名称" : "京都華頂大学",
+				"高さ" : "19.6",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.7737065476, 35.0090265106 ]
+			},
+			"properties" : {
+				"名称" : "京都三条大橋郵便局",
+				"高さ" : "23.2",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.777671247, 35.0018130898 ]
+			},
+			"properties" : {
+				"名称" : "京都月見町郵便局",
+				"高さ" : "8.1",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.7779069477, 35.0087700802 ]
+			},
+			"properties" : {
+				"名称" : "京都知恩院前郵便局",
+				"高さ" : "7.7",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.784537249, 35.0096356996 ]
+			},
+			"properties" : {
+				"名称" : "京都三条広道郵便局",
+				"高さ" : "7.6",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.7729493358, 35.004579959 ]
+			},
+			"properties" : {
+				"名称" : "京都祇園郵便局",
+				"高さ" : "8.2",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.7813793485, 35.0098826403 ]
+			},
+			"properties" : {
+				"名称" : "並河靖之七宝記念館",
+				"高さ" : "8.8",
+				"種類" : "博物館・美術館"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.7766395674, 35.0034941199 ]
+			},
+			"properties" : {
+				"名称" : "漢検　漢字博物館・図書館",
+				"高さ" : "14.9",
+				"種類" : "博物館・美術館"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.7729013456, 34.9940220397 ]
+			},
+			"properties" : {
+				"名称" : "大阪国税局東山税務署",
+				"高さ" : "12.2",
+				"種類" : "国の機関"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.7800064104, 34.9789694202 ]
+			},
+			"properties" : {
+				"名称" : "宮内庁書陵部月輪陵墓監区事務所",
+				"高さ" : "5.4",
+				"種類" : "国の機関"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.776402346, 34.9970974791 ]
+			},
+			"properties" : {
+				"名称" : "京都市東山区役所",
+				"高さ" : "25.6",
+				"種類" : "地方の機関"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.7773508457, 34.9961305396 ]
+			},
+			"properties" : {
+				"名称" : "東山警察署",
+				"高さ" : "12.4",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.7727337512, 34.9983565448 ]
+			},
+			"properties" : {
+				"名称" : "東山警察署松原交番",
+				"高さ" : "4.7",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.7785309455, 34.991524869 ]
+			},
+			"properties" : {
+				"名称" : "東山警察署渋谷交番",
+				"高さ" : "16.1",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.7741965442, 34.9824434085 ]
+			},
+			"properties" : {
+				"名称" : "東山警察署泉涌寺交番",
+				"高さ" : "6.5",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.7714307446, 34.9893854093 ]
+			},
+			"properties" : {
+				"名称" : "東山警察署大仏前交番",
+				"高さ" : "4.3",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.7706284427, 34.979824019 ]
+			},
+			"properties" : {
+				"名称" : "東山警察署東福寺交番",
+				"高さ" : "7.4",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.7728072434, 34.9819675782 ]
+			},
+			"properties" : {
+				"名称" : "京都市消防局東山消防署泉涌寺消防出張所",
+				"高さ" : "7.5",
+				"種類" : "消防署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.7764001462, 34.9966699791 ]
+			},
+			"properties" : {
+				"名称" : "京都市消防局東山消防署",
+				"高さ" : "19.5",
+				"種類" : "消防署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.7709597436, 34.9836056586 ]
+			},
+			"properties" : {
+				"名称" : "市立東山泉小中学校西学舎",
+				"高さ" : "15.7",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.7740994759, 34.9959851698 ]
+			},
+			"properties" : {
+				"名称" : "市立開睛小中学校",
+				"高さ" : "15.3",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.7770816454, 34.9901640293 ]
+			},
+			"properties" : {
+				"名称" : "私立京都女子中学校",
+				"高さ" : "25",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.7770816454, 34.9901640293 ]
+			},
+			"properties" : {
+				"名称" : "私立京都女子高等学校",
+				"高さ" : "25",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.7794976453, 34.9882660187 ]
+			},
+			"properties" : {
+				"名称" : "京都女子大学",
+				"高さ" : "15.7",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.7726445437, 34.9843419091 ]
+			},
+			"properties" : {
+				"名称" : "私立大谷高等学校",
+				"高さ" : "7.4",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.7758664294, 34.9788544189 ]
+			},
+			"properties" : {
+				"名称" : "市立日吉ケ丘高等学校",
+				"高さ" : "16.6",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.7784988938, 34.9794250979 ]
+			},
+			"properties" : {
+				"名称" : "市立東山泉小中学校東学舎",
+				"高さ" : "17.3",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.7809000438, 34.9755175278 ]
+			},
+			"properties" : {
+				"名称" : "私立京都国際中学校",
+				"高さ" : "11.6",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.7809000438, 34.9755175278 ]
+			},
+			"properties" : {
+				"名称" : "私立京都国際高等学校",
+				"高さ" : "11.6",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.778657845, 34.9902607683 ]
+			},
+			"properties" : {
+				"名称" : "私立京都女子大学附属小学校",
+				"高さ" : "14.2",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.7718141438, 34.984012439 ]
+			},
+			"properties" : {
+				"名称" : "私立大谷中学校",
+				"高さ" : "18",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.775746645, 34.9920197392 ]
+			},
+			"properties" : {
+				"名称" : "市立東山総合支援学校",
+				"高さ" : "15.2",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.768135034, 34.9912285694 ]
+			},
+			"properties" : {
+				"名称" : "京都美術工芸大学東山キャンパス",
+				"高さ" : "14.8",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.7706292443, 34.9887018994 ]
+			},
+			"properties" : {
+				"名称" : "原田病院",
+				"高さ" : "13.1",
+				"種類" : "病院"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.7706432416, 34.9706293776 ]
+			},
+			"properties" : {
+				"名称" : "久野病院",
+				"高さ" : "19.3",
+				"種類" : "病院"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.7727346437, 34.9809425786 ]
+			},
+			"properties" : {
+				"名称" : "京都第一赤十字病院",
+				"高さ" : "39.2",
+				"種類" : "病院"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.7704615434, 34.9831834386 ]
+			},
+			"properties" : {
+				"名称" : "京都本町郵便局",
+				"高さ" : "7.5",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.7716974635, 34.9806701983 ]
+			},
+			"properties" : {
+				"名称" : "京都赤十字病院内郵便局",
+				"高さ" : "5.8",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.774388344, 34.9862075185 ]
+			},
+			"properties" : {
+				"名称" : "京都今熊野郵便局",
+				"高さ" : "11.5",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.7769260458, 34.992203539 ]
+			},
+			"properties" : {
+				"名称" : "京都下馬町郵便局",
+				"高さ" : "10.6",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.7714522454, 34.99480906 ]
+			},
+			"properties" : {
+				"名称" : "東山郵便局",
+				"高さ" : "20.9",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.7719293453, 34.9979394501 ]
+			},
+			"properties" : {
+				"名称" : "京都大和大路郵便局",
+				"高さ" : "8.1",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.7707007418, 34.9725770278 ]
+			},
+			"properties" : {
+				"名称" : "京都鳥羽道郵便局",
+				"高さ" : "6.5",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.7727171448, 34.9887950096 ]
+			},
+			"properties" : {
+				"名称" : "日本赤十字社(京都府支部)",
+				"高さ" : "15.8",
+				"種類" : "指定公共機関"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.7725498451, 34.990616109 ]
+			},
+			"properties" : {
+				"名称" : "京都国立博物館",
+				"高さ" : "15.4",
+				"種類" : "博物館・美術館"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.7736625445, 34.9878559194 ]
+			},
+			"properties" : {
+				"名称" : "養源院",
+				"高さ" : "11.4",
+				"種類" : "博物館・美術館"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.7826113474, 34.999040669 ]
+			},
+			"properties" : {
+				"名称" : "霊山歴史館",
+				"高さ" : "16.6",
+				"種類" : "博物館・美術館"
+			}
+		}
+	]
+}

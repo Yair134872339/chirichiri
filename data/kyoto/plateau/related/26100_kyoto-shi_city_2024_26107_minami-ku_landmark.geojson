@@ -1,0 +1,642 @@
+{
+	"type" : "FeatureCollection",
+	"name" : "26107_kyoto-shi_minami-ku_landmark",
+	"features" : [
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.75026704, 34.9730251699 ]
+			},
+			"properties" : {
+				"名称" : "南警察署",
+				"高さ" : "21.9",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.7570634414, 34.9793090603 ]
+			},
+			"properties" : {
+				"名称" : "南警察署下殿田交番",
+				"高さ" : "6.7",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.7612554422, 34.9820212095 ]
+			},
+			"properties" : {
+				"名称" : "南警察署山王交番",
+				"高さ" : "7.7",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.764076642, 34.9760369292 ]
+			},
+			"properties" : {
+				"名称" : "南警察署陶化交番",
+				"高さ" : "4.4",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.7546549409, 34.98107073 ]
+			},
+			"properties" : {
+				"名称" : "市立九条弘道小学校",
+				"高さ" : "12.2",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.7575825418, 34.9791977098 ]
+			},
+			"properties" : {
+				"名称" : "市立凌風小中学校",
+				"高さ" : "23.3",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.7501745403, 34.980503501 ]
+			},
+			"properties" : {
+				"名称" : "市立九条中学校",
+				"高さ" : "11.7",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.7533204403, 34.9738817101 ]
+			},
+			"properties" : {
+				"名称" : "京都十条郵便局",
+				"高さ" : "10",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.753519741, 34.9816299205 ]
+			},
+			"properties" : {
+				"名称" : "京都西九条郵便局",
+				"高さ" : "10.2",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.759433241, 34.9750542592 ]
+			},
+			"properties" : {
+				"名称" : "京都札ノ辻郵便局",
+				"高さ" : "7",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.7614296414, 34.9789030097 ]
+			},
+			"properties" : {
+				"名称" : "京都東九条郵便局",
+				"高さ" : "9",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.7591549424, 34.9830330001 ]
+			},
+			"properties" : {
+				"名称" : "京都駅八条口郵便局",
+				"高さ" : "18.1",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.7539765414, 34.9851679103 ]
+			},
+			"properties" : {
+				"名称" : "西日本旅客鉄道株式会社(京都支社)",
+				"高さ" : "34.9",
+				"種類" : "指定公共機関"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.7601676405, 34.9715867186 ]
+			},
+			"properties" : {
+				"名称" : "西濃運輸（京都支店）",
+				"高さ" : "8.7",
+				"種類" : "指定公共機関"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.7464354398, 34.9766548802 ]
+			},
+			"properties" : {
+				"名称" : "京都市南区役所",
+				"高さ" : "36.7",
+				"種類" : "地方の機関"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.7194498346, 34.9596764519 ]
+			},
+			"properties" : {
+				"名称" : "南警察署久世交番",
+				"高さ" : "7.6",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.7323689362, 34.9648084611 ]
+			},
+			"properties" : {
+				"名称" : "南警察署祥栄交番",
+				"高さ" : "4",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.7285989387, 34.9824745032 ]
+			},
+			"properties" : {
+				"名称" : "南警察署祥豊交番",
+				"高さ" : "3.6",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.7425591374, 34.9635774303 ]
+			},
+			"properties" : {
+				"名称" : "南警察署上鳥羽交番",
+				"高さ" : "7.7",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.7365054386, 34.9780490813 ]
+			},
+			"properties" : {
+				"名称" : "南警察署唐橋交番",
+				"高さ" : "22.2",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.7491279408, 34.9817786113 ]
+			},
+			"properties" : {
+				"名称" : "南警察署東寺前交番",
+				"高さ" : "4.3",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.7147872332, 34.9595180025 ]
+			},
+			"properties" : {
+				"名称" : "京都市消防局南消防署久世消防出張所",
+				"高さ" : "7.8",
+				"種類" : "消防署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.7286745384, 34.982309063 ]
+			},
+			"properties" : {
+				"名称" : "京都市消防局南消防署西八条消防出張所",
+				"高さ" : "7.9",
+				"種類" : "消防署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.7469215392, 34.9736165006 ]
+			},
+			"properties" : {
+				"名称" : "京都市消防局南消防署",
+				"高さ" : "22.7",
+				"種類" : "消防署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.7144041341, 34.9630553926 ]
+			},
+			"properties" : {
+				"名称" : "市立久世西小学校",
+				"高さ" : "12.1",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.7370366371, 34.9676709113 ]
+			},
+			"properties" : {
+				"名称" : "市立祥栄小学校",
+				"高さ" : "11.3",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.7277522379, 34.9773725023 ]
+			},
+			"properties" : {
+				"名称" : "市立祥豊小学校",
+				"高さ" : "11.6",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.7433102378, 34.9637954898 ]
+			},
+			"properties" : {
+				"名称" : "市立上鳥羽小学校",
+				"高さ" : "11.5",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.7185383339, 34.9602533923 ]
+			},
+			"properties" : {
+				"名称" : "市立大薮小学校",
+				"高さ" : "11.2",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.7386566394, 34.9826826917 ]
+			},
+			"properties" : {
+				"名称" : "市立八条中学校",
+				"高さ" : "8.9",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.7386452385, 34.9748251615 ]
+			},
+			"properties" : {
+				"名称" : "市立洛南中学校",
+				"高さ" : "12.8",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.7335015366, 34.9677864511 ]
+			},
+			"properties" : {
+				"名称" : "市立塔南高等学校",
+				"高さ" : "16.3",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.7189537338, 34.9561458716 ]
+			},
+			"properties" : {
+				"名称" : "市立久世中学校",
+				"高さ" : "11.4",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.7442287402, 34.980247871 ]
+			},
+			"properties" : {
+				"名称" : "市立南大内小学校",
+				"高さ" : "18.1",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.7450476402, 34.9785312305 ]
+			},
+			"properties" : {
+				"名称" : "府立鳥羽高等学校",
+				"高さ" : "14.7",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.7326221381, 34.9748832421 ]
+			},
+			"properties" : {
+				"名称" : "市立吉祥院小学校",
+				"高さ" : "11.4",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.7484858402, 34.9759802509 ]
+			},
+			"properties" : {
+				"名称" : "市立九条塔南小学校",
+				"高さ" : "12.3",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.7468068408, 34.9827015012 ]
+			},
+			"properties" : {
+				"名称" : "私立洛南高等学校",
+				"高さ" : "17.4",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.7468068408, 34.9827015012 ]
+			},
+			"properties" : {
+				"名称" : "私立洛南高等学校附属中学校",
+				"高さ" : "17.4",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.7378660395, 34.9795867314 ]
+			},
+			"properties" : {
+				"名称" : "市立唐橋小学校",
+				"高さ" : "11.1",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.7411640389, 34.9784233014 ]
+			},
+			"properties" : {
+				"名称" : "京都九条病院",
+				"高さ" : "28.2",
+				"種類" : "病院"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.741033239, 34.973638191 ]
+			},
+			"properties" : {
+				"名称" : "十条武田リハビリテーション病院",
+				"高さ" : "20",
+				"種類" : "病院"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.7179776341, 34.9581755922 ]
+			},
+			"properties" : {
+				"名称" : "京都久世郵便局",
+				"高さ" : "6.8",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.7322787361, 34.965786321 ]
+			},
+			"properties" : {
+				"名称" : "京都吉祥院観音堂郵便局",
+				"高さ" : "5",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.7328255379, 34.9756706121 ]
+			},
+			"properties" : {
+				"名称" : "京都吉祥院郵便局",
+				"高さ" : "7.1",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.7359887384, 34.977796612 ]
+			},
+			"properties" : {
+				"名称" : "京都唐橋郵便局",
+				"高さ" : "7.5",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.7426136374, 34.9650978899 ]
+			},
+			"properties" : {
+				"名称" : "京都上鳥羽郵便局",
+				"高さ" : "9.5",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.7427352393, 34.9784307414 ]
+			},
+			"properties" : {
+				"名称" : "京都羅城門郵便局",
+				"高さ" : "7",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.7499588402, 34.9776735007 ]
+			},
+			"properties" : {
+				"名称" : "京都東寺郵便局",
+				"高さ" : "6.7",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.7489490408, 34.9842161411 ]
+			},
+			"properties" : {
+				"名称" : "京都八条郵便局",
+				"高さ" : "11.4",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.7443198369, 34.9596442098 ]
+			},
+			"properties" : {
+				"名称" : "福山通運（京都支店）",
+				"高さ" : "12.1",
+				"種類" : "指定公共機関"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.7478386386, 34.9699223299 ]
+			},
+			"properties" : {
+				"名称" : "佐川急便（本社）",
+				"高さ" : "13.8",
+				"種類" : "指定公共機関"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.7329725385, 34.9827412624 ]
+			},
+			"properties" : {
+				"名称" : "KCIギャラリー",
+				"高さ" : "38.7",
+				"種類" : "博物館・美術館"
+			}
+		}
+	]
+}

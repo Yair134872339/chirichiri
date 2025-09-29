@@ -1,0 +1,654 @@
+{
+	"type" : "FeatureCollection",
+	"name" : "26110_kyoto-shi_yamashina-ku_landmark",
+	"features" : [
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.8174228486, 34.9769526644 ]
+			},
+			"properties" : {
+				"名称" : "京都刑務所",
+				"高さ" : "8.8",
+				"種類" : "国の機関"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.8137128473, 34.9723636542 ]
+			},
+			"properties" : {
+				"名称" : "京都市山科区役所",
+				"高さ" : "12.4",
+				"種類" : "地方の機関"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.8180634468, 34.965336823 ]
+			},
+			"properties" : {
+				"名称" : "山科警察署",
+				"高さ" : "19.5",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.7993803477, 34.9876520965 ]
+			},
+			"properties" : {
+				"名称" : "山科警察署花山交番",
+				"高さ" : "7.1",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.8015446453, 34.9716377549 ]
+			},
+			"properties" : {
+				"名称" : "山科警察署勧修寺交番",
+				"高さ" : "7.1",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.8064652489, 34.9931649665 ]
+			},
+			"properties" : {
+				"名称" : "山科警察署御陵交番",
+				"高さ" : "7.9",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.81671555, 34.9919441456 ]
+			},
+			"properties" : {
+				"名称" : "山科警察署山科駅前交番",
+				"高さ" : "8",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.8243179506, 34.9894793341 ]
+			},
+			"properties" : {
+				"名称" : "山科警察署四ノ宮交番",
+				"高さ" : "7",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.8238598374, 34.9810218005 ]
+			},
+			"properties" : {
+				"名称" : "山科警察署大塚交番",
+				"高さ" : "6.8",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.8161060499, 34.9867628551 ]
+			},
+			"properties" : {
+				"名称" : "山科警察署竹鼻交番",
+				"高さ" : "5.7",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.8164540476, 34.9708317937 ]
+			},
+			"properties" : {
+				"名称" : "山科警察署椥辻交番",
+				"高さ" : "5.8",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.7968864018, 34.9763975867 ]
+			},
+			"properties" : {
+				"名称" : "山科警察署百々交番",
+				"高さ" : "7.3",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.8257820496, 34.981693424 ]
+			},
+			"properties" : {
+				"名称" : "京都市消防局山科消防署大塚消防出張所",
+				"高さ" : "10.9",
+				"種類" : "消防署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.8114547484, 34.9859796458 ]
+			},
+			"properties" : {
+				"名称" : "京都市消防局山科消防署",
+				"高さ" : "14.3",
+				"種類" : "消防署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.8179800505, 34.9960034958 ]
+			},
+			"properties" : {
+				"名称" : "市立安朱小学校",
+				"高さ" : "12",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.8251189502, 34.9858368241 ]
+			},
+			"properties" : {
+				"名称" : "市立音羽小学校",
+				"高さ" : "11.5",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.8208411495, 34.9828368244 ]
+			},
+			"properties" : {
+				"名称" : "市立音羽川小学校",
+				"高さ" : "11.7",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.8082300459, 34.9700034945 ]
+			},
+			"properties" : {
+				"名称" : "市立勧修小学校",
+				"高さ" : "15.2",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.8063689491, 34.9905868258 ]
+			},
+			"properties" : {
+				"名称" : "市立鏡山小学校",
+				"高さ" : "11.3",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.8076011473, 34.9772679047 ]
+			},
+			"properties" : {
+				"名称" : "市立山階南小学校",
+				"高さ" : "11.7",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.8118411454, 34.9636701638 ]
+			},
+			"properties" : {
+				"名称" : "市立小野小学校",
+				"高さ" : "15.2",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.8033689478, 34.9823368263 ]
+			},
+			"properties" : {
+				"名称" : "市立西野小学校",
+				"高さ" : "11.5",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.823854749, 34.9741753332 ]
+			},
+			"properties" : {
+				"名称" : "市立大宅小学校",
+				"高さ" : "11.6",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.8301462506, 34.9827860136 ]
+			},
+			"properties" : {
+				"名称" : "市立大塚小学校",
+				"高さ" : "11.6",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.8029310485, 34.992491817 ]
+			},
+			"properties" : {
+				"名称" : "市立陵ケ岡小学校",
+				"高さ" : "11.9",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.8284066504, 34.9827887235 ]
+			},
+			"properties" : {
+				"名称" : "市立音羽中学校",
+				"高さ" : "15.1",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.8123312467, 34.9664659242 ]
+			},
+			"properties" : {
+				"名称" : "市立勧修中学校",
+				"高さ" : "12.2",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.8102856472, 34.9766423846 ]
+			},
+			"properties" : {
+				"名称" : "市立山科中学校",
+				"高さ" : "11.7",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.8171745512, 34.9970034953 ]
+			},
+			"properties" : {
+				"名称" : "府立洛東高等学校",
+				"高さ" : "21.2",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.8030609479, 34.9885538563 ]
+			},
+			"properties" : {
+				"名称" : "市立花山中学校",
+				"高さ" : "20",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.8128752493, 34.986109675 ]
+			},
+			"properties" : {
+				"名称" : "市立安祥寺中学校",
+				"高さ" : "12.1",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.8287856526, 34.9959757147 ]
+			},
+			"properties" : {
+				"名称" : "私立一燈園小学校",
+				"高さ" : "14.6",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.8287856526, 34.9959757147 ]
+			},
+			"properties" : {
+				"名称" : "私立一燈園中学校",
+				"高さ" : "14.6",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.8287856526, 34.9959757147 ]
+			},
+			"properties" : {
+				"名称" : "私立一燈園高等学校",
+				"高さ" : "14.6",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.8319549506, 34.9791411734 ]
+			},
+			"properties" : {
+				"名称" : "市立東総合支援学校",
+				"高さ" : "10.6",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.8131107491, 34.9835206454 ]
+			},
+			"properties" : {
+				"名称" : "市立山階小学校",
+				"高さ" : "12.7",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.811689149, 34.9888795558 ]
+			},
+			"properties" : {
+				"名称" : "京都薬科大学(南校舎)",
+				"高さ" : "16.2",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.8099826693, 34.9906344859 ]
+			},
+			"properties" : {
+				"名称" : "京都薬科大学(本校舎)",
+				"高さ" : "31.7",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.7962174455, 34.9769032163 ]
+			},
+			"properties" : {
+				"名称" : "市立百々小学校",
+				"高さ" : "11.9",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.8295919513, 34.9875807442 ]
+			},
+			"properties" : {
+				"名称" : "洛和会音羽病院",
+				"高さ" : "25.4",
+				"種類" : "病院"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.8137314182, 34.9714940232 ]
+			},
+			"properties" : {
+				"名称" : "なぎ辻病院",
+				"高さ" : "23.8",
+				"種類" : "病院"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.81621945, 34.9876677854 ]
+			},
+			"properties" : {
+				"名称" : "山科病院",
+				"高さ" : "17.3",
+				"種類" : "病院"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.8107747482, 34.984555125 ]
+			},
+			"properties" : {
+				"名称" : "山科郵便局",
+				"高さ" : "12.7",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.8021920479, 34.9882176664 ]
+			},
+			"properties" : {
+				"名称" : "京都北花山郵便局",
+				"高さ" : "7.2",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.8075476465, 34.9699175742 ]
+			},
+			"properties" : {
+				"名称" : "京都勧修寺郵便局",
+				"高さ" : "8.7",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.8074601469, 34.9765006948 ]
+			},
+			"properties" : {
+				"名称" : "京都東野郵便局",
+				"高さ" : "5",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.8135316491, 34.9851077051 ]
+			},
+			"properties" : {
+				"名称" : "京都山科西野郵便局",
+				"高さ" : "4.3",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.8148863482, 34.976888034 ]
+			},
+			"properties" : {
+				"名称" : "京都山科椥辻郵便局",
+				"高さ" : "7.8",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.8209086486, 34.9725985934 ]
+			},
+			"properties" : {
+				"名称" : "京都山科大宅郵便局",
+				"高さ" : "5.5",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.8243555504, 34.9832886138 ]
+			},
+			"properties" : {
+				"名称" : "京都山科音羽郵便局",
+				"高さ" : "6.6",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.8253124509, 34.9913520842 ]
+			},
+			"properties" : {
+				"名称" : "山科四宮郵便局",
+				"高さ" : "7.3",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.7984391467, 34.9802693958 ]
+			},
+			"properties" : {
+				"名称" : "京都山科川田郵便局",
+				"高さ" : "7.1",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.8193835507, 34.9895977645 ]
+			},
+			"properties" : {
+				"名称" : "京都山科竹鼻郵便局",
+				"高さ" : "8.7",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.8032941493, 34.9954699707 ]
+			},
+			"properties" : {
+				"名称" : "京都山科御陵郵便局",
+				"高さ" : "9",
+				"種類" : "郵便局"
+			}
+		}
+	]
+}

@@ -1,0 +1,4804 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7657665,
+          34.9330687
+        ]
+      },
+      "properties": {
+        "name": "フレスコ 桃山店",
+        "name:en": "Fresco",
+        "name:ja": "フレスコ 桃山店",
+        "operator": "株式会社ハートフレンド",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7597296,
+          34.9626207
+        ]
+      },
+      "properties": {
+        "brand": "マツモト",
+        "name": "マツモト",
+        "name:en": "Matsumoto",
+        "name:ja": "マツモト",
+        "name:ja_rm": "Matumoto",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7515784,
+          35.030816
+        ]
+      },
+      "properties": {
+        "name": "生鮮館なかむら堀川",
+        "shop": "supermarket",
+        "source": "survey",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7623347,
+          34.9964079
+        ]
+      },
+      "properties": {
+        "fixme": "14階建集合住宅。サムティ有隣カマラードの1階",
+        "name": "Fresco",
+        "opening_hours": "24/7",
+        "shop": "supermarket",
+        "source": "Survey"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7413435,
+          35.0506889
+        ]
+      },
+      "properties": {
+        "brand": "サンディ",
+        "brand:en": "Sundi",
+        "brand:ja": "サンディ",
+        "brand:wikidata": "Q11305717",
+        "name": "サンディ",
+        "name:ja": "サンディ",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7484317,
+          35.056374
+        ]
+      },
+      "properties": {
+        "name": "コープにしがも",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.758752,
+          35.0539787
+        ]
+      },
+      "properties": {
+        "name": "生鮮館かみがも",
+        "shop": "supermarket",
+        "source": "survey"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7310851,
+          35.0271603
+        ]
+      },
+      "properties": {
+        "brand": "イズミヤ",
+        "brand:en": "Izumiya",
+        "brand:ja": "イズミヤ",
+        "brand:wikidata": "Q11286632",
+        "brand:wikipedia": "ja:イズミヤ",
+        "level": "1",
+        "name": "イズミヤ",
+        "name:en": "Izumiya",
+        "name:ja": "イズミヤ",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.731272,
+          35.0264358
+        ]
+      },
+      "properties": {
+        "brand": "FRESCO",
+        "name": "スーパーフレスコ",
+        "name:en": "FRESCO",
+        "name:ja": "スーパーフレスコ",
+        "name:ja_rm": "Supa Furesuko",
+        "shop": "supermarket",
+        "source": "survey"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7422289,
+          35.0131451
+        ]
+      },
+      "properties": {
+        "branch": "二条駅前店",
+        "brand": "ライフ",
+        "brand:en": "Life",
+        "brand:ja": "ライフ",
+        "brand:wikidata": "Q11346476",
+        "name": "ライフ",
+        "name:en": "Life",
+        "name:ja": "ライフ",
+        "opening_hours": "Mo-Su 09:00-00:00",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7182654,
+          35.0268264
+        ]
+      },
+      "properties": {
+        "name": "Tamon",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7482402,
+          35.0460379
+        ]
+      },
+      "properties": {
+        "name": "かみとも",
+        "shop": "supermarket",
+        "source": "survey"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7508911,
+          35.0496922
+        ]
+      },
+      "properties": {
+        "name": "エムジー",
+        "shop": "supermarket",
+        "source": "survey"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.814158,
+          34.956926
+        ]
+      },
+      "properties": {
+        "name": "社会福祉法人同和園　同和園",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "shop": "supermarket",
+        "social_facility": "group_home",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7492822,
+          35.0568631
+        ]
+      },
+      "properties": {
+        "brand": "FRESCO",
+        "name": "スーパーフレスコ",
+        "name:en": "FRESCO",
+        "name:ja": "スーパーフレスコ",
+        "name:ja_rm": "Supa Furesuko",
+        "shop": "supermarket",
+        "source": "survey"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7876867,
+          35.0738644
+        ]
+      },
+      "properties": {
+        "name": "Aコープ",
+        "shop": "supermarket",
+        "source": "Bing; survey"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7805548,
+          35.0645228
+        ]
+      },
+      "properties": {
+        "brand": "LIFE",
+        "name": "ライフ",
+        "name:en": "LIFE",
+        "name:ja": "ライフ",
+        "name:ja_rm": "Raifu",
+        "shop": "supermarket",
+        "source": "Bing"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.6922679,
+          34.9809983
+        ]
+      },
+      "properties": {
+        "branch": "桂店",
+        "brand": "西友",
+        "brand:en": "Seiyu",
+        "brand:ja": "西友",
+        "brand:wikidata": "Q3108542",
+        "brand:wikipedia": "en:Seiyu Group",
+        "name": "西友",
+        "name:en": "Seiyu",
+        "name:ja": "西友",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7906394,
+          35.0641576
+        ]
+      },
+      "properties": {
+        "brand": "FRESCO",
+        "name": "スーパーフレスコ",
+        "name:en": "FRESCO",
+        "name:ja": "スーパーフレスコ",
+        "name:ja_rm": "Supa Furesuko",
+        "shop": "supermarket",
+        "source": "survey"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7437981,
+          35.0614854
+        ]
+      },
+      "properties": {
+        "name": "エムジー",
+        "shop": "supermarket",
+        "source": "Bing; survey",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7479335,
+          35.0408891
+        ]
+      },
+      "properties": {
+        "name": "エムジー",
+        "shop": "supermarket",
+        "source": "survey"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7704815,
+          35.0483056
+        ]
+      },
+      "properties": {
+        "brand": "FRIENDFOODS",
+        "name": "スーパーマーケット フレンドフーズ",
+        "name:en": "FRIENDFOODS",
+        "name:ja": "スーパーマーケット フレンドフーズ",
+        "name:ja_rm": "Furendofuuzu",
+        "shop": "supermarket",
+        "source": "survey"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7702845,
+          35.0442149
+        ]
+      },
+      "properties": {
+        "name": "生鮮館なかむら",
+        "shop": "supermarket",
+        "source": "survey"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7201562,
+          35.0066211
+        ]
+      },
+      "properties": {
+        "name": "kyoto coop",
+        "shop": "supermarket",
+        "source": "survey"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.735417,
+          35.0403528
+        ]
+      },
+      "properties": {
+        "name": "エムジー",
+        "shop": "supermarket",
+        "source": "survey"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7312214,
+          35.032767
+        ]
+      },
+      "properties": {
+        "name": "生鮮館なかむら",
+        "shop": "supermarket",
+        "source": "survey"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.748599,
+          35.0496025
+        ]
+      },
+      "properties": {
+        "name": "アイハートキムラ",
+        "shop": "supermarket",
+        "source": "survey"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7811577,
+          35.0412827
+        ]
+      },
+      "properties": {
+        "brand": "イズミヤ",
+        "brand:en": "Izumiya",
+        "brand:ja": "イズミヤ",
+        "brand:wikidata": "Q11286632",
+        "brand:wikipedia": "ja:イズミヤ",
+        "name": "イズミヤ",
+        "name:en": "Izumiya",
+        "name:ja": "イズミヤ",
+        "shop": "supermarket",
+        "source": "survey",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7915955,
+          35.043668
+        ]
+      },
+      "properties": {
+        "name": "マツノキ",
+        "shop": "supermarket",
+        "source": "survey"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7914868,
+          35.0362086
+        ]
+      },
+      "properties": {
+        "name": "生鮮館しらかわ",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7488482,
+          35.0030126
+        ]
+      },
+      "properties": {
+        "brand": "FRESCO",
+        "name": "スーパーフレスコ",
+        "name:en": "FRESCO",
+        "name:ja": "スーパーフレスコ",
+        "name:ja_rm": "Supa Furesuko",
+        "shop": "supermarket",
+        "source": "survey"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7798732,
+          35.0321404
+        ]
+      },
+      "properties": {
+        "name": "グレースたなか",
+        "name:en": "GRACE TANAKA",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7928604,
+          34.9349253
+        ]
+      },
+      "properties": {
+        "brand": "イズミヤ",
+        "brand:en": "Izumiya",
+        "brand:ja": "イズミヤ",
+        "brand:wikidata": "Q11286632",
+        "name": "イズミヤ",
+        "name:en": "Izumiya",
+        "name:ja": "イズミヤ",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.6933817,
+          34.9486723
+        ]
+      },
+      "properties": {
+        "brand": "マツモト",
+        "name": "マツモト",
+        "name:en": "Matsumoto;Super Matsumoto",
+        "name:ja": "マツモト",
+        "name:ja_rm": "Matumoto",
+        "opening_hours": "Mo-Su 09:00-23:00",
+        "phone": "+81 75 335 5678",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7174556,
+          34.9672936
+        ]
+      },
+      "properties": {
+        "brand": "ダイエー",
+        "brand:en": "daiei",
+        "brand:ja": "ダイエー",
+        "brand:wikidata": "Q11316644",
+        "brand:wikipedia": "ja:ダイエー (店舗ブランド)",
+        "name": "ダイエー",
+        "name:en": "Daiei",
+        "name:ja": "ダイエー",
+        "name:ja_rm": "Daie",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7515486,
+          35.0311067
+        ]
+      },
+      "properties": {
+        "brand": "FRESCO",
+        "name": "スーパーフレスコ",
+        "name:en": "FRESCO",
+        "name:ja": "スーパーフレスコ",
+        "name:ja_rm": "Supa Furesuko",
+        "opening_hours": "24/7",
+        "shop": "supermarket",
+        "source": "survey",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7445607,
+          35.0303259
+        ]
+      },
+      "properties": {
+        "brand": "業務スーパー",
+        "brand:en": "Gyomu Super",
+        "brand:ja": "業務スーパー",
+        "brand:ja-Latn": "Gyōmu sūpā",
+        "brand:wikidata": "Q11590183",
+        "name": "業務スーパー",
+        "name:en": "Gyomu Super",
+        "name:ja": "業務スーパー",
+        "name:ja-Latn": "Gyōmu sūpā",
+        "opening_hours": "Mo-Su 09:00-21:00",
+        "shop": "supermarket",
+        "source": "survey"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.727814,
+          34.9357202
+        ]
+      },
+      "properties": {
+        "name": "新鮮館コスモ",
+        "shop": "supermarket",
+        "source": "survey"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7330539,
+          34.9791186
+        ]
+      },
+      "properties": {
+        "brand": "グルメシティ",
+        "brand:en": "Gourmet City",
+        "brand:ja": "グルメシティ",
+        "brand:wikidata": "Q11300647",
+        "name": "グルメシティ",
+        "name:en": "Gourmet City",
+        "name:ja": "グルメシティ",
+        "name:ja_rm": "Gurumeshithi",
+        "shop": "supermarket",
+        "source": "survey"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.787881,
+          35.0746667
+        ]
+      },
+      "properties": {
+        "name": "エムジー",
+        "shop": "supermarket",
+        "source": "survey"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7615792,
+          34.9625946
+        ]
+      },
+      "properties": {
+        "brand": "業務スーパー",
+        "brand:en": "Gyomu Super",
+        "brand:ja": "業務スーパー",
+        "brand:ja-Latn": "Gyōmu sūpā",
+        "brand:wikidata": "Q105687460",
+        "name": "業務スーパー",
+        "name:en": "Gyomu Super",
+        "name:ja": "業務スーパー",
+        "name:ja-Latn": "Gyōmu sūpā",
+        "name:ja_rm": "Gyomu Supa",
+        "operator": "神戸物産",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.725198,
+          34.9991123
+        ]
+      },
+      "properties": {
+        "brand": "業務スーパー",
+        "name": "業務スーパー",
+        "name:en": "Gyomu Super",
+        "name:ja": "業務スーパー",
+        "name:ja_rm": "Gyomu Supa",
+        "operator": "神戸物産",
+        "shop": "supermarket",
+        "source": "survey"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7167934,
+          35.044111
+        ]
+      },
+      "properties": {
+        "name": "Marusho",
+        "shop": "supermarket",
+        "source": "survey"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7252403,
+          35.0106686
+        ]
+      },
+      "properties": {
+        "brand": "マツモト",
+        "name": "マツモト",
+        "name:en": "Matsumoto",
+        "name:ja": "マツモト",
+        "name:ja_rm": "Matumoto",
+        "operator": "株式会社マツモト",
+        "shop": "supermarket",
+        "source": "survey"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7245566,
+          34.9899715
+        ]
+      },
+      "properties": {
+        "name": "A-PRICE",
+        "shop": "supermarket",
+        "source": "survey"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7769386,
+          35.0442335
+        ]
+      },
+      "properties": {
+        "name": "コープ下鴨",
+        "shop": "supermarket",
+        "source": "survey",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7359528,
+          35.0187842
+        ]
+      },
+      "properties": {
+        "brand": "FRESCO",
+        "name": "スーパーフレスコ",
+        "name:en": "FRESCO",
+        "name:ja": "スーパーフレスコ",
+        "name:ja_rm": "Supa Furesuko",
+        "operator": "ハートフレンド",
+        "shop": "supermarket",
+        "source": "survey"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7418046,
+          35.0124892
+        ]
+      },
+      "properties": {
+        "brand": "サンディ",
+        "brand:en": "Sundi",
+        "brand:ja": "サンディ",
+        "brand:wikidata": "Q11305717",
+        "name": "サンディ",
+        "name:ja": "サンディ",
+        "opening_hours": "Mo-Su 10:00-19:30",
+        "shop": "supermarket",
+        "source": "survey"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.742604,
+          35.024352
+        ]
+      },
+      "properties": {
+        "brand": "FRESCO",
+        "name": "スーパーフレスコ",
+        "name:en": "FRESCO",
+        "name:ja": "スーパーフレスコ",
+        "name:ja_rm": "Supa Furesuko",
+        "opening_hours": "24/7",
+        "operator": "FRESCO",
+        "shop": "supermarket",
+        "source": "survey",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7320002,
+          34.9897318
+        ]
+      },
+      "properties": {
+        "brand": "ライフ",
+        "brand:en": "Life",
+        "brand:ja": "ライフ",
+        "brand:wikidata": "Q11346476",
+        "brand:wikipedia": "ja:ライフコーポレーション",
+        "name": "ライフ",
+        "name:en": "Life",
+        "name:ja": "ライフ",
+        "name:ja_rm": "Raifu",
+        "operator": "ライフコーポレーション",
+        "shop": "supermarket",
+        "source": "survey"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7321763,
+          35.0107055
+        ]
+      },
+      "properties": {
+        "brand": "FRESCO",
+        "name": "スーパーフレスコ",
+        "name:en": "FRESCO",
+        "name:ja": "スーパーフレスコ",
+        "name:ja_rm": "Supa Furesuko",
+        "shop": "supermarket",
+        "source": "survey"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7726177,
+          35.0115612
+        ]
+      },
+      "properties": {
+        "addr:city": "Kyoto",
+        "branch": "川端店",
+        "brand": "FRESCO",
+        "name": "スーパーフレスコ",
+        "name:en": "FRESCO",
+        "name:ja": "スーパーフレスコ",
+        "name:ja_rm": "Supa Furesuko",
+        "opening_hours": "24/7",
+        "phone": "+81 75-762-2461",
+        "shop": "supermarket",
+        "source": "survey"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.751571,
+          35.0200656
+        ]
+      },
+      "properties": {
+        "addr:city": "上京区 (Kamigyo Ward)",
+        "addr:housename": "西橋詰町",
+        "addr:housenumber": "290",
+        "addr:postcode": "602-8138",
+        "addr:street": "堀川通 (Horikawa-dori);京都府道38号京都広河原美山線",
+        "brand": "FRESCO",
+        "name": "スーパーフレスコ",
+        "name:en": "FRESCO",
+        "name:ja": "スーパーフレスコ",
+        "name:ja_rm": "Supa Furesuko",
+        "opening_hours": "09:00-21:45",
+        "operator": "株式会社ハートフレンド",
+        "phone": "075-813-5931",
+        "shop": "supermarket",
+        "source": "survey",
+        "website": "http://www.super-fresco.co.jp/shop/horikawa/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7878002,
+          35.0762334
+        ]
+      },
+      "properties": {
+        "branch": "コープいわくら店",
+        "name": "KYOTO COOP",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7913946,
+          35.0340829
+        ]
+      },
+      "properties": {
+        "brand": "FRESCO",
+        "name": "スーパーフレスコ",
+        "name:en": "FRESCO",
+        "name:ja": "スーパーフレスコ",
+        "name:ja_rm": "Supa Furesuko",
+        "shop": "supermarket",
+        "source": "survey"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7921114,
+          35.023162
+        ]
+      },
+      "properties": {
+        "brand": "FRESCO",
+        "name": "スーパーフレスコ",
+        "name:en": "FRESCO",
+        "name:ja": "スーパーフレスコ",
+        "name:ja_rm": "Supa Furesuko",
+        "shop": "supermarket",
+        "source": "survey"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.779559,
+          35.0334607
+        ]
+      },
+      "properties": {
+        "branch": "さとのまえ",
+        "name": "生鮮館",
+        "shop": "supermarket",
+        "source": "survey"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7706408,
+          35.0174237
+        ]
+      },
+      "properties": {
+        "brand": "FRESCO",
+        "name": "スーパーフレスコ",
+        "name:en": "FRESCO",
+        "name:ja": "スーパーフレスコ",
+        "name:ja_rm": "Supa Furesuko",
+        "shop": "supermarket",
+        "source": "survey"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.6977636,
+          35.0215166
+        ]
+      },
+      "properties": {
+        "alt_name:en": "Co-op",
+        "brand": "コープ",
+        "brand:en": "CO・OP",
+        "brand:ja": "コープ",
+        "brand:wikidata": "Q11508615",
+        "name": "コープ",
+        "name:en": "CO・OP",
+        "name:ja": "コープ",
+        "official_name": "日本生活協同組合連合会",
+        "official_name:en": "Japanese Consumers' Co-operative Union",
+        "shop": "supermarket",
+        "source": "survey"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.778758,
+          35.017642
+        ]
+      },
+      "properties": {
+        "atm": "no",
+        "delivery": "yes",
+        "internet_access": "no",
+        "name": "SUN PLAZA 熊野店",
+        "phone": "+81-75-751-6868",
+        "shop": "supermarket",
+        "source": "survey",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.6997369,
+          35.0026608
+        ]
+      },
+      "properties": {
+        "name": "フレンドマート",
+        "shop": "supermarket",
+        "source": "survey"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.6976333,
+          35.0033955
+        ]
+      },
+      "properties": {
+        "brand": "業務スーパー",
+        "name": "業務スーパー",
+        "name:en": "Gyomu Super",
+        "name:ja": "業務スーパー",
+        "name:ja_rm": "Gyomu Supa",
+        "operator": "神戸物産",
+        "shop": "supermarket",
+        "source": "survey"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.6926819,
+          35.002124
+        ]
+      },
+      "properties": {
+        "brand": "FRESCO",
+        "name": "スーパーフレスコ",
+        "name:en": "FRESCO",
+        "name:ja": "スーパーフレスコ",
+        "name:ja_rm": "Supa Furesuko",
+        "shop": "supermarket",
+        "source": "survey"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7549982,
+          35.0038101
+        ]
+      },
+      "properties": {
+        "brand": "FRESCO",
+        "name": "スーパーフレスコ",
+        "name:en": "FRESCO",
+        "name:ja": "スーパーフレスコ",
+        "name:ja_rm": "Supa Furesuko",
+        "opening_hours": "24/7",
+        "shop": "supermarket",
+        "source": "Survey",
+        "toilets:wheelchair": "no",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7097509,
+          35.0189287
+        ]
+      },
+      "properties": {
+        "brand": "マツモト",
+        "name": "マツモト",
+        "name:en": "Matsumoto",
+        "name:ja": "マツモト",
+        "name:ja_rm": "Matumoto",
+        "operator": "株式会社マツモト",
+        "shop": "supermarket",
+        "source": "survey",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.747649,
+          35.025236
+        ]
+      },
+      "properties": {
+        "atm": "no",
+        "brand": "ライフ",
+        "brand:en": "Life",
+        "brand:ja": "ライフ",
+        "brand:wikidata": "Q11346476",
+        "name": "ライフ",
+        "name:en": "Life",
+        "name:ja": "ライフ",
+        "opening_hours": "Mo-Su 09:00-22:00",
+        "operator": "life",
+        "shop": "supermarket",
+        "source": "survey"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7092559,
+          35.0274167
+        ]
+      },
+      "properties": {
+        "name": "Friends Food",
+        "shop": "supermarket",
+        "source": "survey"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7692624,
+          35.0274628
+        ]
+      },
+      "properties": {
+        "name": "出町 輸入食品",
+        "shop": "supermarket",
+        "source": "survey"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7509565,
+          34.9447275
+        ]
+      },
+      "properties": {
+        "brand": "業務スーパー",
+        "brand:en": "Gyomu Super",
+        "brand:ja": "業務スーパー",
+        "brand:ja-Latn": "Gyōmu sūpā",
+        "brand:wikidata": "Q11590183",
+        "name": "業務スーパー",
+        "name:en": "Gyomu Super",
+        "name:ja": "業務スーパー",
+        "name:ja-Latn": "Gyōmu sūpā",
+        "name:ja_rm": "Gyomu Supa",
+        "operator": "神戸物産",
+        "shop": "supermarket",
+        "source": "survey"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7199926,
+          35.0069842
+        ]
+      },
+      "properties": {
+        "name": "フレンドマート",
+        "shop": "supermarket",
+        "source": "survey"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7513885,
+          35.0170585
+        ]
+      },
+      "properties": {
+        "brand": "イズミヤ",
+        "brand:en": "Izumiya",
+        "brand:ja": "イズミヤ",
+        "brand:wikidata": "Q11286632",
+        "name": "イズミヤ",
+        "name:en": "Izumiya",
+        "name:ja": "イズミヤ",
+        "opening_hours": "Mo-Su 09:00-00:00",
+        "phone": "0758210001",
+        "shop": "supermarket",
+        "source": "survey",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.6661384,
+          34.9834074
+        ]
+      },
+      "properties": {
+        "branch": "桂坂店",
+        "name": "デイリーカナート",
+        "shop": "supermarket",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.751567,
+          35.024025
+        ]
+      },
+      "properties": {
+        "name": "八百 さる",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7514928,
+          35.020161
+        ]
+      },
+      "properties": {
+        "name": "アイハート",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.6804315,
+          34.965148
+        ]
+      },
+      "properties": {
+        "name": "KYOTO COOP",
+        "shop": "supermarket",
+        "source": "survey"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7616031,
+          34.9398068
+        ]
+      },
+      "properties": {
+        "addr:city": "京都府京都市 伏見区下板橋町639",
+        "addr:postcode": "612-8073",
+        "name": "ハッピーテラダ伏見店",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7565066,
+          35.0110623
+        ]
+      },
+      "properties": {
+        "brand": "FRESCO",
+        "check_date": "2024-12-03",
+        "name": "スーパーフレスコ",
+        "name:en": "FRESCO",
+        "name:ja": "スーパーフレスコ",
+        "name:ja_rm": "Supa Furesuko",
+        "shop": "supermarket",
+        "source": "survey"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7153419,
+          35.0110319
+        ]
+      },
+      "properties": {
+        "brand": "FRESCO",
+        "name": "スーパーフレスコ",
+        "name:en": "FRESCO",
+        "name:ja": "スーパーフレスコ",
+        "name:ja_rm": "Supa Furesuko",
+        "shop": "supermarket",
+        "source": "survey"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7696765,
+          35.0282227
+        ]
+      },
+      "properties": {
+        "brand": "FRESCO",
+        "name": "スーパーフレスコ",
+        "name:en": "FRESCO",
+        "name:ja": "スーパーフレスコ",
+        "name:ja_rm": "Supa Furesuko",
+        "shop": "supermarket",
+        "source": "survey"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7433352,
+          35.0365627
+        ]
+      },
+      "properties": {
+        "name": "エムジー",
+        "name:ja": "エムジー",
+        "opening_hours": "Mo-Su 09:30-21:00",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "shop": "supermarket",
+        "source": "survey"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7326324,
+          34.9900774
+        ]
+      },
+      "properties": {
+        "brand": "FRESCO",
+        "name": "スーパーフレスコ",
+        "name:en": "FRESCO",
+        "name:ja": "スーパーフレスコ",
+        "name:ja_rm": "Supa Furesuko",
+        "shop": "supermarket",
+        "source": "survey"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7916538,
+          35.0444228
+        ]
+      },
+      "properties": {
+        "brand": "サンディ",
+        "brand:en": "Sundi",
+        "brand:ja": "サンディ",
+        "brand:wikidata": "Q11305717",
+        "name": "サンディ",
+        "name:ja": "サンディ",
+        "shop": "supermarket",
+        "source": "survey"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7502132,
+          35.0037569
+        ]
+      },
+      "properties": {
+        "name": "モリタ屋",
+        "shop": "supermarket",
+        "source": "survey"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.737911,
+          34.9785754
+        ]
+      },
+      "properties": {
+        "level": "0",
+        "name": "新鮮激安市場！",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7557676,
+          34.9959772
+        ]
+      },
+      "properties": {
+        "name": "フレスコ",
+        "opening_hours": "24/7",
+        "phone": "075-353-9751",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7634423,
+          34.933793
+        ]
+      },
+      "properties": {
+        "name": "阪急オアシス",
+        "shop": "supermarket",
+        "source": "survey"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.776982,
+          34.998962
+        ]
+      },
+      "properties": {
+        "name": "FRESCO",
+        "opening_hours": "24/7",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.766728,
+          35.0009878
+        ]
+      },
+      "properties": {
+        "branch": "四条寺町店",
+        "brand": "業務スーパー",
+        "brand:en": "Gyomu Super",
+        "brand:ja": "業務スーパー",
+        "brand:ja-Latn": "Gyōmu sūpā",
+        "brand:wikidata": "Q11590183",
+        "name": "業務スーパー",
+        "name:en": "Gyomu Super",
+        "name:ja": "業務スーパー",
+        "name:ja-Latn": "Gyōmu sūpā",
+        "opening_hours": "Mo-Su 09:00-22:00",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.766717,
+          35.000608
+        ]
+      },
+      "properties": {
+        "name": "FRESCO",
+        "opening_hours": "24/7",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.766475,
+          34.995597
+        ]
+      },
+      "properties": {
+        "addr:block_number": "16-21",
+        "addr:city": "京都市",
+        "addr:province": "京都府",
+        "addr:quarter": "五条通寺町西入御影堂町",
+        "addr:suburb": "下京区",
+        "name": "フレスコ五条大橋店",
+        "opening_hours": "24/7",
+        "phone": "+81 75 708 2921",
+        "shop": "supermarket",
+        "source": "Survey"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7456425,
+          34.9354519
+        ]
+      },
+      "properties": {
+        "brand": "バロー",
+        "brand:en": "Valor",
+        "brand:ja": "バロー",
+        "brand:wikidata": "Q11328346",
+        "brand:wikipedia": "ja:バロー (チェーンストア)",
+        "name": "バロー",
+        "name:en": "Valor",
+        "name:ja": "バロー",
+        "shop": "supermarket",
+        "source": "survey"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7405211,
+          35.0079871
+        ]
+      },
+      "properties": {
+        "name": "卸売ひろば タカギ",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.791744,
+          35.027176
+        ]
+      },
+      "properties": {
+        "level": "0;1",
+        "name": "マルギン",
+        "shop": "supermarket",
+        "source": "Survey"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.73254,
+          34.992862
+        ]
+      },
+      "properties": {
+        "name": "セントラルスクエア",
+        "shop": "supermarket",
+        "toilets:wheelchair": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7695416,
+          34.957216
+        ]
+      },
+      "properties": {
+        "branch": "藤森店",
+        "brand": "マックスバリュ",
+        "brand:en": "MaxValu",
+        "brand:ja": "マックスバリュ",
+        "brand:wikidata": "Q11340427",
+        "name": "マックスバリュ",
+        "name:en": "MaxValu",
+        "name:ja": "マックスバリュ",
+        "old_brand": "ダイエー",
+        "old_brand:en": "daiei",
+        "old_brand:ja": "ダイエー",
+        "old_brand:wikidata": "Q11316644",
+        "old_name": "ダイエー",
+        "old_name:en": "Daiei",
+        "old_name:ja": "ダイエー",
+        "opening_hours": "07:00-24:00",
+        "operator": "イオン株式会社",
+        "shop": "supermarket",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7952322,
+          34.9375905
+        ]
+      },
+      "properties": {
+        "check_date": "2024-09-20",
+        "level": "0",
+        "name": "フレンドマート",
+        "operator": "平和堂",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7638748,
+          35.0110748
+        ]
+      },
+      "properties": {
+        "name": "Fresco Oike",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7249234,
+          34.9947742
+        ]
+      },
+      "properties": {
+        "brand": "万代",
+        "brand:en": "MANDAI",
+        "brand:ja": "万代",
+        "brand:wikidata": "Q11353756",
+        "name": "万代",
+        "name:en": "MANDAI",
+        "name:ja": "万代",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7442315,
+          35.008394
+        ]
+      },
+      "properties": {
+        "name:en": "Fresco",
+        "opening_hours": "Mo-Su 09:00-01:00",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.6944781,
+          34.9906658
+        ]
+      },
+      "properties": {
+        "name": "マルシェ上桂",
+        "name:ja": "マルシェ上桂",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.762465,
+          34.9367035
+        ]
+      },
+      "properties": {
+        "name": "コープ桃山",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7747822,
+          34.9972357
+        ]
+      },
+      "properties": {
+        "name": "ハッピー六原",
+        "name:ja": "ハッピー六原",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7269918,
+          34.9887658
+        ]
+      },
+      "properties": {
+        "brand": "サンディ",
+        "brand:en": "Sundi",
+        "brand:ja": "サンディ",
+        "brand:wikidata": "Q11305717",
+        "name": "サンディ",
+        "name:ja": "サンディ",
+        "shop": "supermarket",
+        "source": "survey"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7363217,
+          34.9750717
+        ]
+      },
+      "properties": {
+        "name": "イオン京都洛南店",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7502011,
+          34.9738413
+        ]
+      },
+      "properties": {
+        "name": "いそかわ パケット十条店",
+        "name:ja": "いそかわ パケット十条店",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7731768,
+          35.0254687
+        ]
+      },
+      "properties": {
+        "name:en": "Life Supermarket",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7790144,
+          35.0285651
+        ]
+      },
+      "properties": {
+        "name": "¥100 Store (Can-do like)",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7692388,
+          35.0075051
+        ]
+      },
+      "properties": {
+        "addr:street": "六角通",
+        "brand": "業務スーパー",
+        "brand:en": "Gyomu Super",
+        "brand:ja": "業務スーパー",
+        "brand:ja-Latn": "Gyōmu sūpā",
+        "brand:wikidata": "Q11590183",
+        "name": "業務スーパー",
+        "name:en": "Gyomu Super",
+        "name:ja": "業務スーパー",
+        "name:ja-Latn": "Gyōmu sūpā",
+        "opening_hours": "Mo-Su 10:00-22:00",
+        "phone": "752115959",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7356924,
+          35.0161981
+        ]
+      },
+      "properties": {
+        "addr:street": "太子道",
+        "name": "業務スーパー",
+        "name:ja": "業務スーパー",
+        "opening_hours": "Mo-Su 10:00-20:00",
+        "phone": "758138444",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7510667,
+          34.9791185
+        ]
+      },
+      "properties": {
+        "brand": "FRESCO",
+        "level": "0",
+        "name": "スーパーフレスコ",
+        "name:en": "FRESCO",
+        "name:ja": "スーパーフレスコ",
+        "name:ja_rm": "Supa Furesuko",
+        "shop": "supermarket",
+        "source": "bing,survey"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7580336,
+          34.9977701
+        ]
+      },
+      "properties": {
+        "name": "Mini Stop",
+        "opening_hours": "24/7",
+        "phone": "075-341-6616",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7572976,
+          35.0172435
+        ]
+      },
+      "properties": {
+        "branch": "丸太町店",
+        "name": "フレスコ",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7473676,
+          35.0085811
+        ]
+      },
+      "properties": {
+        "brand": "西友",
+        "brand:en": "Seiyu",
+        "brand:ja": "西友",
+        "brand:wikidata": "Q3108542",
+        "name": "西友",
+        "name:en": "Seiyu",
+        "name:ja": "西友",
+        "opening_hours": "Mo-Su 09:00-21:00",
+        "shop": "supermarket",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7547282,
+          34.9823968
+        ]
+      },
+      "properties": {
+        "branch": "京都店",
+        "check_date": "2023-10-05",
+        "name": "KOHYO",
+        "shop": "supermarket",
+        "website": "https://www.kohyo.co.jp/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7060995,
+          34.975473
+        ]
+      },
+      "properties": {
+        "name": "スーパーマツモト",
+        "opening_hours": "Mo-Su 09:00-22:00",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7790033,
+          35.0093648
+        ]
+      },
+      "properties": {
+        "addr:city": "東山区",
+        "addr:neighbourhood": "６",
+        "addr:province": "京都府",
+        "addr:quarter": "三条通大橋東",
+        "name": "島田食料品店",
+        "name:en": "Shimada Grocery Store",
+        "opening_hours": "Mo-Su 09:00-19:00",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7789666,
+          35.0090094
+        ]
+      },
+      "properties": {
+        "name": "野田屋川魚店",
+        "name:en": "Nodaya River Fish Store",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7788952,
+          35.0085646
+        ]
+      },
+      "properties": {
+        "name": "阪本商店",
+        "name:en": "Sakamoto Store",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.683851,
+          34.9596637
+        ]
+      },
+      "properties": {
+        "branch": "洛西福西店",
+        "name": "マルシゲ",
+        "name:en": "Marushige",
+        "name:ja": "マルシゲ",
+        "opening_hours": "Mo-Su 09:30-20:00",
+        "phone": "+81 75 335 0771",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.6964155,
+          34.9728783
+        ]
+      },
+      "properties": {
+        "name": "ナチュラルプラス",
+        "organic": "only",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7197073,
+          34.9069472
+        ]
+      },
+      "properties": {
+        "branch": "淀店",
+        "brand": "業務スーパー",
+        "brand:en": "Gyomu Super",
+        "brand:ja": "業務スーパー",
+        "brand:ja-Latn": "Gyōmu sūpā",
+        "brand:wikidata": "Q11590183",
+        "name": "業務スーパー",
+        "name:en": "Gyomu Super",
+        "name:ja": "業務スーパー",
+        "name:ja-Latn": "Gyōmu sūpā",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7612486,
+          35.0076243
+        ]
+      },
+      "properties": {
+        "name:en": "Kyoto Yaoichi Honkan",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7036379,
+          34.9797315
+        ]
+      },
+      "properties": {
+        "name": "フレスコ",
+        "shop": "supermarket",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7014518,
+          34.9794716
+        ]
+      },
+      "properties": {
+        "name": "サムソン",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7678423,
+          34.9480832
+        ]
+      },
+      "properties": {
+        "name": "フレスコ 墨染店",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.749703,
+          35.0084661
+        ]
+      },
+      "properties": {
+        "name:en": "Premarché Organics",
+        "opening_hours": "Mo-Tu, Th-Sa 10:00-18:00",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.760373,
+          34.9547768
+        ]
+      },
+      "properties": {
+        "name": "フレスコ",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7066032,
+          34.9801118
+        ]
+      },
+      "properties": {
+        "name": "デリカシェフ",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7358937,
+          35.0140627
+        ]
+      },
+      "properties": {
+        "name": "阪急オアシス",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7780659,
+          35.0514193
+        ]
+      },
+      "properties": {
+        "branch": "松ヶ崎店",
+        "brand": "ライフ",
+        "name": "ライフ",
+        "name:en": "Life",
+        "name:ja": "ライフ",
+        "name:ja-Hira": "らいふ",
+        "name:ja-Latn": "Raifu",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7804283,
+          35.0340436
+        ]
+      },
+      "properties": {
+        "name": "FRESCOmini",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7741402,
+          34.9837212
+        ]
+      },
+      "properties": {
+        "name:en": "Fresco",
+        "opening_hours": "24/7",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7884004,
+          35.0164204
+        ]
+      },
+      "properties": {
+        "branch": "岡崎店",
+        "name": "Fresco",
+        "name:en": "Fresco",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7697634,
+          35.0174167
+        ]
+      },
+      "properties": {
+        "addr:housenumber": "536",
+        "addr:postcode": "602-8072",
+        "branch": "河原町丸太町店",
+        "name": "ファーマーズ",
+        "name:en": "Farmers",
+        "name:ja": "ファーマーズ",
+        "opening_hours": "Mo-Su 08:00-21:00",
+        "organic": "only",
+        "phone": "+81 75 212 6340",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7583267,
+          35.0292544
+        ]
+      },
+      "properties": {
+        "level": "0",
+        "name": "フレスコ",
+        "name:ja": "フレスコ",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7732319,
+          35.0254856
+        ]
+      },
+      "properties": {
+        "name": "Suoermercato con roba pronta",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7789076,
+          35.0328518
+        ]
+      },
+      "properties": {
+        "name": "Spesa cibo Thefye",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7679663,
+          35.0426691
+        ]
+      },
+      "properties": {
+        "name": "Grace Tanaka",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7609852,
+          35.0084322
+        ]
+      },
+      "properties": {
+        "addr:street": "東洞院通",
+        "name:en": "Cocolo",
+        "opening_hours": "Mo, We-Sa 11:00-19:00; Su 11:00-18:00",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7705294,
+          35.0344484
+        ]
+      },
+      "properties": {
+        "name:en": "Organic Vege Annex",
+        "opening_hours": "Mo-Sa 10:30-19:00; Su 10:30-17:00",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7584964,
+          35.00267
+        ]
+      },
+      "properties": {
+        "name:en": "Quality Food Supermarket",
+        "opening_hours": "Mo-Su 09:00-22:00",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7687146,
+          35.0303769
+        ]
+      },
+      "properties": {
+        "name": "アイハート",
+        "shop": "supermarket",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7693303,
+          35.0303369
+        ]
+      },
+      "properties": {
+        "name": "ゑびす屋",
+        "shop": "supermarket",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.692751,
+          34.9849782
+        ]
+      },
+      "properties": {
+        "name": "フレスコ",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7079637,
+          34.9804495
+        ]
+      },
+      "properties": {
+        "name": "サンディ桂店",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.6296659,
+          35.1736239
+        ]
+      },
+      "properties": {
+        "name:en": "Mini Market",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.6333665,
+          35.1561572
+        ]
+      },
+      "properties": {
+        "name:en": "Farmer’s Market",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.695076,
+          34.9839162
+        ]
+      },
+      "properties": {
+        "name": "ショップ5条",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7022189,
+          34.9908525
+        ]
+      },
+      "properties": {
+        "name": "フレスコ",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7321668,
+          35.0264068
+        ]
+      },
+      "properties": {
+        "name": "長文屋",
+        "opening_hours": "We, Fr-Mo 10:00-18:00",
+        "phone": "075-467-0217",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.686043,
+          35.0173831
+        ]
+      },
+      "properties": {
+        "branch": "SAGA店",
+        "name": "フレスコ",
+        "opening_hours": "Mo-Su 09:00-21:00",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.6891245,
+          35.0173765
+        ]
+      },
+      "properties": {
+        "name": "エムジー",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.8111519,
+          34.9510728
+        ]
+      },
+      "properties": {
+        "addr:block_number": "1",
+        "addr:city": "京都市",
+        "addr:housenumber": "37",
+        "addr:postcode": "601-1375",
+        "addr:province": "京都府",
+        "addr:quarter": "醍醐高畑町",
+        "addr:suburb": "伏見区",
+        "check_date": "2023-11-19",
+        "level": "0;1;2",
+        "name": "アルプラザ醍醐",
+        "operator": "平和堂",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7697617,
+          35.0089823
+        ]
+      },
+      "properties": {
+        "name": "明治屋",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.823504,
+          34.9757677
+        ]
+      },
+      "properties": {
+        "check_date": "2024-08-11",
+        "name": "マツヤスーパー",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7585624,
+          34.9336886
+        ]
+      },
+      "properties": {
+        "brand": "業務スーパー",
+        "brand:en": "Gyomu Super",
+        "brand:ja": "業務スーパー",
+        "brand:ja-Latn": "Gyōmu sūpā",
+        "brand:wikidata": "Q11590183",
+        "name": "業務スーパー",
+        "name:en": "Gyomu Super",
+        "name:ja": "業務スーパー",
+        "name:ja-Latn": "Gyōmu sūpā",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.753031,
+          35.0379077
+        ]
+      },
+      "properties": {
+        "addr:city": "京都市",
+        "addr:housenumber": "10",
+        "addr:province": "京都府",
+        "addr:quarter": "紫野宮東町",
+        "addr:suburb": "北区",
+        "branch": "紫明店",
+        "name": "生鮮館なかむら",
+        "opening_hours": "9:00-21:00",
+        "phone": "075-431-4158",
+        "shop": "supermarket",
+        "website": "https://seisenkan-nakamura.co.jp/shop/shimei/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7754836,
+          35.0284157
+        ]
+      },
+      "properties": {
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7701293,
+          34.9479739
+        ]
+      },
+      "properties": {
+        "name": "チャコルマート墨染",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7476526,
+          34.9464798
+        ]
+      },
+      "properties": {
+        "name": "A-プライス",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7671433,
+          35.0157783
+        ]
+      },
+      "properties": {
+        "name": "ZERO WASTE KYOTO",
+        "organic": "yes",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7590381,
+          35.0375946
+        ]
+      },
+      "properties": {
+        "name": "Howdy",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7680811,
+          34.9585855
+        ]
+      },
+      "properties": {
+        "name": "JA",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7692435,
+          34.9572336
+        ]
+      },
+      "properties": {
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7583668,
+          35.0440204
+        ]
+      },
+      "properties": {
+        "name": "オーガニックプラザ",
+        "name:en": "Organic Plaza",
+        "organic": "only",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7584453,
+          35.0449259
+        ]
+      },
+      "properties": {
+        "name": "KOHYO",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7426227,
+          35.0257459
+        ]
+      },
+      "properties": {
+        "brand": "イズミヤ",
+        "brand:en": "Izumiya",
+        "brand:ja": "イズミヤ",
+        "brand:wikidata": "Q11286632",
+        "name": "イズミヤ",
+        "name:en": "Izumiya",
+        "name:ja": "イズミヤ",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.792087,
+          35.045952
+        ]
+      },
+      "properties": {
+        "name:ja": "業務スーパー北白川店",
+        "shop": "supermarket",
+        "name": "業務スーパー北白川店"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7915842,
+          35.0497876
+        ]
+      },
+      "properties": {
+        "branch": "京都修学院小町",
+        "name": "イオンスタイル",
+        "name:en": "AEON STYLE",
+        "name:ja": "イオンスタイル",
+        "not:brand:wikidata": "Q11285951",
+        "operator": "イオンリテール株式会社",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:icsf": "yes",
+        "payment:waon": "yes",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7339462,
+          34.9764527
+        ]
+      },
+      "properties": {
+        "brand": "サンディ",
+        "brand:en": "Sundi",
+        "brand:ja": "サンディ",
+        "brand:wikidata": "Q11305717",
+        "name": "サンディ",
+        "name:ja": "サンディ",
+        "opening_hours": "Mo-Su 10:00-19:30",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7205011,
+          35.2043666
+        ]
+      },
+      "properties": {
+        "name": "おーらい黒田屋",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7542766,
+          35.0038412
+        ]
+      },
+      "properties": {
+        "addr:city": "京都市",
+        "addr:neighbourhood": "蟷螂山町",
+        "addr:province": "京都府",
+        "addr:quarter": "四條通",
+        "addr:suburb": "中京区",
+        "branch": "四条堀川店",
+        "brand": "ライフ",
+        "brand:en": "Life",
+        "brand:ja": "ライフ",
+        "brand:wikidata": "Q11346476",
+        "level": "1",
+        "name": "ライフ",
+        "name:en": "Life",
+        "name:ja": "ライフ",
+        "opening_hours": "-2400",
+        "payment:cash": "yes",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7454392,
+          35.003424
+        ]
+      },
+      "properties": {
+        "name:en": "LIFE Supermarket",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7583637,
+          35.0441746
+        ]
+      },
+      "properties": {
+        "name": "Jupiter",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.6976148,
+          35.0109105
+        ]
+      },
+      "properties": {
+        "name:en": "Coremo - Sagano",
+        "name:ja": "コレモ 嵯峨野店",
+        "shop": "supermarket",
+        "name": "コレモ 嵯峨野店"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7648474,
+          35.0088836
+        ]
+      },
+      "properties": {
+        "name:en": "Ikeuchi Organic Kyoto Store",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7208757,
+          35.0043005
+        ]
+      },
+      "properties": {
+        "brand": "イオン",
+        "brand:en": "AEON",
+        "brand:ja": "イオン",
+        "brand:wikidata": "Q11285951",
+        "name": "イオン",
+        "name:en": "AEON",
+        "name:ja": "イオン",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.8013944,
+          34.9437124
+        ]
+      },
+      "properties": {
+        "check_date": "2024-10-03",
+        "internet_access": "no",
+        "name": "サンディ",
+        "name:ja": "サンディ",
+        "opening_hours": "10:00-19:30",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "shop": "supermarket",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7400189,
+          35.0291183
+        ]
+      },
+      "properties": {
+        "name": "Kohyo",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.8026448,
+          34.9398458
+        ]
+      },
+      "properties": {
+        "check_date": "2024-09-08",
+        "name": "コレモフレスコ",
+        "name:ja": "コレモフレスコ",
+        "opening_hours": "10:00-20:00",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7515679,
+          35.0200481
+        ]
+      },
+      "properties": {
+        "name": "フレスコ",
+        "name:ja": "フレスコ",
+        "name:ja-Latn": "Fresco",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7623321,
+          34.9323354
+        ]
+      },
+      "properties": {
+        "name": "イオンスタイル伏見桃山",
+        "shop": "supermarket",
+        "start_date": "2024-10-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7490149,
+          34.9994409
+        ]
+      },
+      "properties": {
+        "name": "サンディ",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7742279,
+          34.9838132
+        ]
+      },
+      "properties": {
+        "name:en": "Fresco",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7703114,
+          35.0112304
+        ]
+      },
+      "properties": {
+        "name:en": "Supermarket",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7576016,
+          34.9844813
+        ]
+      },
+      "properties": {
+        "addr:floor": "0",
+        "check_date": "2025-09-16",
+        "level": "0",
+        "name": "Harves",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7328367416667,
+          35.033793325
+        ]
+      },
+      "properties": {
+        "building": "yes",
+        "name": "コープきぬがさ",
+        "operator": "京都生活協同組合",
+        "shop": "supermarket",
+        "source": "GSImaps/std;GSImaps/ort"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.74309523000002,
+          34.99725402
+        ]
+      },
+      "properties": {
+        "building": "retail",
+        "name": "マツモト五条店",
+        "name:en": "Matsumoto Gojo",
+        "name:ja": "マツモト五条店",
+        "opening_hours": "Mo-Su 09:00-20:00",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.74512933000003,
+          35.0514143
+        ]
+      },
+      "properties": {
+        "branch": "北山店",
+        "brand": "グルメシティ",
+        "brand:en": "Gourmet City",
+        "brand:ja": "グルメシティ",
+        "brand:wikidata": "Q11300647",
+        "building": "retail",
+        "name": "グルメシティ",
+        "name:en": "Gourmet City",
+        "name:ja": "グルメシティ",
+        "name:ja_rm": "Gurumeshithi",
+        "shop": "supermarket",
+        "source": "Bing;survey;GSImaps/ort;GSImaps/std"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7412934,
+          35.01214125
+        ]
+      },
+      "properties": {
+        "addr:floor": "1",
+        "alt_name:en": "Co-op",
+        "branch": "二条駅",
+        "brand": "コープ",
+        "brand:en": "CO・OP",
+        "brand:ja": "コープ",
+        "brand:wikidata": "Q11508615",
+        "building": "retail",
+        "check_date": "2025-09-13",
+        "level": "0",
+        "name": "コープ",
+        "name:en": "CO・OP",
+        "name:ja": "コープ",
+        "official_name": "日本生活協同組合連合会",
+        "official_name:en": "Japanese Consumers' Co-operative Union",
+        "official_name:ja": "日本生活協同組合連合会",
+        "opening_hours": "09:00-22:00",
+        "payment:alipay": "yes",
+        "payment:cash": "yes",
+        "payment:paypay": "yes",
+        "shop": "supermarket",
+        "source": "bing"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7876523,
+          35.073909212500006
+        ]
+      },
+      "properties": {
+        "landuse": "retail",
+        "shop": "supermarket",
+        "source": "Bing"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.74342577500002,
+          35.052307875
+        ]
+      },
+      "properties": {
+        "addr:city": "北区紫竹北栗栖町",
+        "addr:housenumber": "5",
+        "addr:postcode": "603-8435",
+        "building": "retail",
+        "name": "マツモト 北山店",
+        "opening_hours": "9:00-22:00",
+        "phone": "+81 75 493 3458",
+        "shop": "supermarket",
+        "website": "http://super-matsumoto.co.jp/map/index.html"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.74132155555557,
+          35.05503802222222
+        ]
+      },
+      "properties": {
+        "access": "permissive",
+        "branch": "北山店",
+        "building": "retail",
+        "fee": "yes",
+        "name": "業務スーパー　北山店",
+        "shop": "supermarket",
+        "source": "Bing;survey"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.79032285333335,
+          35.050422913333335
+        ]
+      },
+      "properties": {
+        "branch": "修学院店",
+        "building": "yes",
+        "name": "フレスコ",
+        "name:en": "Fresco",
+        "phone": "+81 75 707 6951",
+        "shop": "supermarket",
+        "source": "Bing"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.76538878000002,
+          35.00190938
+        ]
+      },
+      "properties": {
+        "building": "yes",
+        "level": "0",
+        "name": "新鮮激安市場！ 四条麩屋町店",
+        "opening_hours": "09:00-22:00",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.77551341999998,
+          35.0284054
+        ]
+      },
+      "properties": {
+        "building": "yes",
+        "name": "コレモ出町柳店",
+        "shop": "supermarket",
+        "source": "Bing"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.71703452083332,
+          35.01495556666666
+        ]
+      },
+      "properties": {
+        "brand": "ライフ",
+        "brand:en": "Life",
+        "brand:ja": "ライフ",
+        "brand:wikidata": "Q11346476",
+        "landuse": "retail",
+        "name": "ライフ",
+        "name:en": "Life",
+        "name:ja": "ライフ",
+        "name:ja_rm": "Raifu",
+        "shop": "supermarket",
+        "source": "survey",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.72393184,
+          34.9307133
+        ]
+      },
+      "properties": {
+        "building": "retail",
+        "building:levels": "1",
+        "shop": "supermarket",
+        "source": "bing"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7272609,
+          34.9316821375
+        ]
+      },
+      "properties": {
+        "building": "yes",
+        "shop": "supermarket",
+        "source": "bing"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7269885272727,
+          34.97183695454545
+        ]
+      },
+      "properties": {
+        "brand": "業務スーパー",
+        "building": "yes",
+        "name": "業務スーパー",
+        "name:en": "Gyomu Super",
+        "name:ja": "業務スーパー",
+        "name:ja-Hira": "ぎょうむすーぱー",
+        "name:ja-Latn": "Gyōmu Sūpā",
+        "shop": "supermarket",
+        "source": "bing"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.73868978333334,
+          34.97885575833333
+        ]
+      },
+      "properties": {
+        "building": "retail",
+        "name": "フレスコ",
+        "name:en": "FRESCO",
+        "name:ja": "フレスコ",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.73547736,
+          35.00446316
+        ]
+      },
+      "properties": {
+        "building": "retail",
+        "building:levels": "4",
+        "name": "阪急オアシス",
+        "name:en": "Hankyu OASYS",
+        "shop": "supermarket",
+        "source": "Bing"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.734044292,
+          34.99965770400001
+        ]
+      },
+      "properties": {
+        "brand": "ライフ",
+        "brand:en": "Life",
+        "brand:ja": "ライフ",
+        "brand:wikidata": "Q11346476",
+        "brand:wikipedia": "ja:ライフコーポレーション",
+        "building": "retail",
+        "name": "ライフ",
+        "name:en": "Life",
+        "name:ja": "ライフ",
+        "name:ja_rm": "Raifu",
+        "shop": "supermarket",
+        "source": "Bing; survey"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.716317,
+          35.013674144444444
+        ]
+      },
+      "properties": {
+        "name": "お肉のスーパー やまむらや",
+        "shop": "supermarket",
+        "source": "Bing; survey"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.76312529999998,
+          35.08922116666667
+        ]
+      },
+      "properties": {
+        "branch": "市原野店",
+        "building": "retail",
+        "name": "Aコープ",
+        "shop": "supermarket",
+        "source": "Bing; survey"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.81767731111114,
+          34.98742083333333
+        ]
+      },
+      "properties": {
+        "brand": "サンディ",
+        "brand:en": "Sundi",
+        "brand:ja": "サンディ",
+        "brand:wikidata": "Q11305717",
+        "building": "retail",
+        "name": "サンディ",
+        "name:ja": "サンディ",
+        "shop": "supermarket",
+        "source": "survey"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.81612855999998,
+          34.97377074
+        ]
+      },
+      "properties": {
+        "branch": "山科椥辻",
+        "brand": "イオンタウン",
+        "building": "retail",
+        "name": "イオンタウン",
+        "shop": "supermarket",
+        "source": "GSImaps/ort;GSImaps/std"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.79104092272726,
+          35.02849517727273
+        ]
+      },
+      "properties": {
+        "building": "retail",
+        "name": "大国屋",
+        "name:en": "DAIKOKUYA",
+        "shop": "supermarket",
+        "source": "Bing; survey"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.68261256190476,
+          35.0210727952381
+        ]
+      },
+      "properties": {
+        "brand": "グルメシティ",
+        "brand:en": "Gourmet City",
+        "brand:ja": "グルメシティ",
+        "brand:wikidata": "Q11300647",
+        "building": "retail",
+        "name": "グルメシティ",
+        "name:en": "Gourmet City",
+        "name:ja": "グルメシティ",
+        "name:ja_rm": "Gurumeshithi",
+        "opening_hours": "09:00-21:00",
+        "operator": "ダイエー",
+        "shop": "supermarket",
+        "source": "Bing; survey"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.71281268461541,
+          34.999741484615384
+        ]
+      },
+      "properties": {
+        "building": "retail",
+        "shop": "supermarket",
+        "source": "Bing"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7633445333333,
+          34.946843155555555
+        ]
+      },
+      "properties": {
+        "branch": "伏見店",
+        "building": "retail",
+        "name": "デイリーカナートイズミヤ",
+        "name:en": "Qanat Mall Fushimi",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.76542256000002,
+          34.968707939999994
+        ]
+      },
+      "properties": {
+        "brand": "ライフ",
+        "brand:en": "Life",
+        "brand:ja": "ライフ",
+        "brand:wikidata": "Q11346476",
+        "building": "retail",
+        "name": "ライフ",
+        "name:en": "Life",
+        "name:ja": "ライフ",
+        "name:ja_rm": "Raifu",
+        "opening_hours": "Mo-Su 09:00-21:45",
+        "shop": "supermarket",
+        "source": "Bing"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7996219,
+          34.97214938
+        ]
+      },
+      "properties": {
+        "building": "retail",
+        "name": "Via301",
+        "shop": "supermarket",
+        "source": "Bing"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.69590078000002,
+          35.02069023
+        ]
+      },
+      "properties": {
+        "brand": "万代",
+        "brand:en": "MANDAI",
+        "brand:ja": "万代",
+        "brand:wikidata": "Q11353756",
+        "building": "retail",
+        "name": "万代",
+        "name:en": "MANDAI",
+        "name:ja": "万代",
+        "shop": "supermarket",
+        "source": "Bing; survey"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.8163397,
+          34.9847209
+        ]
+      },
+      "properties": {
+        "brand": "西友",
+        "brand:en": "Seiyu",
+        "brand:ja": "西友",
+        "brand:wikidata": "Q3108542",
+        "brand:wikipedia": "en:Seiyu Group",
+        "landuse": "retail",
+        "name": "西友",
+        "name:en": "Seiyu",
+        "name:ja": "西友",
+        "name:ja_rm": "Seiyu",
+        "shop": "supermarket",
+        "source": "Bing; survey"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7087403230769,
+          35.019065061538456
+        ]
+      },
+      "properties": {
+        "brand": "業務スーパー",
+        "brand:en": "Gyomu Super",
+        "brand:ja": "業務スーパー",
+        "brand:ja-Latn": "Gyōmu sūpā",
+        "brand:wikidata": "Q11590183",
+        "building": "retail",
+        "name": "業務スーパー",
+        "name:en": "Gyomu Super",
+        "name:ja": "業務スーパー",
+        "name:ja-Latn": "Gyōmu sūpā",
+        "name:ja_rm": "Gyomu Supa",
+        "operator": "神戸物産",
+        "shop": "supermarket",
+        "source": "Bing; survey"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.80388791538462,
+          34.99539863846154
+        ]
+      },
+      "properties": {
+        "brand": "業務スーパー",
+        "brand:en": "Gyomu Super",
+        "brand:ja": "業務スーパー",
+        "brand:ja-Latn": "Gyōmu sūpā",
+        "brand:wikidata": "Q105687460",
+        "building": "retail",
+        "name": "業務スーパー",
+        "name:en": "Gyomu Super",
+        "name:ja": "業務スーパー",
+        "name:ja-Latn": "Gyōmu sūpā",
+        "name:ja_rm": "Gyomu Supa",
+        "operator": "神戸物産",
+        "shop": "supermarket",
+        "source": "Bing"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.8176799375,
+          34.984127125
+        ]
+      },
+      "properties": {
+        "building": "retail",
+        "name": "フレスコ",
+        "shop": "supermarket",
+        "source": "Bing"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.814076825,
+          34.96739863125
+        ]
+      },
+      "properties": {
+        "check_date": "2024-08-11",
+        "landuse": "retail",
+        "name": "マツヤスーパー",
+        "shop": "supermarket",
+        "source": "Bing; survey"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.80787878750002,
+          34.943525987499996
+        ]
+      },
+      "properties": {
+        "check_date": "2024-09-17",
+        "landuse": "retail",
+        "name": "KYOTO COOP",
+        "shop": "supermarket",
+        "source": "Bing; survey"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.67215536363636,
+          34.97211320909091
+        ]
+      },
+      "properties": {
+        "brand": "業務スーパー",
+        "brand:en": "Gyōmu sūpā",
+        "brand:ja": "業務スーパー",
+        "brand:wikidata": "Q11590183",
+        "landuse": "retail",
+        "name": "業務スーパー",
+        "name:en": "Gyōmu sūpā",
+        "name:ja": "業務スーパー",
+        "name:ja_rm": "Gyomu Supa",
+        "shop": "supermarket",
+        "source": "Bing; survey"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.77777885862068,
+          34.918106158620695
+        ]
+      },
+      "properties": {
+        "brand": "近商ストア",
+        "brand:wikidata": "Q11638414",
+        "building": "retail",
+        "name": "近商ストア",
+        "name:en": "KINSHO",
+        "opening_hours": "9:00-20:00",
+        "shop": "supermarket",
+        "source": "Bing",
+        "wikidata": "Q11638414",
+        "wikipedia": "ja:近商ストア"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.77277162857143,
+          34.92301848571429
+        ]
+      },
+      "properties": {
+        "brand": "FRESCO",
+        "landuse": "retail",
+        "name": "スーパーフレスコ",
+        "name:en": "FRESCO",
+        "name:ja": "スーパーフレスコ",
+        "name:ja_rm": "Supa Furesuko",
+        "shop": "supermarket",
+        "source": "Bing; survey"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.79129233999998,
+          35.03805976
+        ]
+      },
+      "properties": {
+        "building": "yes",
+        "name": "ライフ北白川店",
+        "shop": "supermarket",
+        "source": "GSI/KIBAN 2500;NARO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.71534648333335,
+          35.01110433333333
+        ]
+      },
+      "properties": {
+        "building": "yes",
+        "shop": "supermarket",
+        "source": "GSI/KIBAN 2500; NARO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.71299539999998,
+          34.99515645714286
+        ]
+      },
+      "properties": {
+        "building": "retail",
+        "name": "マルヤマ",
+        "shop": "supermarket",
+        "source": "GSI/KIBAN 2500; NARO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.70313467,
+          34.99290114
+        ]
+      },
+      "properties": {
+        "brand": "マツモト",
+        "landuse": "retail",
+        "name": "マツモト",
+        "name:en": "Matsumoto",
+        "name:ja": "マツモト",
+        "name:ja_rm": "Matumoto",
+        "shop": "supermarket",
+        "source": "survey"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.70243390000002,
+          34.994145675
+        ]
+      },
+      "properties": {
+        "brand": "業務スーパー",
+        "brand:en": "Gyōmu sūpā",
+        "brand:ja": "業務スーパー",
+        "brand:wikidata": "Q11590183",
+        "brand:wikipedia": "ja:神戸物産",
+        "landuse": "retail",
+        "name": "業務スーパー",
+        "name:en": "Gyōmu sūpā",
+        "name:ja": "業務スーパー",
+        "name:ja_rm": "Gyomu Supa",
+        "operator": "神戸物産",
+        "shop": "supermarket",
+        "source": "Bing; survey"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.71781592,
+          34.962360079999996
+        ]
+      },
+      "properties": {
+        "name": "ジャパン",
+        "shop": "supermarket",
+        "source": "survey"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.69449519999998,
+          34.96919392857143
+        ]
+      },
+      "properties": {
+        "addr:city": "西京区",
+        "addr:housenumber": "樫原比恵田町２２−１",
+        "addr:postcode": "615-8134",
+        "addr:street": "物集女街道 (Mozume Kaido);京都府道・大阪府道67号西京高槻線",
+        "branch": "樫原店",
+        "name": "万代",
+        "name:en": "mandai",
+        "name:ja": "万代",
+        "opening_hours": "09:00-22:00",
+        "shop": "supermarket",
+        "source": "Bing; survey"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.69430461666667,
+          34.96982503333333
+        ]
+      },
+      "properties": {
+        "name": "新鮮激安市場",
+        "shop": "supermarket",
+        "source": "Bing; survey"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.80155566153846,
+          34.987513530769235
+        ]
+      },
+      "properties": {
+        "building": "retail",
+        "name": "フレスコ",
+        "name:en": "FRESCO",
+        "name:ja": "フレスコ",
+        "shop": "supermarket",
+        "source": "survey"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.74610064285713,
+          34.93964742142857
+        ]
+      },
+      "properties": {
+        "brand": "SEIYU",
+        "building": "retail",
+        "name": "西友",
+        "name:en": "SEIYU",
+        "name:ja": "西友",
+        "name:ja_rm": "Seiyu",
+        "operator": "西友",
+        "shop": "supermarket",
+        "source": "survey"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7781709363636,
+          35.00832969090909
+        ]
+      },
+      "properties": {
+        "building": "retail",
+        "name": "フレスコ",
+        "opening_hours": "24/7",
+        "shop": "supermarket",
+        "source": "Bing, 2007-12"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.81428265,
+          34.987320974999996
+        ]
+      },
+      "properties": {
+        "building": "retail",
+        "check_date": "2024-08-11",
+        "name": "マツヤスーパー",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.81139306666668,
+          34.9720525
+        ]
+      },
+      "properties": {
+        "building": "retail",
+        "name": "阪急オアシス　山科店",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7238642,
+          34.93072622857143
+        ]
+      },
+      "properties": {
+        "brand": "万代",
+        "brand:en": "MANDAI",
+        "brand:ja": "万代",
+        "brand:wikidata": "Q11353756",
+        "name": "万代",
+        "name:en": "MANDAI",
+        "name:ja": "万代",
+        "shop": "supermarket",
+        "source": "Bing, Survey"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7271462,
+          34.931511183333335
+        ]
+      },
+      "properties": {
+        "brand": "イズミヤ",
+        "brand:en": "Izumiya",
+        "brand:ja": "イズミヤ",
+        "brand:wikidata": "Q11286632",
+        "name": "イズミヤ",
+        "name:en": "Izumiya",
+        "name:ja": "イズミヤ",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.76316376,
+          34.93284922
+        ]
+      },
+      "properties": {
+        "building": "retail",
+        "building:levels": "3",
+        "name": "フレスコ スマイル",
+        "name:en": "Fresco Smile",
+        "shop": "supermarket",
+        "source": "Bing"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.77127013749998,
+          34.964783437499996
+        ]
+      },
+      "properties": {
+        "building": "yes",
+        "building:levels": "2",
+        "name": "フレスコ",
+        "name:en": "FRESCO",
+        "name:ja": "フレスコ",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.77146645555555,
+          34.955089944444445
+        ]
+      },
+      "properties": {
+        "building": "retail",
+        "name": "フレスコ",
+        "shop": "supermarket",
+        "source": "GSI/KIBAN 2500; NARO;Bing 2012-7"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.75556774,
+          35.029344280000004
+        ]
+      },
+      "properties": {
+        "building": "retail",
+        "name": "大国屋",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.76929682,
+          34.95940726
+        ]
+      },
+      "properties": {
+        "building": "yes",
+        "name": "樹樹",
+        "shop": "supermarket",
+        "source": "GSI/KIBAN 2500;NARO;Bing 2012-7"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.758618725,
+          34.976363725
+        ]
+      },
+      "properties": {
+        "name": "スーパーフジタ",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.81482298,
+          34.97133424
+        ]
+      },
+      "properties": {
+        "addr:block_number": "36",
+        "addr:city": "京都市",
+        "addr:housenumber": "51",
+        "addr:neighbourhood": "草海道町",
+        "addr:postcode": "6078162",
+        "addr:province": "京都",
+        "addr:quarter": "椥辻草海道",
+        "addr:suburb": "山科",
+        "branch": "山科椥辻店",
+        "building": "yes",
+        "contact:phone": "075-583-0189",
+        "name": "サンディー",
+        "opening_hours": "10:00-19:30",
+        "operator": "株式会社サンディ",
+        "shop": "supermarket",
+        "source_ref": "http://www.sundi.co.jp/shop/details-yamashinanagitsu.html"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.73054670714288,
+          34.96694866428572
+        ]
+      },
+      "properties": {
+        "building": "yes",
+        "building:levels": "1",
+        "level": "1",
+        "name": "マツモト",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.8078713142857,
+          34.96924701428572
+        ]
+      },
+      "properties": {
+        "brand": "FRESCO",
+        "building": "yes",
+        "name": "スーパーフレスコ",
+        "name:en": "FRESCO",
+        "name:ja": "スーパーフレスコ",
+        "name:ja_rm": "Supa Furesuko",
+        "shop": "supermarket",
+        "source": "survey"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.79836384000004,
+          34.97817826000001
+        ]
+      },
+      "properties": {
+        "name": "フレスコ川田店",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.74256531666666,
+          34.981641183333345
+        ]
+      },
+      "properties": {
+        "building": "yes",
+        "name": "ひので",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.78635838000002,
+          35.04429886
+        ]
+      },
+      "properties": {
+        "building": "yes",
+        "name:ja": "生鮮館なかむら",
+        "shop": "supermarket",
+        "name": "生鮮館なかむら"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.76347906,
+          34.94601232
+        ]
+      },
+      "properties": {
+        "brand": "業務スーパー",
+        "brand:en": "Gyomu Super",
+        "brand:ja": "業務スーパー",
+        "brand:ja-Latn": "Gyōmu sūpā",
+        "brand:wikidata": "Q11590183",
+        "building": "yes",
+        "name": "業務スーパー",
+        "name:en": "Gyomu Super",
+        "name:ja": "業務スーパー",
+        "name:ja-Latn": "Gyōmu sūpā",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.76049663333333,
+          34.939473444444445
+        ]
+      },
+      "properties": {
+        "branch": "丹波橋店",
+        "brand": "万代",
+        "brand:en": "MANDAI",
+        "brand:ja": "万代",
+        "brand:wikidata": "Q11353756",
+        "building": "yes",
+        "name": "万代",
+        "name:en": "MANDAI",
+        "name:ja": "万代",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.72860504285717,
+          35.01912835714286
+        ]
+      },
+      "properties": {
+        "building": "yes",
+        "name": "阪急オアシス",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.71352448,
+          35.000412999999995
+        ]
+      },
+      "properties": {
+        "building": "yes",
+        "name:en": "Hankyu Oasis Kadono",
+        "name:ja": "阪急オアシス かどの店",
+        "shop": "supermarket",
+        "name": "阪急オアシス かどの店"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.75641016,
+          34.940283640000004
+        ]
+      },
+      "properties": {
+        "building": "yes",
+        "name": "新鮮激安市場",
+        "operator": "鮮激安市場",
+        "shop": "supermarket",
+        "source": "local knowledge;maxar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.71987238000003,
+          34.905467800000004
+        ]
+      },
+      "properties": {
+        "building": "yes",
+        "name": "フレスコ",
+        "opening_hours": "08:00-22:00",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7186322833333,
+          35.01875825
+        ]
+      },
+      "properties": {
+        "addr:block_number": "41",
+        "addr:city": "京都市",
+        "addr:housenumber": "2",
+        "addr:province": "京都府",
+        "addr:quarter": "花園伊町",
+        "addr:suburb": "右京区",
+        "branch": "京都花園店",
+        "brand": "サンディ",
+        "brand:en": "Sundi",
+        "brand:ja": "サンディ",
+        "brand:wikidata": "Q11305717",
+        "building": "yes",
+        "name": "サンディ",
+        "name:ja": "サンディ",
+        "opening_hours": "10:00-19:30",
+        "phone": "+81 758138401",
+        "shop": "supermarket",
+        "website": "https://www.sundi.co.jp/shop/details-kyoutohanazono.html"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7402818625,
+          35.0407179875
+        ]
+      },
+      "properties": {
+        "branch": "千本北大路店",
+        "building": "retail",
+        "building:levels": "1",
+        "name": "デイリーカナートイズミヤ",
+        "roof:levels": "0",
+        "shop": "supermarket",
+        "source": "GSImaps/ort;GSImaps/std"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.76617803333332,
+          34.921148922222216
+        ]
+      },
+      "properties": {
+        "building": "yes",
+        "name": "とりまさストアー",
+        "name:en": "TORIMASA",
+        "name:ja": "とりまさストアー",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.75499858571428,
+          35.04968241428572
+        ]
+      },
+      "properties": {
+        "addr:block_number": "41",
+        "addr:city": "京都市",
+        "addr:housenumber": "3",
+        "addr:postcode": "603-8111",
+        "addr:province": "京都府",
+        "addr:quarter": "小山西元町",
+        "addr:suburb": "北区",
+        "building": "yes",
+        "name": "パントリー　京都北山店",
+        "opening_hours": "Mo-Sa 09:00-20:00",
+        "operator": "株式会社　大近",
+        "phone": "+81 075 494 1030",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.74212167142855,
+          35.04886906190476
+        ]
+      },
+      "properties": {
+        "addr:block_number": "1",
+        "addr:city": "京都市",
+        "addr:housenumber": "1",
+        "addr:province": "京都府",
+        "addr:quarter": "紫野東泉堂",
+        "addr:suburb": "北区",
+        "branch": "北山店",
+        "building": "retail",
+        "name": "生鮮館なかむら",
+        "opening_hours": "9:00-22:00",
+        "phone": "075-494-1166",
+        "shop": "supermarket",
+        "source": "GSImaps/std;survey",
+        "website": "https://seisenkan-nakamura.co.jp/shop/kitayama/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.74735124,
+          35.033103440000005
+        ]
+      },
+      "properties": {
+        "brand": "ライフ",
+        "brand:en": "Life",
+        "brand:ja": "ライフ",
+        "brand:wikidata": "Q11346476",
+        "building": "retail",
+        "building:levels": "3",
+        "name": "ライフ",
+        "name:en": "Life",
+        "name:ja": "ライフ",
+        "opening_hours": "Mo-Su,PH 10:00-21:00",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.76206691818186,
+          34.956345354545455
+        ]
+      },
+      "properties": {
+        "branch": "竹田店",
+        "brand": "サンディ",
+        "brand:en": "Sundi",
+        "brand:ja": "サンディ",
+        "brand:wikidata": "Q11305717",
+        "name": "サンディ",
+        "name:ja": "サンディ",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.74747994,
+          35.0308514
+        ]
+      },
+      "properties": {
+        "building": "retail",
+        "name": "イオンスタイル西陣小町",
+        "operator": "イオンリテール株式会社",
+        "shop": "supermarket",
+        "source": "Esri;GSImaps/std;survey"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7019562857143,
+          35.02136077142857
+        ]
+      },
+      "properties": {
+        "building": "yes",
+        "name": "Ikari",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.73483724285717,
+          35.01596310000001
+        ]
+      },
+      "properties": {
+        "building": "retail",
+        "name": "イオンスタイル 西ノ京小町",
+        "shop": "supermarket",
+        "source": "Esri"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.72566640000002,
+          34.98327426666666
+        ]
+      },
+      "properties": {
+        "brand": "万代",
+        "brand:en": "MANDAI",
+        "brand:ja": "万代",
+        "brand:wikidata": "Q11353756",
+        "building": "yes",
+        "name": "万代",
+        "name:en": "MANDAI",
+        "name:ja": "万代",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.63327414285715,
+          35.15736221428572
+        ]
+      },
+      "properties": {
+        "building": "yes",
+        "name": "サンダイコー",
+        "name:en": "Sun Daiko",
+        "shop": "supermarket",
+        "website": "https://sun-daiko.co.jp/"
+      }
+    }
+  ]
+}

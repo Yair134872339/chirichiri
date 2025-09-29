@@ -1,0 +1,6609 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7286128,
+          35.0319473
+        ]
+      },
+      "properties": {
+        "shop": "gift"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7618421,
+          34.9303866
+        ]
+      },
+      "properties": {
+        "name": "ふじわら",
+        "shop": "gift",
+        "source": "survey, bing"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7605046,
+          34.9309579
+        ]
+      },
+      "properties": {
+        "name": "黄桜商店",
+        "operator": "カッパカントリー",
+        "shop": "gift",
+        "source": "survey, bing"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7409181,
+          35.0517059
+        ]
+      },
+      "properties": {
+        "name": "ケーキハウスMimura",
+        "shop": "craft_confectionery",
+        "source": "survey"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.6777682,
+          35.0142453
+        ]
+      },
+      "properties": {
+        "name": "ARASHIYA",
+        "shop": "gift",
+        "source": "survey;image,Bing,2007-12"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.6775505,
+          35.0148236
+        ]
+      },
+      "properties": {
+        "craft": "handicraft",
+        "name": "いしかわ 竹の店"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.6776885,
+          35.0144988
+        ]
+      },
+      "properties": {
+        "name": "松風軒",
+        "shop": "gift",
+        "source": "survey;image,Bing,2007-12"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7504084,
+          35.0570559
+        ]
+      },
+      "properties": {
+        "craft": "photographer",
+        "name": "デジカメプリント激安王",
+        "source": "survey"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.792655,
+          35.0665577
+        ]
+      },
+      "properties": {
+        "craft": "confectionery",
+        "name": "京栗菓匠 若菜屋",
+        "shop": "confectionery",
+        "source": "survey"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.8096689,
+          34.9478528
+        ]
+      },
+      "properties": {
+        "name": "サラダ館",
+        "shop": "gift",
+        "source": "survey"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7316971,
+          35.0343454
+        ]
+      },
+      "properties": {
+        "craft": "confectionery",
+        "level": "0",
+        "name": "喜久屋",
+        "source": "survey, 2014-01-04"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7711596,
+          34.9679689
+        ]
+      },
+      "properties": {
+        "int_name": "KACCO",
+        "name": "カッコ",
+        "shop": "gift",
+        "source": "Bing; survey"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7710347,
+          34.967986
+        ]
+      },
+      "properties": {
+        "name": "夢蔵人",
+        "name:en": "Kirara",
+        "shop": "gift",
+        "source": "Bing; survey"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7716951,
+          34.9678959
+        ]
+      },
+      "properties": {
+        "name": "島田神具店",
+        "shop": "gift",
+        "source": "Bing; survey"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7715441,
+          34.967908
+        ]
+      },
+      "properties": {
+        "name": "布遊舎",
+        "shop": "gift",
+        "source": "Bing; survey"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7711548,
+          34.9678704
+        ]
+      },
+      "properties": {
+        "name": "末吉餅",
+        "shop": "gift",
+        "source": "Bing; survey"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7708183,
+          34.9679495
+        ]
+      },
+      "properties": {
+        "name": "遊膳",
+        "shop": "gift",
+        "source": "Bing; survey"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7725877,
+          34.9674634
+        ]
+      },
+      "properties": {
+        "name": "陶庵",
+        "shop": "gift",
+        "source": "Bing; survey"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7712453,
+          34.9679684
+        ]
+      },
+      "properties": {
+        "name": "高畠商店",
+        "shop": "gift",
+        "source": "Bing; survey"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7532024,
+          35.0172412
+        ]
+      },
+      "properties": {
+        "craft": "confectionery",
+        "level": "0",
+        "name": "金の実",
+        "source": "survey, 2014-01-04"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7521867,
+          35.0302535
+        ]
+      },
+      "properties": {
+        "craft": "confectionery",
+        "cuisine": "cake",
+        "name": "オアフ",
+        "outdoor_seating": "no",
+        "source": "survery",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.779723,
+          35.0135001
+        ]
+      },
+      "properties": {
+        "craft": "confectionery",
+        "cuisine": "crepe",
+        "name": "Cafe & Crape Eggs",
+        "opening_hours": "11:00-19:00",
+        "outdoor_seating": "no",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7832073,
+          35.0108146
+        ]
+      },
+      "properties": {
+        "name": "うちわ 小丸屋 住井",
+        "product": "fan",
+        "shop": "gift",
+        "source": "Survey"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.784947,
+          35.0104927
+        ]
+      },
+      "properties": {
+        "craft": "photographer",
+        "esperanto": "yes",
+        "name": "ESPERANTO kokoro Kyoto Okazaki Studio",
+        "source": "survey"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7882645,
+          35.0123281
+        ]
+      },
+      "properties": {
+        "name": "ミライハウス",
+        "operator": "Kyoto City zoo (京都市動物園)",
+        "shop": "gift"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7615709,
+          34.9964051
+        ]
+      },
+      "properties": {
+        "fixme": "蝋燭屋。二階建の1階",
+        "name": "青木玉初堂",
+        "shop": "gift",
+        "source": "Survey"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.77317,
+          35.1135552
+        ]
+      },
+      "properties": {
+        "name": "木の芽煮本舗",
+        "shop": "gift"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7730806,
+          35.1131036
+        ]
+      },
+      "properties": {
+        "check_date": "2024-09-17",
+        "name": "かどわ",
+        "phone": "+81 75-7412-029",
+        "shop": "gift"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7730163,
+          35.11327
+        ]
+      },
+      "properties": {
+        "check_date": "2024-09-17",
+        "name": "岸本老舗",
+        "phone": "74120302230",
+        "shop": "gift"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7798289,
+          35.0175078
+        ]
+      },
+      "properties": {
+        "addr:block_number": "18",
+        "addr:city": "京都市 (kyoto)",
+        "addr:housenumber": "メタボ岡崎101",
+        "addr:postcode": "606-8392",
+        "addr:province": "京都府",
+        "addr:quarter": "聖護院山王町",
+        "addr:suburb": "左京区",
+        "name": "ロク",
+        "name:en": "roku",
+        "name:ja": "ロク",
+        "name:ja_rm": "roku",
+        "opening_hours": "Mo-Su 13:30-19:00; We off",
+        "phone": "+8175-756-4436",
+        "shop": "gift",
+        "source": "Bing 2012-7;Survey;Image",
+        "website": "http://www.rokunamono.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.772379,
+          35.004438
+        ]
+      },
+      "properties": {
+        "craft": "confectionery",
+        "name": "井筒八ツ橋本店",
+        "name:en": "Izutsu Yatsuhashi",
+        "source": "Survey"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7789644,
+          34.997086
+        ]
+      },
+      "properties": {
+        "name": "JIZO堂",
+        "shop": "gift"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7599646,
+          34.9313318
+        ]
+      },
+      "properties": {
+        "craft": "brewery",
+        "level": "0",
+        "name": "家守堂",
+        "phone": "075-603-3080",
+        "product": "beer;tea",
+        "takeout": "yes",
+        "website": "https://yamorido.jp"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7327235,
+          35.0390621
+        ]
+      },
+      "properties": {
+        "name": "山信商店",
+        "shop": "gift"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7295867,
+          35.0402879
+        ]
+      },
+      "properties": {
+        "shop": "gift"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.729604,
+          35.0402871
+        ]
+      },
+      "properties": {
+        "name": "王寿軒",
+        "shop": "gift"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7301086,
+          35.0400089
+        ]
+      },
+      "properties": {
+        "shop": "gift"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7301637,
+          35.0400257
+        ]
+      },
+      "properties": {
+        "shop": "gift"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7301036,
+          35.0400852
+        ]
+      },
+      "properties": {
+        "shop": "gift"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7300884,
+          35.0401004
+        ]
+      },
+      "properties": {
+        "shop": "gift"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7300692,
+          35.040116
+        ]
+      },
+      "properties": {
+        "shop": "gift"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.729947,
+          35.0401196
+        ]
+      },
+      "properties": {
+        "shop": "gift"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7299568,
+          35.0401434
+        ]
+      },
+      "properties": {
+        "shop": "gift"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7299284,
+          35.0401772
+        ]
+      },
+      "properties": {
+        "name": "聖護院八ツ橋",
+        "shop": "gift"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7299592,
+          35.0401665
+        ]
+      },
+      "properties": {
+        "name": "豆政",
+        "shop": "gift"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.795555,
+          35.0271325
+        ]
+      },
+      "properties": {
+        "name": "忠兵衛",
+        "shop": "gift"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7475301,
+          34.9815073
+        ]
+      },
+      "properties": {
+        "religion": "buddhist",
+        "shop": "gift"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7475104,
+          34.9802636
+        ]
+      },
+      "properties": {
+        "religion": "buddhist",
+        "shop": "gift"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7474988,
+          34.9806655
+        ]
+      },
+      "properties": {
+        "religion": "buddhist",
+        "shop": "gift"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.8210217,
+          35.1237872
+        ]
+      },
+      "properties": {
+        "religion": "buddhist",
+        "shop": "gift"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7524261,
+          35.0578032
+        ]
+      },
+      "properties": {
+        "name": "すぐきや六郎兵衛",
+        "shop": "gift"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7522558,
+          35.0577619
+        ]
+      },
+      "properties": {
+        "name": "葵家やきもち",
+        "shop": "gift"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.751745,
+          35.0599352
+        ]
+      },
+      "properties": {
+        "religion": "shinto",
+        "shop": "gift"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.751628,
+          34.9927537
+        ]
+      },
+      "properties": {
+        "name": "法輪",
+        "name:en": "Dharma wheel",
+        "name:fr": "La roue du Dharma",
+        "name:ja_rm": "Hōrin",
+        "opening_hours": "Mo-Su 08:45-17:00",
+        "shop": "gift"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7140726,
+          35.0278807
+        ]
+      },
+      "properties": {
+        "craft": "carpenter",
+        "name": "大下住宅"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7152312,
+          35.0288543
+        ]
+      },
+      "properties": {
+        "shop": "gift"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7199708,
+          35.0329188
+        ]
+      },
+      "properties": {
+        "name": "もり",
+        "note": "京つけもの",
+        "shop": "gift"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7200521,
+          35.0329172
+        ]
+      },
+      "properties": {
+        "name": "わびすけ",
+        "shop": "gift"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7200129,
+          35.0329179
+        ]
+      },
+      "properties": {
+        "name": "聖護院 八つ橋",
+        "shop": "gift"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7196983,
+          35.0328874
+        ]
+      },
+      "properties": {
+        "shop": "gift"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.6878497,
+          35.0000428
+        ]
+      },
+      "properties": {
+        "atm": "no",
+        "attribution": "Japanese Cake \"Yomogimochi\",\"sakaman\",\"monaka\"",
+        "internet_access": "no",
+        "name": "京菓子司 松楽",
+        "shop": "gift",
+        "source": "Survey"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.6840572,
+          34.9915653
+        ]
+      },
+      "properties": {
+        "shop": "gift"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.8183246,
+          34.9513429
+        ]
+      },
+      "properties": {
+        "shop": "gift"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.8188073,
+          34.9517921
+        ]
+      },
+      "properties": {
+        "shop": "gift"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7670179,
+          34.9375115
+        ]
+      },
+      "properties": {
+        "name": "舞扇堂",
+        "shop": "craft"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.767187,
+          35.0049972
+        ]
+      },
+      "properties": {
+        "fixme": "verify type",
+        "name": "Hanko maker",
+        "shop": "gift"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7675943,
+          35.0079786
+        ]
+      },
+      "properties": {
+        "name": "Chopsticks",
+        "shop": "gift"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7672048,
+          35.0042737
+        ]
+      },
+      "properties": {
+        "name": "Tsum Tsum",
+        "shop": "gift"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.6721037,
+          35.0202087
+        ]
+      },
+      "properties": {
+        "name": "寿庵",
+        "shop": "gift"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.6940186,
+          34.9725526
+        ]
+      },
+      "properties": {
+        "craft": "tatami",
+        "name": "小原畳店"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.76628,
+          35.0049686
+        ]
+      },
+      "properties": {
+        "name": "まねきねこのて招喜屋錦店",
+        "name:fr": "Aritsugu",
+        "opening_hours": "Mo-Su 10:00-18:00",
+        "shop": "gift"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7690978,
+          35.0062982
+        ]
+      },
+      "properties": {
+        "name": "Yamato Mingei-Ten",
+        "shop": "gift"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7693968,
+          35.0059065
+        ]
+      },
+      "properties": {
+        "name:en": "Natural-Kitchen",
+        "opening_hours": "Mo-Su 10:00-21:00",
+        "shop": "gift"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7698538,
+          35.0109343
+        ]
+      },
+      "properties": {
+        "name:en": "Seria",
+        "opening_hours": "Mo-Su 10:30-21:00",
+        "shop": "gift"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7757809,
+          35.0040453
+        ]
+      },
+      "properties": {
+        "name:en": "Kurochiku",
+        "opening_hours": "Mo-Su 10:00-20:00",
+        "shop": "gift"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7829359,
+          35.0044957
+        ]
+      },
+      "properties": {
+        "shop": "gift"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7806563,
+          35.0045917
+        ]
+      },
+      "properties": {
+        "shop": "gift"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.6792506,
+          35.0162322
+        ]
+      },
+      "properties": {
+        "addr:housenumber": "5",
+        "addr:street": "京都市右京区嵯峨天龍寺造路町",
+        "name": "platz",
+        "opening_hours": "Fr-We 10:00-19:00",
+        "shop": "gift"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7512216,
+          35.027711
+        ]
+      },
+      "properties": {
+        "name": "授与所",
+        "shop": "gift"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7778565,
+          34.9985875
+        ]
+      },
+      "properties": {
+        "name": "Mizuirotei",
+        "opening_hours": "Fr-We 11:00-18:00",
+        "shop": "gift",
+        "website": "http://www.uragu.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7670942,
+          35.0140402
+        ]
+      },
+      "properties": {
+        "name:en": "Zohiko Laquer Shop",
+        "opening_hours": "Mo-Su 10:00-18:00",
+        "shop": "gift",
+        "website": "https://www.zohiko.co.jp/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7594336,
+          34.9992852
+        ]
+      },
+      "properties": {
+        "name:en": "TAG",
+        "opening_hours": "Mo-Fr 09:30-20:00; Sa-Su 10:00-19:00",
+        "shop": "gift",
+        "website": "https://www.takedajimuki.co.jp/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7673389,
+          35.0135618
+        ]
+      },
+      "properties": {
+        "shop": "gift"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7769649,
+          35.0063704
+        ]
+      },
+      "properties": {
+        "name:en": "Kawasaki bijutsu antique",
+        "shop": "gift"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7736185,
+          35.0062359
+        ]
+      },
+      "properties": {
+        "name:en": "renkodo antique",
+        "shop": "gift"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7913191,
+          35.0376419
+        ]
+      },
+      "properties": {
+        "name:en": "Kan Seifu glass crafts",
+        "opening_hours": "Mo-Su 09:00-18:00",
+        "shop": "gift",
+        "website": "https://www.kanseifu.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.8105579,
+          34.991181
+        ]
+      },
+      "properties": {
+        "craft": "confectionery",
+        "name": "ローヌ洋菓子店本店"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7660164,
+          35.0073328
+        ]
+      },
+      "properties": {
+        "name": "Bento & co",
+        "name:ja": "Bento & co",
+        "shop": "gift"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7581984,
+          35.0015374
+        ]
+      },
+      "properties": {
+        "name": "Ninja dojo and store",
+        "name:ja": "Ninja dojo and store",
+        "shop": "gift"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7722095,
+          34.9990101
+        ]
+      },
+      "properties": {
+        "name": "Maiko Antiques (Kimono sale)",
+        "name:ja": "Maiko Antiques (Kimono sale)",
+        "shop": "gift"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.6794156,
+          35.018635
+        ]
+      },
+      "properties": {
+        "check_date": "2024-12-03",
+        "craft": "stonemason",
+        "name": "石寅"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7660624,
+          35.0073256
+        ]
+      },
+      "properties": {
+        "addr:housenumber": "110",
+        "addr:street": "六角通",
+        "name:en": "SuzandoHashimoto",
+        "shop": "gift",
+        "website": "https://www.suuzando.co.jp/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7666436,
+          35.007349
+        ]
+      },
+      "properties": {
+        "addr:housenumber": "117",
+        "addr:street": "六角通",
+        "name:en": "bento & co",
+        "shop": "gift",
+        "website": "https://www.bentoandco.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.767277,
+          35.0140292
+        ]
+      },
+      "properties": {
+        "name:en": "kamiji Kamimoto",
+        "shop": "gift"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7848787,
+          35.0131639
+        ]
+      },
+      "properties": {
+        "name": "GORiLLAND",
+        "shop": "gift"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7476295,
+          35.00844
+        ]
+      },
+      "properties": {
+        "name:en": "Can Do 100 yen shop",
+        "shop": "gift"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7673113,
+          35.0051794
+        ]
+      },
+      "properties": {
+        "addr:street": "新京極通",
+        "name": "ヴィレッジ(面白い雑貨)",
+        "name:ja": "ヴィレッジ(面白い雑貨)",
+        "opening_hours": "Mo-Su 11:00-21:00",
+        "phone": "0752296700",
+        "shop": "gift"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7810526,
+          34.9965172
+        ]
+      },
+      "properties": {
+        "name": "おちゃのこさいさい(調味料)",
+        "name:ja": "おちゃのこさいさい(調味料)",
+        "opening_hours": "Mo-Su 09:00-18:00",
+        "shop": "gift"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7611559,
+          34.9918185
+        ]
+      },
+      "properties": {
+        "check_date": "2025-09-28",
+        "craft": "handicraft",
+        "name": "京扇堂",
+        "name:en": "Kyosendo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7612069,
+          34.9873742
+        ]
+      },
+      "properties": {
+        "craft": "handicraft",
+        "name": "Hayashi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7503158,
+          34.9890718
+        ]
+      },
+      "properties": {
+        "name": "豆餅",
+        "shop": "gift"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7275789,
+          34.9842387
+        ]
+      },
+      "properties": {
+        "name": "もも福",
+        "name:en": "Momofuku",
+        "shop": "gift"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7671117,
+          35.0050671
+        ]
+      },
+      "properties": {
+        "name": "岩座",
+        "name:en": "Power stone",
+        "shop": "gift"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7798482,
+          35.0006959
+        ]
+      },
+      "properties": {
+        "description": "辻利",
+        "name": "高台寺 都路里",
+        "phone": "+81 75 541 1228",
+        "shop": "gift",
+        "source": "receipt"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7495527,
+          35.0039404
+        ]
+      },
+      "properties": {
+        "amenity": "internet_cafe",
+        "branch": "京都大宮店",
+        "check_date": "2025-04-12",
+        "level": "2",
+        "name": "ダイソー",
+        "name:en": "DAISO",
+        "opening_hours": "24/7",
+        "shop": "gift"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7521382,
+          35.0125906
+        ]
+      },
+      "properties": {
+        "name": "くらふと和光",
+        "shop": "gift"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7780463,
+          35.0079001
+        ]
+      },
+      "properties": {
+        "name": "木村郵泉堂",
+        "shop": "gift"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7675544,
+          35.004426
+        ]
+      },
+      "properties": {
+        "name": "sou.sou足袋 中之町",
+        "opening_hours": "Mo-Su 11:00-20:00",
+        "shop": "gift"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7603496,
+          35.007438
+        ]
+      },
+      "properties": {
+        "shop": "gift"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7789586,
+          35.0089739
+        ]
+      },
+      "properties": {
+        "craft": "confectionery",
+        "name": "ジェレミー＆ジェマイマ",
+        "name:en": "JEREMY&JEMIMAH",
+        "shop": "confectionery"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7789519,
+          35.0089256
+        ]
+      },
+      "properties": {
+        "craft": "confectionery",
+        "name": "都饅頭",
+        "shop": "confectionery"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7786545,
+          35.0081118
+        ]
+      },
+      "properties": {
+        "craft": "confectionery",
+        "name": "むらを東三堂",
+        "shop": "confectionery"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7787202,
+          35.0084769
+        ]
+      },
+      "properties": {
+        "craft": "dressmaker",
+        "name": "シミズメリヤス",
+        "shop": "clothes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7522682,
+          35.0015852
+        ]
+      },
+      "properties": {
+        "name:fr": "kimonos sakurai shoji",
+        "shop": "gift",
+        "website": "https://www.sakuraishoji.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7035408,
+          34.973311
+        ]
+      },
+      "properties": {
+        "craft": "carpenter",
+        "name": "桂テクニカサービス"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7882888,
+          34.989966
+        ]
+      },
+      "properties": {
+        "name": "賽銭箱",
+        "shop": "gift"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7884122,
+          34.9897425
+        ]
+      },
+      "properties": {
+        "shop": "gift"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.6951551,
+          34.9728745
+        ]
+      },
+      "properties": {
+        "craft": "electrician",
+        "name": "竹村電気工業"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.6941507,
+          34.971021
+        ]
+      },
+      "properties": {
+        "craft": "caterer",
+        "name": "なかむら"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7002478,
+          34.9713847
+        ]
+      },
+      "properties": {
+        "craft": "stonemason",
+        "name": "三和石材"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7669221,
+          35.0009183
+        ]
+      },
+      "properties": {
+        "name": "Candy Joy",
+        "shop": "gift"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7610661,
+          35.0255487
+        ]
+      },
+      "properties": {
+        "shop": "gift"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.761211,
+          35.021475
+        ]
+      },
+      "properties": {
+        "man_made": "water_well",
+        "name": "御神水",
+        "shop": "souvenir"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7046585,
+          34.9864416
+        ]
+      },
+      "properties": {
+        "craft": "electrician",
+        "name": "カザマ電機工業株式会社"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7599972,
+          34.9315509
+        ]
+      },
+      "properties": {
+        "level": "0",
+        "name": "ギフト＆陶器 しばた",
+        "shop": "gift"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7600223,
+          34.9329255
+        ]
+      },
+      "properties": {
+        "level": "0",
+        "name": "結納司 石本陽風堂",
+        "religion": "shinto",
+        "shop": "gift"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.6774752,
+          35.015265
+        ]
+      },
+      "properties": {
+        "check_date": "2024-04-14",
+        "craft": "confectionery",
+        "name:en": "Arinco"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7626666,
+          35.0002047
+        ]
+      },
+      "properties": {
+        "name": "D&DEPARTMENT KYOTO",
+        "shop": "gift",
+        "start_date": "2014",
+        "website": "https://www.d-department.com/ext/shop/kyoto.html"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.6854529,
+          34.972969
+        ]
+      },
+      "properties": {
+        "craft": "yes",
+        "name": "京都鉄工"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.6942242,
+          34.9831688
+        ]
+      },
+      "properties": {
+        "craft": "confectionery",
+        "name": "井津美屋"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7809136,
+          34.9966123
+        ]
+      },
+      "properties": {
+        "addr:street": "三年坂",
+        "name:zh": "瓢簞屋",
+        "shop": "gift"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7020025,
+          34.9799186
+        ]
+      },
+      "properties": {
+        "addr:block_number": "2",
+        "addr:city": "京都市",
+        "addr:housenumber": "桂オーエスプラザビル 1F",
+        "addr:neighbourhood": "133",
+        "addr:postcode": "615-8074",
+        "addr:province": "京都府",
+        "addr:quarter": "桂南巽町",
+        "addr:suburb": "西京区",
+        "craft": "caterer",
+        "name": "ごはん日和",
+        "operator": "ごはん日和",
+        "phone": "0753819000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7006453,
+          34.9792241
+        ]
+      },
+      "properties": {
+        "craft": "confectionery",
+        "name": "パティスリー ゼロ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7673103,
+          34.9973018
+        ]
+      },
+      "properties": {
+        "fixme": "Add name tag in Japanese",
+        "name:en": "Gwasendo",
+        "opening_hours": "Mo-Fr 10:00-19:00; Sa-Su 10:00-18:00",
+        "shop": "craft",
+        "website": "http://www.gwasendo.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7631477,
+          35.004959
+        ]
+      },
+      "properties": {
+        "name:en": "Pulau Deco",
+        "shop": "gift"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7816169,
+          34.9886854
+        ]
+      },
+      "properties": {
+        "shop": "gift"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7854831,
+          34.9668974
+        ]
+      },
+      "properties": {
+        "shop": "gift"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7789998,
+          34.9699829
+        ]
+      },
+      "properties": {
+        "shop": "gift"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7710571,
+          35.0043702
+        ]
+      },
+      "properties": {
+        "shop": "gift"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7812013,
+          35.0256466
+        ]
+      },
+      "properties": {
+        "craft": "caterer"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7238355,
+          35.0295687
+        ]
+      },
+      "properties": {
+        "craft": "caterer",
+        "cuisine": "オムライス",
+        "name": "ヒポポタマス"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.773523,
+          35.0254424
+        ]
+      },
+      "properties": {
+        "addr:housenumber": "1-6",
+        "craft": "brewery",
+        "name": "松井酒造",
+        "name:fr": "Matsui Sake Brewery",
+        "opening_hours": "Mo-Su 09:00-18:00",
+        "phone": "+8175-771-0246",
+        "website": "https://matsuishuzo.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7366496,
+          35.0187258
+        ]
+      },
+      "properties": {
+        "craft": "confectionery"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7639258,
+          35.0068863
+        ]
+      },
+      "properties": {
+        "name:en": "Suzukishofudo",
+        "shop": "gift"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7476487,
+          35.0011336
+        ]
+      },
+      "properties": {
+        "craft": "tailor",
+        "name": "しぼり"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.781777,
+          34.9953928
+        ]
+      },
+      "properties": {
+        "shop": "gift"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7595953,
+          34.9950503
+        ]
+      },
+      "properties": {
+        "name:en": "magasin d’éventail",
+        "shop": "gift"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7186816,
+          35.0106157
+        ]
+      },
+      "properties": {
+        "name": "丸善キャンパスショップ",
+        "name:ja": "丸善キャンパスショップ",
+        "shop": "gift"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7710741,
+          34.9664822
+        ]
+      },
+      "properties": {
+        "name": "加美屋",
+        "shop": "gift"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7590879,
+          35.0220665
+        ]
+      },
+      "properties": {
+        "level": "0",
+        "shop": "gift",
+        "source": "local knowledge"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7616051,
+          35.0378295
+        ]
+      },
+      "properties": {
+        "name": "モチヅキ",
+        "shop": "gift"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7679982,
+          35.0305345
+        ]
+      },
+      "properties": {
+        "name": "マツモト模型",
+        "shop": "gift"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7722592,
+          35.0037017
+        ]
+      },
+      "properties": {
+        "craft": "confectionery",
+        "level": "0",
+        "source": "local knowledge",
+        "takeaway": "only"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7767102,
+          35.0035716
+        ]
+      },
+      "properties": {
+        "level": "0",
+        "shop": "gift",
+        "source": "local knowledge"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7640734,
+          34.9388028
+        ]
+      },
+      "properties": {
+        "shop": "gift"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7611591,
+          35.001483
+        ]
+      },
+      "properties": {
+        "name:en": "Wagami no mise",
+        "shop": "gift"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.6983093,
+          34.9736952
+        ]
+      },
+      "properties": {
+        "craft": "handicraft",
+        "name": "桂美刺繍工芸"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7052014,
+          34.9733401
+        ]
+      },
+      "properties": {
+        "craft": "confectionery",
+        "name": "鼓月"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7872407,
+          34.9642823
+        ]
+      },
+      "properties": {
+        "craft": "carpenter"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7115518,
+          34.982999
+        ]
+      },
+      "properties": {
+        "craft": "confectionery",
+        "name": "中村軒"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7809181,
+          34.9996701
+        ]
+      },
+      "properties": {
+        "shop": "gift"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7668148,
+          35.0055926
+        ]
+      },
+      "properties": {
+        "craft": "tailor",
+        "name:en": "Nomura Tailor House"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7694672,
+          34.9684391
+        ]
+      },
+      "properties": {
+        "craft": "confectionery",
+        "name": "駿河屋稲荷"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7825791,
+          34.99557
+        ]
+      },
+      "properties": {
+        "name": "清水板",
+        "shop": "gift"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7195994,
+          34.9067575
+        ]
+      },
+      "properties": {
+        "addr:block_number": "218-4",
+        "addr:city": "京都市",
+        "addr:postcode": "613-0903",
+        "addr:province": "京都府",
+        "addr:quarter": "淀本町",
+        "addr:suburb": "伏見区",
+        "craft": "carpenter",
+        "level": "2",
+        "name": "株式会社 松村",
+        "phone": "075-633-5561",
+        "website": "http://www.matsumura-kyoto.co.jp/about.php"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7189795,
+          34.9068918
+        ]
+      },
+      "properties": {
+        "craft": "confectionery",
+        "name": "中村屋"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7192199,
+          34.9060162
+        ]
+      },
+      "properties": {
+        "craft": "confectionery",
+        "name": "おくやま菓舗",
+        "phone": "075-631-2306"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7545775,
+          34.9893779
+        ]
+      },
+      "properties": {
+        "indoor": "room",
+        "level": "0",
+        "shop": "gift",
+        "source": "local knowledge"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.6464001,
+          34.937568
+        ]
+      },
+      "properties": {
+        "level": "0",
+        "name": "よしみね乃里",
+        "shop": "gift"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7690323,
+          35.0057646
+        ]
+      },
+      "properties": {
+        "name": "ドン・キホーテ",
+        "shop": "gift",
+        "survey:date": "2020-08-13"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7069584,
+          35.016391
+        ]
+      },
+      "properties": {
+        "indoor": "yes",
+        "level": "0",
+        "shop": "gift",
+        "source": "local knowledge"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7073125,
+          35.0161856
+        ]
+      },
+      "properties": {
+        "indoor": "yes",
+        "level": "0",
+        "shop": "gift",
+        "source": "local knowledge"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7084552,
+          35.0168979
+        ]
+      },
+      "properties": {
+        "indoor": "yes",
+        "level": "0",
+        "name": "水戸黄門ショップ",
+        "shop": "gift",
+        "source": "local knowledge"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7739883,
+          35.0010529
+        ]
+      },
+      "properties": {
+        "shop": "gift"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7744468,
+          35.0001988
+        ]
+      },
+      "properties": {
+        "shop": "gift"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7740126,
+          35.0039325
+        ]
+      },
+      "properties": {
+        "name": "ハナビラヒトツ",
+        "shop": "gift"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7669489,
+          35.0038267
+        ]
+      },
+      "properties": {
+        "craft": "confectionery",
+        "cuisine:ja": "甘栗",
+        "name": "林万昌堂"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.6966922,
+          34.9860904
+        ]
+      },
+      "properties": {
+        "craft": "carpenter",
+        "name": "中川工務店"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7629262,
+          35.0172808
+        ]
+      },
+      "properties": {
+        "craft": "tatami",
+        "level": "0",
+        "name": "佐竹畳店"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7588019,
+          34.9545278
+        ]
+      },
+      "properties": {
+        "craft": "hvac",
+        "name": "マハタギ電気商会"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.761163,
+          34.9633004
+        ]
+      },
+      "properties": {
+        "craft": "photographer",
+        "name": "今井写真館"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.6776394,
+          35.0147949
+        ]
+      },
+      "properties": {
+        "name": "いしかわ 竹乃店",
+        "shop": "gift"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7787861,
+          34.9756482
+        ]
+      },
+      "properties": {
+        "craft": "pottery",
+        "name": "尚山陶房"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7749927,
+          35.0028575
+        ]
+      },
+      "properties": {
+        "name": "不老庵",
+        "shop": "gift"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7731187,
+          35.0035042
+        ]
+      },
+      "properties": {
+        "name": "ヤマ京",
+        "shop": "gift"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7210106,
+          34.9047151
+        ]
+      },
+      "properties": {
+        "craft": "carpenter",
+        "name": "ウィシステム淀"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7622005,
+          35.0330247
+        ]
+      },
+      "properties": {
+        "shop": "gift"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7732098,
+          35.1134176
+        ]
+      },
+      "properties": {
+        "name": "岸本柳蔵老舗",
+        "shop": "gift"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.794312,
+          35.0219655
+        ]
+      },
+      "properties": {
+        "check_date": "2022-12-29",
+        "craft": "handicraft",
+        "name": "ギャラリーひとみ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7711669,
+          34.9550498
+        ]
+      },
+      "properties": {
+        "check_date": "2023-02-12",
+        "craft": "confectionery",
+        "name": "アデリーヌ 長栄堂"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7748313,
+          35.0037045
+        ]
+      },
+      "properties": {
+        "name": "みっふぃーおやつ堂",
+        "shop": "gift"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7526629,
+          35.0126323
+        ]
+      },
+      "properties": {
+        "shop": "gift"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7669345,
+          35.0058912
+        ]
+      },
+      "properties": {
+        "addr:housenumber": "501-13",
+        "addr:postcode": "604-8046",
+        "addr:street": "寺町通",
+        "craft": "handicraft",
+        "name": "川上ネーム店",
+        "name:en": "Family Crest patch shop",
+        "name:ja": "川上ネーム店",
+        "opening_hours": "Mo-Su 10:30-19:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.6781097,
+          35.0280963
+        ]
+      },
+      "properties": {
+        "shop": "gift"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7656102,
+          35.007626
+        ]
+      },
+      "properties": {
+        "shop": "gift"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7663675,
+          35.007141
+        ]
+      },
+      "properties": {
+        "shop": "gift"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.6699925,
+          35.0213875
+        ]
+      },
+      "properties": {
+        "shop": "gift"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7828664,
+          35.0088804
+        ]
+      },
+      "properties": {
+        "name:en": "Pottery Shop",
+        "shop": "gift"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.743118,
+          34.9872597
+        ]
+      },
+      "properties": {
+        "shop": "gift"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7811807,
+          35.0134546
+        ]
+      },
+      "properties": {
+        "name:en": "Kyoto Museum of Crafts and Design Shop",
+        "opening_hours": "09:00-17:00",
+        "shop": "gift"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7823994,
+          35.0700672
+        ]
+      },
+      "properties": {
+        "brand": "Chateraise",
+        "craft": "confectionery",
+        "name": "シャトレーゼ左京岩倉店",
+        "name:ja": "シャトレーゼ左京岩倉店"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7297799,
+          35.2037671
+        ]
+      },
+      "properties": {
+        "craft": "pottery",
+        "name": "黒田村アートビレッジ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7723745,
+          34.9893687
+        ]
+      },
+      "properties": {
+        "name": "ミュージアムショップ",
+        "shop": "gift"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7685307,
+          34.9952826
+        ]
+      },
+      "properties": {
+        "name": "半兵衛麩",
+        "shop": "gift"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.754406,
+          35.0498293
+        ]
+      },
+      "properties": {
+        "addr:block_number": "10",
+        "addr:city": "京都市",
+        "addr:neighbourhood": "小山西元町",
+        "addr:postcode": "603-8113",
+        "addr:province": "京都府",
+        "addr:suburb": "北区",
+        "craft": "glaziery",
+        "name": "ガラシャ",
+        "name:en": "GRACIA",
+        "phone": "+81-75-491-4689",
+        "website": "https://www.kyotogracia.jp/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7626083,
+          34.9687062
+        ]
+      },
+      "properties": {
+        "craft": "carpenter",
+        "name": "株式会社 オーヤマホーム"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7680076,
+          34.9479723
+        ]
+      },
+      "properties": {
+        "craft": "carpenter",
+        "name": "リファイン桃山",
+        "operator": "株式会社 円ホーム"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.769617,
+          34.9561257
+        ]
+      },
+      "properties": {
+        "craft": "metal_construction",
+        "name": "西川板金店"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7687359,
+          34.9564455
+        ]
+      },
+      "properties": {
+        "craft": "plumber",
+        "name": "株式会社 セントラル工業",
+        "note": "京都市指定業者"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.762548,
+          34.9665049
+        ]
+      },
+      "properties": {
+        "craft": "carpenter",
+        "name": "株式会社ＨＥＳＴＡ大倉"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7630093,
+          34.957792
+        ]
+      },
+      "properties": {
+        "craft": "carpenter",
+        "name": "田中組"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7477377,
+          35.0085321
+        ]
+      },
+      "properties": {
+        "shop": "gift"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.762777,
+          35.1197514
+        ]
+      },
+      "properties": {
+        "name:en": "Kifune Cosmetics & Gallery",
+        "shop": "gift"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7608944,
+          34.9495623
+        ]
+      },
+      "properties": {
+        "craft": "carpenter",
+        "name": "三原工務店工務店"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7826561,
+          35.0103529
+        ]
+      },
+      "properties": {
+        "check_date": "2023-11-04",
+        "name": "京都山本製革店",
+        "shop": "craft"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7826101,
+          35.0107374
+        ]
+      },
+      "properties": {
+        "check_date": "2023-11-04",
+        "name": "ものがら",
+        "shop": "craft"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7629101,
+          34.9573336
+        ]
+      },
+      "properties": {
+        "craft": "carpenter",
+        "name": "水彩プラザ伏見店",
+        "operator": "（株）ヒトミ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7593159,
+          34.9572309
+        ]
+      },
+      "properties": {
+        "craft": "carpenter",
+        "name": "有限会社 伏見建設"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7593173,
+          34.957249
+        ]
+      },
+      "properties": {
+        "craft": "carpenter",
+        "name": "有限会社 富士建設工業",
+        "office": "company"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7663907,
+          34.9988719
+        ]
+      },
+      "properties": {
+        "check_date": "2023-12-28",
+        "shop": "gift"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.764836,
+          34.9987253
+        ]
+      },
+      "properties": {
+        "check_date": "2023-12-28",
+        "name": "西村松寿堂",
+        "shop": "craft"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7686065,
+          35.0013522
+        ]
+      },
+      "properties": {
+        "check_date": "2023-12-28",
+        "craft": "caterer",
+        "name": "べんと工房"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7667852,
+          35.0002299
+        ]
+      },
+      "properties": {
+        "check_date": "2023-12-28",
+        "name": "un petit coup d'oeil",
+        "shop": "gift"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.738951,
+          35.0407146
+        ]
+      },
+      "properties": {
+        "craft": "photographer",
+        "name": "Nagata Photo Studio"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7804431,
+          35.0018268
+        ]
+      },
+      "properties": {
+        "check_date": "2024-01-05",
+        "craft": "handicraft",
+        "name": "高台寺 おりおり"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7743659,
+          34.9215651
+        ]
+      },
+      "properties": {
+        "craft": "carpet_layer",
+        "name": "水谷畳建"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7770467,
+          34.9185891
+        ]
+      },
+      "properties": {
+        "craft": "caterer",
+        "name": "むかいじま 健幸弁当 DELI",
+        "website": "https://kenko-plus.co.jp/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7566404,
+          34.958324
+        ]
+      },
+      "properties": {
+        "branch": "京都営業所",
+        "craft": "carpenter",
+        "name": "一建建設株式会社"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7685204,
+          34.9198827
+        ]
+      },
+      "properties": {
+        "craft": "electrician"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.742127,
+          34.9463866
+        ]
+      },
+      "properties": {
+        "craft": "carpenter",
+        "name": "ファミリーホームズ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.795543,
+          35.0257377
+        ]
+      },
+      "properties": {
+        "check_date": "2024-02-28",
+        "name:en": "Tsunesaburo",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "shop": "gift",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7710171,
+          34.9664373
+        ]
+      },
+      "properties": {
+        "craft": "handicraft",
+        "name": "きりん画房"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.760388,
+          34.9949013
+        ]
+      },
+      "properties": {
+        "check_date": "2024-03-20",
+        "craft": "confectionery"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7609178,
+          34.9924485
+        ]
+      },
+      "properties": {
+        "check_date": "2024-03-20",
+        "craft": "brewery",
+        "name": "高島ビール"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7656703,
+          34.9905549
+        ]
+      },
+      "properties": {
+        "contact:facebook": "kyotobeerlab",
+        "contact:instagram": "kyotobeerlab",
+        "craft": "brewery",
+        "name": "Kyoto Beer Labs",
+        "website": "http://kyotobeerlab.jp/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7675635,
+          35.0041028
+        ]
+      },
+      "properties": {
+        "name": "Kyoto Sword Shop and Samurai Experience",
+        "opening_hours": "Mo-Su 10:00-18:00",
+        "shop": "gift"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7727743,
+          34.9674619
+        ]
+      },
+      "properties": {
+        "name": "塩路軒",
+        "shop": "gift",
+        "source": "Bing; survey"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7726938,
+          34.9674646
+        ]
+      },
+      "properties": {
+        "name": "しののめどう",
+        "shop": "gift",
+        "source": "Bing; survey"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.6777692,
+          35.0152779
+        ]
+      },
+      "properties": {
+        "check_date": "2024-04-14",
+        "craft": "confectionery",
+        "name": "桑や"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.6775131,
+          35.0152696
+        ]
+      },
+      "properties": {
+        "check_date": "2024-04-14",
+        "craft": "handicraft",
+        "name": "くろちく"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.6777136,
+          35.0152735
+        ]
+      },
+      "properties": {
+        "check_date": "2024-04-14",
+        "craft": "confectionery",
+        "name": "笹屋伊織"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.6776192,
+          35.0152545
+        ]
+      },
+      "properties": {
+        "check_date": "2024-04-14",
+        "craft": "confectionery"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7827558,
+          34.9534514
+        ]
+      },
+      "properties": {
+        "craft": "painter",
+        "name": "AZABU京都営業所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7361195,
+          35.0283411
+        ]
+      },
+      "properties": {
+        "check_date": "2024-08-12",
+        "craft": "confectionery",
+        "name": "北野プリン"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.736154,
+          35.0302386
+        ]
+      },
+      "properties": {
+        "check_date": "2024-08-12",
+        "craft": "confectionery",
+        "name": "北野桜井屋"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7539475,
+          34.9893641
+        ]
+      },
+      "properties": {
+        "check_date": "2024-08-12",
+        "craft": "carpenter",
+        "name": "ふすま工房　若林"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7533427,
+          35.0185977
+        ]
+      },
+      "properties": {
+        "name": "安藤人形店",
+        "shop": "handicraft"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7362476,
+          34.9866068
+        ]
+      },
+      "properties": {
+        "craft": "window_construction",
+        "name": "橋本板硝子店"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7693313,
+          35.006266
+        ]
+      },
+      "properties": {
+        "name": "やまもと民芸店",
+        "shop": "gift"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7695124,
+          35.0089286
+        ]
+      },
+      "properties": {
+        "name": "公長斎　小菅",
+        "shop": "gift"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7701045,
+          35.0088062
+        ]
+      },
+      "properties": {
+        "name": "京人形司　小刀屋忠兵衛",
+        "shop": "gift"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7708012,
+          35.0088485
+        ]
+      },
+      "properties": {
+        "name": "京仏具　三法堂",
+        "shop": "craft"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7521948,
+          35.0042326
+        ]
+      },
+      "properties": {
+        "craft": "stonemason",
+        "name": "柴田石材",
+        "operator": "柴田石材株式会社"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7521947,
+          35.0042037
+        ]
+      },
+      "properties": {
+        "craft": "carpenter",
+        "name": "京町家工房"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7521546,
+          35.0043572
+        ]
+      },
+      "properties": {
+        "craft": "dressmaker",
+        "name": "工芸染匠 いち川"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.758651,
+          35.0040324
+        ]
+      },
+      "properties": {
+        "alt_name": "竹中工務店 作業所事務所",
+        "craft": "carpenter",
+        "level": "5",
+        "name": "竹中工務店"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7694458,
+          35.0045761
+        ]
+      },
+      "properties": {
+        "craft": "handicraft",
+        "name": "日本最古の京都和傘屋 辻倉",
+        "name:en": "Tsujikura - lamp umbrella",
+        "opening_hours": "Th-Tu 12:00-18:00",
+        "website": "https://kyoto-tsujikura.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7764685,
+          34.9525267
+        ]
+      },
+      "properties": {
+        "craft": "roofer",
+        "name": "北村仁司瓦店"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.754091,
+          35.0050082
+        ]
+      },
+      "properties": {
+        "craft": "carpenter",
+        "name": "K.K マルキ工務店"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7712882,
+          35.1176999
+        ]
+      },
+      "properties": {
+        "shop": "gift"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7654686,
+          34.9330993
+        ]
+      },
+      "properties": {
+        "check_date": "2024-12-28",
+        "craft": "confectionery",
+        "name": "粉こ楽"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7521217,
+          35.0101637
+        ]
+      },
+      "properties": {
+        "check_date": "2025-01-02",
+        "craft": "carpenter",
+        "name": "株式会社わがやのリフォーム計画"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7359369,
+          35.0323493
+        ]
+      },
+      "properties": {
+        "craft": "shoemaker",
+        "name": "Growold"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7656791,
+          34.9457221
+        ]
+      },
+      "properties": {
+        "check_date": "2025-04-05",
+        "craft": "confectionery",
+        "name": "おはぎ工房"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7604665,
+          35.0039431
+        ]
+      },
+      "properties": {
+        "check_date": "2025-04-12",
+        "name": "BuruBuruAiai",
+        "shop": "gift"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7570701,
+          35.0098883
+        ]
+      },
+      "properties": {
+        "check_date": "2025-04-12",
+        "craft": "confectionery",
+        "name": "MAISON TANUKI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7609893,
+          35.0064255
+        ]
+      },
+      "properties": {
+        "check_date": "2025-04-12",
+        "craft": "confectionery",
+        "name": "Flaga Basica"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7612141,
+          35.0058773
+        ]
+      },
+      "properties": {
+        "check_date": "2025-04-12",
+        "craft": "handicraft",
+        "name": "注染手ぬぐい にじゆら"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7754233,
+          35.0153126
+        ]
+      },
+      "properties": {
+        "craft": "handicraft",
+        "name": "大笹屋",
+        "note": "和楽器",
+        "shop": "musical_instrument"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7250582,
+          35.0158812
+        ]
+      },
+      "properties": {
+        "craft": "photographer",
+        "name": "古川写真館"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7672821,
+          35.0099783
+        ]
+      },
+      "properties": {
+        "check_date": "2025-04-19",
+        "craft": "handicraft",
+        "name": "龍昇堂"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7672829,
+          35.0100816
+        ]
+      },
+      "properties": {
+        "check_date": "2025-04-19",
+        "craft": "handicraft",
+        "name": "ウジモト"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7672977,
+          35.009814
+        ]
+      },
+      "properties": {
+        "check_date": "2025-04-19",
+        "craft": "handicraft",
+        "name": "鳩居堂"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7673841,
+          35.0085924
+        ]
+      },
+      "properties": {
+        "check_date": "2025-04-19",
+        "craft": "handicraft",
+        "name": "美やこ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7675128,
+          35.0085739
+        ]
+      },
+      "properties": {
+        "check_date": "2025-04-19",
+        "craft": "handicraft",
+        "name": "つえ屋"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7675208,
+          35.0085293
+        ]
+      },
+      "properties": {
+        "check_date": "2025-04-19",
+        "craft": "handicraft",
+        "name": "FIRST-ARROWS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7673768,
+          35.0083397
+        ]
+      },
+      "properties": {
+        "check_date": "2025-04-19",
+        "name": "南海堂",
+        "shop": "gift"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7674051,
+          35.0082359
+        ]
+      },
+      "properties": {
+        "check_date": "2025-04-19",
+        "name": "京和堂",
+        "shop": "gift"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7669367,
+          35.0047223
+        ]
+      },
+      "properties": {
+        "name:en": "Model Gun",
+        "shop": "gift"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.8105046,
+          34.949127
+        ]
+      },
+      "properties": {
+        "craft": "photographer",
+        "name": "スタジオ醍醐"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7581699,
+          34.9846402
+        ]
+      },
+      "properties": {
+        "location": "underground",
+        "name": "Precious Deli & Gift Kyoto",
+        "shop": "gift"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7693665,
+          35.0093625
+        ]
+      },
+      "properties": {
+        "craft": "brewery",
+        "name": "Kyoto Arashiyama Brewery Sanjō",
+        "opening_hours": "Mo-Fr 15:00-22:00; Sa-Su 12:00-22:00",
+        "website": "https://arashiyamabrewery.stores.jp/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7582213,
+          34.9844746
+        ]
+      },
+      "properties": {
+        "addr:floor": "0",
+        "check_date": "2025-09-16",
+        "level": "0",
+        "name": "Bellmart",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "shop": "gift"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.757995,
+          34.9845095
+        ]
+      },
+      "properties": {
+        "addr:floor": "0",
+        "check_date": "2025-09-16",
+        "level": "0",
+        "name": "カランコロン京都",
+        "shop": "gift"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7579302,
+          34.9844947
+        ]
+      },
+      "properties": {
+        "addr:floor": "0",
+        "check_date": "2025-09-16",
+        "level": "0",
+        "name": "薫々",
+        "note": "香（かおり）の物を販売",
+        "shop": "gift"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7570434,
+          34.9846662
+        ]
+      },
+      "properties": {
+        "addr:floor": "0",
+        "check_date": "2025-09-16",
+        "level": "0",
+        "name": "京都SOUZEN",
+        "shop": "gift"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7592026,
+          34.9844706
+        ]
+      },
+      "properties": {
+        "addr:floor": "0",
+        "check_date": "2025-09-16",
+        "level": "0",
+        "name": "PLUSTA",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "shop": "gift"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7654248,
+          34.9939759
+        ]
+      },
+      "properties": {
+        "check_date": "2025-09-28",
+        "name": "茶筒 開化堂",
+        "shop": "craft"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.75094227857144,
+          35.01361586428571
+        ]
+      },
+      "properties": {
+        "building": "retail",
+        "name": "休憩所・売店",
+        "name:en": "Lounge",
+        "name:ja": "休憩所・売店",
+        "shop": "gift",
+        "source": "Bing, 2007-12;GSImaps/std"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.77278772,
+          35.0388574
+        ]
+      },
+      "properties": {
+        "building": "retail",
+        "name": "授与所",
+        "religion": "buddhist",
+        "shop": "gift",
+        "source": "Bing"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.75250274,
+          35.059995879999995
+        ]
+      },
+      "properties": {
+        "building": "retail",
+        "name": "御祈祷受付 お札・お守り授与所",
+        "religion": "shinto",
+        "shop": "gift",
+        "source": "Bing"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.77232181999997,
+          34.98155482
+        ]
+      },
+      "properties": {
+        "building": "yes",
+        "craft": "photographer",
+        "name": "カメラのソノ",
+        "source": "Bing : survey"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.77261084,
+          34.981736
+        ]
+      },
+      "properties": {
+        "building": "yes",
+        "craft": "confectionery",
+        "name": "おはぎの丹波屋",
+        "source": "bing : survey"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.77168548333333,
+          34.9810742
+        ]
+      },
+      "properties": {
+        "building": "yes",
+        "craft": "photographer",
+        "name": "中村升一写真場",
+        "source": "Bing; survey"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.72980109999997,
+          35.04007969999999
+        ]
+      },
+      "properties": {
+        "building": "retail",
+        "name": "不動堂茶所",
+        "name:en": "Fudodo Chasho",
+        "operator": "金閣鹿苑寺",
+        "religion": "buddhist",
+        "shop": "gift",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7478176,
+          34.981306
+        ]
+      },
+      "properties": {
+        "building:levels": "1",
+        "building:part": "yes",
+        "shop": "gift",
+        "source": "Bing; survey, 2015-07-11"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.71709538181818,
+          34.9988272
+        ]
+      },
+      "properties": {
+        "building": "yes",
+        "building:levels": "3",
+        "craft": "atelier",
+        "name:en": "A.S.K. (Atelier Share Kyoto)",
+        "name:ja": "A.S.K. スタジオ",
+        "source": "bing",
+        "website": "https://alt.space-post.org",
+        "name": "A.S.K. スタジオ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.73492788,
+          34.96180572
+        ]
+      },
+      "properties": {
+        "building": "industrial",
+        "contact:phone": "+81 75 606 2988",
+        "contact:website": "https://kyotodistillery.jp/",
+        "craft": "distillery",
+        "name": "京都蒸溜所",
+        "name:en": "The Kyoto Distillery",
+        "name:fr": "The Kyoto Distillery",
+        "name:ja-Hira": "きょうと じょうりゅうしょ",
+        "name:ja-Latn": "Kyōto jōryū-sho",
+        "product": "gin",
+        "source": "bing"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.78046551875,
+          35.017705731250004
+        ]
+      },
+      "properties": {
+        "building": "retail",
+        "name": "アミタ本店",
+        "name:en": "AMITA",
+        "name:ja": "アミタ本店",
+        "name:ja_rm": "Amita",
+        "shop": "gift",
+        "source": "GSI/KIBAN 2500; NARO;Bing 2012-7;Survey;Image"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.73312774000001,
+          35.0390126
+        ]
+      },
+      "properties": {
+        "building": "retail",
+        "name": "ちりめん細工館",
+        "shop": "gift",
+        "source": "Bing"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7330683,
+          35.03902076
+        ]
+      },
+      "properties": {
+        "building": "retail",
+        "name": "隣鹿苑",
+        "shop": "gift",
+        "source": "Bing"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.76699446153847,
+          35.00995586153845
+        ]
+      },
+      "properties": {
+        "building": "retail",
+        "check_date": "2025-04-19",
+        "craft": "handicraft",
+        "name": "鳩居堂",
+        "name:ja_rm": "Kyūkyōdō",
+        "website": "https://www.kyukyodo.co.jp/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7722090111111,
+          34.96740182222222
+        ]
+      },
+      "properties": {
+        "building": "retail",
+        "name": "南神具株式会社",
+        "shop": "gift"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7515562,
+          35.01751708
+        ]
+      },
+      "properties": {
+        "building": "yes",
+        "building:levels": "3",
+        "craft": "locksmith",
+        "name": "カギのベストワン",
+        "source": "survey, Bing"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.77434792000003,
+          34.92155859999999
+        ]
+      },
+      "properties": {
+        "building": "yes",
+        "craft": "carpet_layer",
+        "name": "水谷畳建",
+        "source": "Bing;survey"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.77599296,
+          35.011807399999995
+        ]
+      },
+      "properties": {
+        "building": "yes",
+        "craft": "confectionery",
+        "cuisine": "japanese",
+        "name": "こたろう",
+        "source": "GSI/KIBAN 2500; NARO",
+        "source_ref": "http://wiki.osm.org/wiki/GSI_KIBAN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7829184833333,
+          35.00945755
+        ]
+      },
+      "properties": {
+        "building": "retail",
+        "name": "花みずき",
+        "shop": "gift",
+        "source": "GSImaps/std;Survey"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7829343888889,
+          35.009544455555556
+        ]
+      },
+      "properties": {
+        "building": "retail",
+        "name": "洛禅（RAKUZEN）",
+        "shop": "gift",
+        "source": "GSImaps/std;Survey"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.79477491999998,
+          35.014549120000005
+        ]
+      },
+      "properties": {
+        "building": "retail",
+        "shop": "gift",
+        "source": "GSI/KIBAN 25000; NARO",
+        "source_ref": "http://wiki.osm.org/wiki/GSI_KIBAN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7913368,
+          35.01091157272728
+        ]
+      },
+      "properties": {
+        "building": "retail",
+        "building:levels": "1",
+        "contact:website": "https://nanzenji.or.jp/equipment/kanmontei",
+        "name:en": "観門亭",
+        "name:fr": "Pavillon Kanmon",
+        "name:ja-Hira": "かんもんてい",
+        "name:ja-Latn": "Kanmon-tei",
+        "shop": "gift",
+        "source": "GSI/KIBAN 2500; NARO",
+        "source_ref": "http://wiki.osm.org/wiki/GSI_KIBAN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.78254193636366,
+          35.01017621818182
+        ]
+      },
+      "properties": {
+        "building": "yes",
+        "craft": "gardener",
+        "name": "株式会社 造園植治",
+        "source": "GSI/KIBAN 2500;NARO;Survey",
+        "source_ref": "http://wiki.osm.org/wiki/GSI_KIBAN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.73972311428568,
+          34.978452971428574
+        ]
+      },
+      "properties": {
+        "building": "yes",
+        "craft": "carpenter"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.71612363,
+          34.9543075
+        ]
+      },
+      "properties": {
+        "name": "エスラインギフ",
+        "shop": "gift",
+        "source": "Survey, Bing"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.77538678000002,
+          34.96643046
+        ]
+      },
+      "properties": {
+        "building": "yes",
+        "shop": "gift",
+        "source": "survey 2014-08-16"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.77888596,
+          34.970152240000004
+        ]
+      },
+      "properties": {
+        "building": "yes",
+        "name": "三玉亭",
+        "shop": "gift",
+        "source": "bing"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7721143,
+          34.9678488875
+        ]
+      },
+      "properties": {
+        "building": "yes",
+        "name": "株式会社名産館　神祭具　稲荷",
+        "shop": "gift"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.77080514,
+          34.9684223
+        ]
+      },
+      "properties": {
+        "building": "yes",
+        "craft": "confectionery",
+        "name": "いなり　ふたば"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.78582104285715,
+          35.01881407142857
+        ]
+      },
+      "properties": {
+        "building": "yes",
+        "craft": "carpenter",
+        "name": "元禄畳",
+        "source": "GSI/KIBAN 2500; NARO;Bing 2012-7;Survey",
+        "source_ref": "http://wiki.osm.org/wiki/GSI_KIBAN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.78574232,
+          35.01842104
+        ]
+      },
+      "properties": {
+        "building": "retail",
+        "building:levels": "2",
+        "craft": "stonemason",
+        "name": "大前石材店",
+        "source": "GSI/KIBAN 2500; NARO;Bing 2012-7;Survey",
+        "source_ref": "http://wiki.osm.org/wiki/GSI_KIBAN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.78561316,
+          35.01839982
+        ]
+      },
+      "properties": {
+        "building": "yes",
+        "craft": "stonemason",
+        "name": "小石原石材店",
+        "source": "GSI/KIBAN 2500; NARO;Bing 2012-7;Survey;Image",
+        "source_ref": "http://wiki.osm.org/wiki/GSI_KIBAN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.78287603333334,
+          34.995684133333334
+        ]
+      },
+      "properties": {
+        "building": "yes",
+        "name": "梅山堂",
+        "shop": "gift",
+        "source": "Bing"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.78107362,
+          34.996156559999996
+        ]
+      },
+      "properties": {
+        "building": "yes",
+        "name": "藤木商店",
+        "shop": "gift",
+        "source": "Bing"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.78245925714288,
+          34.995614971428566
+        ]
+      },
+      "properties": {
+        "building": "yes",
+        "name": "西利",
+        "shop": "gift",
+        "source": "Bing"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.78247906666667,
+          34.99540908333333
+        ]
+      },
+      "properties": {
+        "building": "yes",
+        "name": "朝日堂",
+        "shop": "gift",
+        "source": "Bing"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7825825,
+          34.995461
+        ]
+      },
+      "properties": {
+        "building": "yes",
+        "name": "西秀",
+        "shop": "gift",
+        "source": "Bing"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7808941,
+          34.996067239999995
+        ]
+      },
+      "properties": {
+        "building": "yes",
+        "name": "栄山堂",
+        "shop": "gift",
+        "source": "Bing"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.780525,
+          34.996236318181815
+        ]
+      },
+      "properties": {
+        "building": "yes",
+        "name": "飯田昆布店",
+        "shop": "gift",
+        "source": "GSI/KIBAN 2500; NARO",
+        "source_ref": "http://wiki.osm.org/wiki/GSI_KIBAN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.78079478181817,
+          34.996348000000005
+        ]
+      },
+      "properties": {
+        "building": "yes",
+        "name": "ひろ吉",
+        "shop": "gift",
+        "source": "GSI/KIBAN 2500; NARO",
+        "source_ref": "http://wiki.osm.org/wiki/GSI_KIBAN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.78037471666667,
+          34.996318683333335
+        ]
+      },
+      "properties": {
+        "building": "yes",
+        "name": "三十六峰",
+        "shop": "gift",
+        "source": "GSI/KIBAN 2500; NARO",
+        "source_ref": "http://wiki.osm.org/wiki/GSI_KIBAN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7793371,
+          34.996939659999995
+        ]
+      },
+      "properties": {
+        "building": "yes",
+        "shop": "gift",
+        "source": "GSI/KIBAN 2500; NARO",
+        "source_ref": "http://wiki.osm.org/wiki/GSI_KIBAN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.78029524285714,
+          34.99660197142857
+        ]
+      },
+      "properties": {
+        "building": "yes",
+        "name": "小林商店",
+        "shop": "gift",
+        "source": "GSI/KIBAN 2500; NARO",
+        "source_ref": "http://wiki.osm.org/wiki/GSI_KIBAN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.77813235555556,
+          34.997244
+        ]
+      },
+      "properties": {
+        "building": "yes",
+        "name": "KINTOTOYA",
+        "shop": "gift",
+        "source": "survey"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.75258974,
+          34.93177342
+        ]
+      },
+      "properties": {
+        "brewery": "yes",
+        "building": "yes",
+        "craft": "sake",
+        "name": "斎藤酒造",
+        "source": "GSI/KIBAN 2500",
+        "source_ref": "http://wiki.osm.org/wiki/GSI_KIBAN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.73164093999998,
+          35.038453960000005
+        ]
+      },
+      "properties": {
+        "building": "yes",
+        "name": "かんざし屋",
+        "shop": "gift",
+        "source": "Bing"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.73135666000002,
+          35.03813936
+        ]
+      },
+      "properties": {
+        "building": "yes",
+        "craft": "photographer",
+        "name": "mic",
+        "source": "Bing"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7314785,
+          35.0383063
+        ]
+      },
+      "properties": {
+        "building": "yes",
+        "name": "よりみち",
+        "shop": "gift",
+        "source": "Bing"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.72928464,
+          35.0402822
+        ]
+      },
+      "properties": {
+        "building": "yes",
+        "religion": "buddhist",
+        "shop": "gift",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.73285077999998,
+          35.03904928
+        ]
+      },
+      "properties": {
+        "building": "yes",
+        "name": "おたべ",
+        "shop": "gift",
+        "source": "Bing"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.73315816666664,
+          35.03900826666666
+        ]
+      },
+      "properties": {
+        "building": "yes",
+        "name": "よーじや",
+        "shop": "gift",
+        "source": "Bing"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.73294828000002,
+          35.03902728
+        ]
+      },
+      "properties": {
+        "building": "yes",
+        "name": "招喜屋",
+        "shop": "gift",
+        "source": "Bing"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.73275908,
+          35.03896488
+        ]
+      },
+      "properties": {
+        "building": "yes",
+        "name": "西利",
+        "shop": "gift",
+        "source": "Bing"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.72823871999998,
+          35.04002486
+        ]
+      },
+      "properties": {
+        "building": "yes",
+        "religion": "buddhist",
+        "shop": "gift",
+        "source": "survey"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.77275165999998,
+          35.03827158
+        ]
+      },
+      "properties": {
+        "building": "yes",
+        "name": "えんむすびお守り授与所",
+        "shop": "gift"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7968716,
+          35.02709044
+        ]
+      },
+      "properties": {
+        "building": "yes",
+        "name": "本家八ツ橋",
+        "shop": "gift",
+        "source": "Bing"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7954871,
+          35.02726678
+        ]
+      },
+      "properties": {
+        "building": "yes",
+        "name": "うさぎの さかあがり",
+        "shop": "gift",
+        "source": "Bing"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.79675316,
+          35.02724512
+        ]
+      },
+      "properties": {
+        "building": "yes",
+        "building:levels": "2",
+        "name": "扇屋",
+        "shop": "gift",
+        "source": "Bing,Survey"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7965835,
+          35.027224419999996
+        ]
+      },
+      "properties": {
+        "building": "yes",
+        "building:levels": "1",
+        "name": "杉養蜂園",
+        "shop": "gift",
+        "source": "Bing,Survey"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7962,
+          35.027071480000004
+        ]
+      },
+      "properties": {
+        "building": "yes",
+        "name": "小松",
+        "note": "京つけもの",
+        "shop": "gift",
+        "source": "Bing"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7955845,
+          35.02726962
+        ]
+      },
+      "properties": {
+        "building": "yes",
+        "name": "ちりめん 細工館",
+        "shop": "gift",
+        "source": "Bing"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7971313,
+          35.02710462
+        ]
+      },
+      "properties": {
+        "building": "yes",
+        "name": "Qu-an",
+        "shop": "gift",
+        "source": "Bing"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7971853,
+          35.02728102000001
+        ]
+      },
+      "properties": {
+        "building": "yes",
+        "building:levels": "2",
+        "name": "まつばや",
+        "shop": "gift",
+        "source": "Bing,Survey"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.79684400000002,
+          35.02721958
+        ]
+      },
+      "properties": {
+        "building": "yes",
+        "building:levels": "1",
+        "name": "銀茶堂",
+        "shop": "gift",
+        "source": "Bing,Survey"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.79508191999997,
+          35.0270455
+        ]
+      },
+      "properties": {
+        "building": "yes",
+        "check_date": "2022-12-29",
+        "name": "銀閣堂",
+        "name:en": "Ginkakudo",
+        "shop": "gift",
+        "source": "Bing"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7975578142857,
+          35.02749368571428
+        ]
+      },
+      "properties": {
+        "building": "yes",
+        "craft": "gardener",
+        "name": "長谷川造園",
+        "source": "GSImaps/std"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7979086,
+          35.026696740000006
+        ]
+      },
+      "properties": {
+        "building": "yes",
+        "name": "朱印所",
+        "name:en": "Red Seal Office",
+        "name:fr": "Bureau du sceau rouge",
+        "name:ja-Hira": "しゅいんしょ",
+        "name:ja-Latn": "Shuin-sho",
+        "shop": "gift"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.79560518,
+          35.0271348
+        ]
+      },
+      "properties": {
+        "building": "yes",
+        "building:levels": "2",
+        "check_date": "2022-12-29",
+        "name": "大前商店",
+        "shop": "gift",
+        "source": "Bing,Survey"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.79553284,
+          35.02726489999999
+        ]
+      },
+      "properties": {
+        "building": "yes",
+        "name": "京阿彌",
+        "shop": "gift",
+        "source": "Bing"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.79629318,
+          35.02722308
+        ]
+      },
+      "properties": {
+        "building": "yes",
+        "shop": "gift"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.74911538,
+          34.98228464
+        ]
+      },
+      "properties": {
+        "building": "retail",
+        "shop": "gift",
+        "source": "Bing"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.82159266000002,
+          35.12363588
+        ]
+      },
+      "properties": {
+        "building": "retail",
+        "shop": "gift",
+        "source": "GSImaps/std"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.8211253,
+          35.123463619999995
+        ]
+      },
+      "properties": {
+        "building": "retail",
+        "name": "翠月",
+        "shop": "gift",
+        "source": "GSImaps/std"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.82100459999998,
+          35.12357342
+        ]
+      },
+      "properties": {
+        "building": "retail",
+        "name": "翠月",
+        "name:ja-Latn": "Suigetsu",
+        "shop": "gift",
+        "source": "GSImaps/std"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.75269509999998,
+          35.060167879999995
+        ]
+      },
+      "properties": {
+        "building": "retail",
+        "name": "朱印受付 お札・お守授与所",
+        "religion": "shinto",
+        "shop": "gift",
+        "source": "Bing"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7697994,
+          34.947646160000005
+        ]
+      },
+      "properties": {
+        "building": "yes",
+        "craft": "photographer",
+        "name": "伏見の写真館　これから",
+        "source": "GSI/KIBAN 2500; NARO;Bing 2012-7"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7708664857143,
+          34.956756614285716
+        ]
+      },
+      "properties": {
+        "building": "yes",
+        "craft": "carpenter",
+        "name": "有限会社 コーユービルド",
+        "source": "GSI/KIBAN 2500; NARO;Bing 2012-7"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.71389606000002,
+          35.030749619999995
+        ]
+      },
+      "properties": {
+        "building": "retail",
+        "name": "納経所",
+        "name:en": "Nōkyō-sho",
+        "name:fr": "Nōkyō-sho",
+        "name:ja-Hira": "のうきょうしょ",
+        "name:ja-Latn": "Nōkyō-sho",
+        "religion": "buddhist",
+        "shop": "gift",
+        "source": "Bing; survey"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7146394,
+          35.028040219999994
+        ]
+      },
+      "properties": {
+        "building": "yes",
+        "craft": "carpenter",
+        "name": "碇 建設 (株)",
+        "source": "Bing"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7513276,
+          35.011713925
+        ]
+      },
+      "properties": {
+        "building": "retail",
+        "name": "蔵屋はしもと",
+        "shop": "gift",
+        "source": "Bing"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.71980373333335,
+          35.0323741
+        ]
+      },
+      "properties": {
+        "name": "富川",
+        "note": "京つけもの",
+        "shop": "gift"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.71967056,
+          35.0323657
+        ]
+      },
+      "properties": {
+        "name": "衣笠",
+        "shop": "gift"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.71962254,
+          34.90761346000001
+        ]
+      },
+      "properties": {
+        "building": "yes",
+        "craft": "plumber",
+        "name": "株式会社 津田",
+        "note": "京都市上下水道、久御山町上下水道　指定業者",
+        "source": "GSI/KIBAN 2500; Bing"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.71840198,
+          34.908791439999995
+        ]
+      },
+      "properties": {
+        "building": "yes",
+        "craft": "stonemason",
+        "name": "巻野石材店",
+        "source": "GSI/KIBAN 2500; Bing; Survey"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.71675768,
+          34.9055871
+        ]
+      },
+      "properties": {
+        "building": "yes",
+        "craft": "carpenter",
+        "name": "Rêve建築工房　小菅工務店"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.76246112,
+          34.93514202
+        ]
+      },
+      "properties": {
+        "building": "industrial",
+        "contact:phone": "075-611-4666",
+        "contact:website": "https://www.sookuu.net/",
+        "craft": "sake",
+        "name": "藤岡酒造",
+        "source": "survey, bing"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7351862076923,
+          35.02598956923077
+        ]
+      },
+      "properties": {
+        "building": "yes",
+        "craft": "dressmaker",
+        "name": "トラヤ制服店"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.73711646666666,
+          35.037525050000006
+        ]
+      },
+      "properties": {
+        "building": "yes",
+        "craft": "pottery",
+        "name": "えんじゅ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7370875714286,
+          35.037562671428574
+        ]
+      },
+      "properties": {
+        "building": "yes",
+        "craft": "handicraft",
+        "name": "ポーラスタ",
+        "name:en": "PolarSta"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.73741846000001,
+          35.01110928
+        ]
+      },
+      "properties": {
+        "building": "yes",
+        "check_date": "2025-08-13",
+        "craft": "builder",
+        "name": "山脇宅建"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7393705,
+          35.00977723999999
+        ]
+      },
+      "properties": {
+        "building": "yes",
+        "craft": "carpenter",
+        "name": "平野工務店"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.73906257142858,
+          35.009511585714286
+        ]
+      },
+      "properties": {
+        "craft": "stonemason",
+        "name": "阪下石材商店"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.73874112,
+          35.010357
+        ]
+      },
+      "properties": {
+        "building": "yes",
+        "craft": "confectionary",
+        "cuisine": "japanese",
+        "name": "よし廣製菓"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.75672799999998,
+          34.93250584545454
+        ]
+      },
+      "properties": {
+        "brewery": "yes",
+        "building": "yes",
+        "craft": "sake",
+        "name": "北川本家",
+        "source": "GSImaps/std",
+        "wikipedia": "ja:北川本家"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.75771741999998,
+          34.930301220000004
+        ]
+      },
+      "properties": {
+        "brewery": "yes",
+        "building": "yes",
+        "craft": "sake",
+        "name": "京姫",
+        "source": "GSImaps/std"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.75459519999998,
+          34.933901709999994
+        ]
+      },
+      "properties": {
+        "brewery": "yes",
+        "craft": "sake",
+        "landuse": "industrial",
+        "name": "松本酒造"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.75867322,
+          34.93733768
+        ]
+      },
+      "properties": {
+        "brewery": "yes",
+        "building": "yes",
+        "craft": "sake",
+        "name": "鶴正酒造",
+        "source": "GSImaps/std"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.71459437999997,
+          34.96245338
+        ]
+      },
+      "properties": {
+        "building": "yes",
+        "craft": "photographer",
+        "name": "Studio World"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.6764854,
+          34.968948239999996
+        ]
+      },
+      "properties": {
+        "building": "yes",
+        "craft": "carpenter",
+        "name": "株式会社奥本工務店"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.73739238000002,
+          35.011289999999995
+        ]
+      },
+      "properties": {
+        "building": "yes",
+        "craft": "builder"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7811979076923,
+          34.996156861538466
+        ]
+      },
+      "properties": {
+        "building": "yes",
+        "name": "田中忠金堂",
+        "shop": "gift",
+        "source": "Bing"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.76884434,
+          34.9950454
+        ]
+      },
+      "properties": {
+        "building": "yes",
+        "building:levels": "2",
+        "name": "真田紐師　江南",
+        "shop": "craft"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.74750885999998,
+          35.018672620000004
+        ]
+      },
+      "properties": {
+        "building": "yes",
+        "craft": "sake"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.74729385999998,
+          35.01866775999999
+        ]
+      },
+      "properties": {
+        "building": "yes",
+        "craft": "sake"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.77035511999998,
+          35.04344064
+        ]
+      },
+      "properties": {
+        "building": "yes",
+        "building:levels": "2",
+        "craft": "carpenter",
+        "name": "（株）武本木材住研"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.77500458,
+          34.993625599999994
+        ]
+      },
+      "properties": {
+        "building": "yes",
+        "craft": "pottery",
+        "name": "石川製陶所",
+        "note": "石雲窯"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.83393328000002,
+          35.11970984
+        ]
+      },
+      "properties": {
+        "building": "yes",
+        "name": "川勝總本家",
+        "shop": "gift",
+        "source": "Bing"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.83386054,
+          35.119425220000004
+        ]
+      },
+      "properties": {
+        "building": "yes",
+        "name": "京銘菓・和小物 千咲都",
+        "shop": "gift"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.73596113999997,
+          34.97840558
+        ]
+      },
+      "properties": {
+        "building": "yes",
+        "building:levels": "2",
+        "craft": "confectionery",
+        "name": "からはし"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.74459037999998,
+          34.981748540000005
+        ]
+      },
+      "properties": {
+        "building": "yes",
+        "craft": "carpenter",
+        "name": "東幸商店"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.73481042,
+          35.00836888
+        ]
+      },
+      "properties": {
+        "building": "yes",
+        "building:levels": "2",
+        "craft": "upholsterer",
+        "name": "近藤椅子製作所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.76060017999998,
+          34.931507599999996
+        ]
+      },
+      "properties": {
+        "addr:block_number": "93",
+        "addr:city": "京都市",
+        "addr:province": "京都府",
+        "addr:quarter": "中油掛町",
+        "addr:suburb": "伏見区",
+        "building": "commercial",
+        "craft": "confectionery",
+        "name": "京菓子司 富英堂",
+        "name:en": "Kyogashitsukasa Tomieido",
+        "name:ja": "京菓子司 富英堂",
+        "operator": "株式会社富栄堂",
+        "phone": "+81-75-601-1366",
+        "website": "https://www.instagram.com/_tomieidou_/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7588946875,
+          34.9344331625
+        ]
+      },
+      "properties": {
+        "building": "manufacture",
+        "building:levels": "2",
+        "craft": "stonemason",
+        "name": "嶋石材店"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.76979102,
+          34.93304306
+        ]
+      },
+      "properties": {
+        "building": "yes",
+        "craft": "photographer",
+        "name": "株式会社 澤田ビジネス GPC写真場",
+        "source": "Bing"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.76816544,
+          34.9331749
+        ]
+      },
+      "properties": {
+        "building": "yes",
+        "craft": "carpenter",
+        "name": "ワキサカ住設株式会社",
+        "source": "Bing"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.74730068,
+          35.0426957
+        ]
+      },
+      "properties": {
+        "addr:city": "京都府京都市北区紫野門前町14",
+        "addr:postcode": "603-8216",
+        "building": "yes",
+        "craft": "kintsugi",
+        "name": "Heiando Kintsugi (Shitsugeisha) 漆芸舎 平安堂",
+        "phone": "+81753345012",
+        "website": "https://shitsugeisya.jimdo.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.73593117142858,
+          35.001001671428575
+        ]
+      },
+      "properties": {
+        "building": "yes",
+        "building:levels": "3",
+        "craft": "carpenter",
+        "name": "株式会社MADOリード"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.77038426000001,
+          34.9803297
+        ]
+      },
+      "properties": {
+        "building": "yes",
+        "craft": "confectionery",
+        "name": "鶴屋弦月"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.77075865714286,
+          34.97041268571429
+        ]
+      },
+      "properties": {
+        "building": "yes",
+        "name": "伏見人形 丹嘉",
+        "shop": "gift",
+        "source": "Bing; survey"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.67299408000002,
+          35.02287968
+        ]
+      },
+      "properties": {
+        "building": "yes",
+        "craft": "carpenter",
+        "name": "株式会社 吉川組"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.73528814000002,
+          35.049843300000006
+        ]
+      },
+      "properties": {
+        "building": "yes",
+        "craft": "confectionery",
+        "name": "光悦堂"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.75587534000002,
+          34.93743116
+        ]
+      },
+      "properties": {
+        "building": "yes",
+        "craft": "sawmill",
+        "name": "石山木材株式会社"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.75710782,
+          34.93734628
+        ]
+      },
+      "properties": {
+        "brewery": "yes",
+        "building": "yes",
+        "craft": "sake"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.78496764000002,
+          34.9430944
+        ]
+      },
+      "properties": {
+        "building": "yes",
+        "craft": "carpenter",
+        "name": "株式会社 コソノ工務店"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7823779,
+          34.94512986
+        ]
+      },
+      "properties": {
+        "building": "yes",
+        "craft": "painter",
+        "name": "関西塗装"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.75879106,
+          34.937701159999996
+        ]
+      },
+      "properties": {
+        "building": "yes",
+        "craft": "sake"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.76543673999998,
+          34.95871202
+        ]
+      },
+      "properties": {
+        "building": "yes",
+        "building:levels": "3",
+        "craft": "carpenter",
+        "name": "入江建設"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7649247111111,
+          34.957489177777774
+        ]
+      },
+      "properties": {
+        "building": "yes",
+        "building:levels": "2",
+        "craft": "carpenter",
+        "name": "AIJI PLANNING",
+        "operator": "株式会社 藍治商事"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.76494058333333,
+          34.957852933333335
+        ]
+      },
+      "properties": {
+        "building": "yes",
+        "building:levels": "3",
+        "craft": "carpenter",
+        "name": "株式会社 仲谷工務店　京都営業所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.77098126,
+          34.96436036
+        ]
+      },
+      "properties": {
+        "building": "yes",
+        "building:levels": "2",
+        "name": "京都 藤田佛具",
+        "shop": "craft"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.76673838,
+          34.97413514
+        ]
+      },
+      "properties": {
+        "building": "yes",
+        "building:levels": "4",
+        "craft": "carpenter",
+        "name": "株式会社山口工務店"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.75888236,
+          34.95785728
+        ]
+      },
+      "properties": {
+        "building": "office",
+        "building:levels": "3",
+        "craft": "carpenter",
+        "name": "株式会社 近藤工務店"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.66957164000002,
+          35.022481719999995
+        ]
+      },
+      "properties": {
+        "building": "yes",
+        "name": "紙と織　嵯峨野工房",
+        "shop": "gift"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.66992659230772,
+          35.02206473846154
+        ]
+      },
+      "properties": {
+        "building": "yes",
+        "name": "民芸 京みやげ　松里",
+        "shop": "gift"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.76934819999997,
+          34.9206844
+        ]
+      },
+      "properties": {
+        "building": "yes",
+        "craft": "carpenter",
+        "name": "森本工務店",
+        "note": "総合建設請負\nPanasonic 取扱店",
+        "phone": "+81 75 621 1543"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.8147465,
+          34.95933112222222
+        ]
+      },
+      "properties": {
+        "building": "yes",
+        "craft": "carpenter",
+        "name": "株式会社山梅工務店"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.73921658,
+          35.00892969
+        ]
+      },
+      "properties": {
+        "craft": "carpenter"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.72159266250003,
+          34.910118062500004
+        ]
+      },
+      "properties": {
+        "craft": "electrician",
+        "name": "株式会社 植田電機"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7357176,
+          34.92173304000001
+        ]
+      },
+      "properties": {
+        "building": "yes",
+        "craft": "metal_construction",
+        "name": "株式会社 尾崎製作所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.73799648000002,
+          34.92586494
+        ]
+      },
+      "properties": {
+        "craft": "carpenter",
+        "name": "Crights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.77097202,
+          34.92165286
+        ]
+      },
+      "properties": {
+        "building": "yes",
+        "craft": "electrician",
+        "name": "株式会社大河電工"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.77143832,
+          34.92169556
+        ]
+      },
+      "properties": {
+        "building": "yes",
+        "craft": "caterer",
+        "name": "料理・仕出し 武治"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.77650789999998,
+          34.953078
+        ]
+      },
+      "properties": {
+        "building": "yes",
+        "building:levels": "2",
+        "craft": "electrician",
+        "name": "都らいぶハラダ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.74880627142858,
+          34.92948797142857
+        ]
+      },
+      "properties": {
+        "building": "manufacture",
+        "building:levels": "4",
+        "craft": "metal_construction",
+        "name": "株式会社 宇山金型製作所"
+      }
+    }
+  ]
+}

@@ -1,0 +1,226 @@
+{
+  "osm": {
+    "name": "OpenStreetMap",
+    "files": [
+      {
+        "file": "convenience_stores.geojson",
+        "count": 650
+      },
+      {
+        "file": "souvenir_shops.geojson",
+        "count": 432
+      },
+      {
+        "file": "tourism_temples.geojson",
+        "count": 12493
+      },
+      {
+        "file": "transport.geojson",
+        "count": 2626
+      },
+      {
+        "file": "restaurants.geojson",
+        "count": 4131
+      },
+      {
+        "file": "supermarkets.geojson",
+        "count": 268
+      },
+      {
+        "file": "accommodation.geojson",
+        "count": 630
+      },
+      {
+        "file": "parks_gardens.geojson",
+        "count": 1881
+      }
+    ],
+    "total_features": 23111
+  },
+  "plateau": {
+    "name": "PLATEAU",
+    "files": [
+      {
+        "file": "26100_kyoto-shi_city_2024_landmark.geojson",
+        "count": 888
+      },
+      {
+        "file": "26100_kyoto-shi_city_2024_26109_fushimi-ku_landmark.geojson",
+        "count": 149
+      },
+      {
+        "file": "shelters.geojson",
+        "count": 864
+      },
+      {
+        "file": "26100_kyoto-shi_city_2024_26107_minami-ku_landmark.geojson",
+        "count": 53
+      },
+      {
+        "file": "26100_kyoto-shi_city_2024_border.geojson",
+        "count": 11
+      },
+      {
+        "file": "26100_kyoto-shi_city_2024_park.geojson",
+        "count": 745
+      },
+      {
+        "file": "26100_kyoto-shi_city_2024_26104_nakagyo-ku_landmark.geojson",
+        "count": 87
+      },
+      {
+        "file": "26100_kyoto-shi_city_2024_26109_fushimi-ku_station.geojson",
+        "count": 26
+      },
+      {
+        "file": "26100_kyoto-shi_city_2024_26103_sakyo-ku_station.geojson",
+        "count": 26
+      },
+      {
+        "file": "26100_kyoto-shi_city_2024_26106_shimogyo-ku_station.geojson",
+        "count": 14
+      },
+      {
+        "file": "26100_kyoto-shi_city_2024_26102_kamigyo-ku_landmark.geojson",
+        "count": 66
+      },
+      {
+        "file": "26100_kyoto-shi_city_2024_26108_ukyo-ku_station.geojson",
+        "count": 27
+      },
+      {
+        "file": "26100_kyoto-shi_city_2024_26111_nishikyo-ku_station.geojson",
+        "count": 8
+      },
+      {
+        "file": "26100_kyoto-shi_city_2024_26111_nishikyo-ku_shelter.geojson",
+        "count": 42
+      },
+      {
+        "file": "landmarks.geojson",
+        "count": 1776
+      },
+      {
+        "file": "26100_kyoto-shi_city_2024_26108_ukyo-ku_shelter.geojson",
+        "count": 58
+      },
+      {
+        "file": "26100_kyoto-shi_city_2024_26106_shimogyo-ku_shelter.geojson",
+        "count": 29
+      },
+      {
+        "file": "26100_kyoto-shi_city_2024_26103_sakyo-ku_shelter.geojson",
+        "count": 55
+      },
+      {
+        "file": "26100_kyoto-shi_city_2024_26109_fushimi-ku_shelter.geojson",
+        "count": 90
+      },
+      {
+        "file": "emergency_routes.geojson",
+        "count": 210
+      },
+      {
+        "file": "26100_kyoto-shi_city_2024_26111_nishikyo-ku_landmark.geojson",
+        "count": 65
+      },
+      {
+        "file": "26100_kyoto-shi_city_2024_26101_kita-ku_landmark.geojson",
+        "count": 66
+      },
+      {
+        "file": "26100_kyoto-shi_city_2024_26110_yamashina-ku_landmark.geojson",
+        "count": 54
+      },
+      {
+        "file": "26100_kyoto-shi_city_2024_26104_nakagyo-ku_station.geojson",
+        "count": 10
+      },
+      {
+        "file": "26100_kyoto-shi_city_2024_26110_yamashina-ku_station.geojson",
+        "count": 10
+      },
+      {
+        "file": "26100_kyoto-shi_city_2024_26107_minami-ku_shelter.geojson",
+        "count": 22
+      },
+      {
+        "file": "26100_kyoto-shi_city_2024_26102_kamigyo-ku_shelter.geojson",
+        "count": 25
+      },
+      {
+        "file": "26100_kyoto-shi_city_2024_26106_shimogyo-ku_landmark.geojson",
+        "count": 77
+      },
+      {
+        "file": "26100_kyoto-shi_city_2024_26105_higashiyama-ku_landmark.geojson",
+        "count": 54
+      },
+      {
+        "file": "26100_kyoto-shi_city_2024_26101_kita-ku_shelter.geojson",
+        "count": 40
+      },
+      {
+        "file": "26100_kyoto-shi_city_2024_26108_ukyo-ku_landmark.geojson",
+        "count": 102
+      },
+      {
+        "file": "26100_kyoto-shi_city_2024_station.geojson",
+        "count": 144
+      },
+      {
+        "file": "26100_kyoto-shi_city_2024_26105_higashiyama-ku_shelter.geojson",
+        "count": 4
+      },
+      {
+        "file": "26100_kyoto-shi_city_2024_emergency_route.geojson",
+        "count": 210
+      },
+      {
+        "file": "26100_kyoto-shi_city_2024_26101_kita-ku_station.geojson",
+        "count": 4
+      },
+      {
+        "file": "26100_kyoto-shi_city_2024_shelter.geojson",
+        "count": 432
+      },
+      {
+        "file": "26100_kyoto-shi_city_2024_26105_higashiyama-ku_station.geojson",
+        "count": 11
+      },
+      {
+        "file": "26100_kyoto-shi_city_2024_railway.geojson",
+        "count": 305
+      },
+      {
+        "file": "26100_kyoto-shi_city_2024_26102_kamigyo-ku_station.geojson",
+        "count": 2
+      },
+      {
+        "file": "parks.geojson",
+        "count": 745
+      },
+      {
+        "file": "26100_kyoto-shi_city_2024_26107_minami-ku_station.geojson",
+        "count": 6
+      },
+      {
+        "file": "26100_kyoto-shi_city_2024_26110_yamashina-ku_shelter.geojson",
+        "count": 32
+      },
+      {
+        "file": "emergency_route.geojson",
+        "count": 210
+      },
+      {
+        "file": "26100_kyoto-shi_city_2024_26103_sakyo-ku_landmark.geojson",
+        "count": 115
+      },
+      {
+        "file": "26100_kyoto-shi_city_2024_26104_nakagyo-ku_shelter.geojson",
+        "count": 35
+      }
+    ],
+    "total_features": 8004
+  }
+}

@@ -1,0 +1,292 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DuckDB WASM Spatial - 京都地理空間分析</title>
+
+    <link href="https://unpkg.com/maplibre-gl@3.6.2/dist/maplibre-gl.css" rel="stylesheet" />
+    <link href="styles.css" rel="stylesheet" />
+    <!-- Prism.js for SQL syntax highlighting -->
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/prism/1.29.0/themes/prism-tomorrow.min.css" rel="stylesheet" />
+</head>
+<body>
+    <div class="header">
+        <h1>DuckDB WASM Spatial 完全デモ</h1>
+        <div id="dbStatus">データベース: 未接続</div>
+    </div>
+
+    <div class="main-container">
+        <div class="sidebar">
+            <!-- 初期化セクション -->
+            <div class="section">
+                <h2>初期化</h2>
+                <button onclick="initializeDuckDB()">DuckDB WASM 初期化</button>
+                <button onclick="loadSpatialData()" id="loadDataBtn" disabled>空間データ読み込み</button>
+                <div class="loading" id="loading">
+                    <div class="spinner"></div>
+                    <p>処理中...</p>
+                </div>
+                <div id="initStatus"></div>
+            </div>
+
+            <!-- 空間分析デモ -->
+            <div class="section">
+                <h2>空間分析機能デモ</h2>
+
+                <div class="tabs">
+                    <button class="tab active" onclick="switchTab('basic')">基本分析</button>
+                    <button class="tab" onclick="switchTab('advanced')">高度な分析</button>
+                    <button class="tab" onclick="switchTab('index')">空間インデックス</button>
+                    <button class="tab" onclick="switchTab('expert')">先進的分析</button>
+                </div>
+
+                <!-- 基本分析タブ -->
+                <div class="tab-content active" id="basicTab">
+                    <div class="demo-card">
+                        <h3>距離計算 - どれくらい離れているか</h3>
+                        <p style="color: #666; font-size: 12px; margin-bottom: 10px;">
+                            <strong>何ができる？</strong> 2地点間の直線距離を計算<br>
+                            <strong>使い道：</strong> 最寄り施設検索、徒歩時間の推定、配送料金の計算
+                        </p>
+                        <button onclick="demoDistance()">京都駅から各寺社への距離を計算</button>
+                        <div class="sql-box" id="distanceSQL"></div>
+                        <div class="result-box" id="distanceResult">結果がここに表示されます</div>
+                    </div>
+
+                    <div class="demo-card">
+                        <h3>到達圏分析 - どこまで届くか</h3>
+                        <p style="color: #666; font-size: 12px; margin-bottom: 10px;">
+                            <strong>何ができる？</strong> ある地点から指定距離内のエリアを特定<br>
+                            <strong>使い道：</strong> 配達エリア設定、徒歩圏内の施設検索、災害時の避難範囲
+                        </p>
+                        <div class="input-group">
+                            <input type="number" id="bufferRadius" value="1000" placeholder="半径(m)">
+                            <button onclick="demoBuffer()">京都駅からの到達圏を表示</button>
+                        </div>
+                        <div class="sql-box" id="bufferSQL"></div>
+                        <div class="result-box" id="bufferResult">結果がここに表示されます</div>
+                    </div>
+
+                    <div class="demo-card">
+                        <h3>最近隣検索 - 一番近いものを探す</h3>
+                        <p style="color: #666; font-size: 12px; margin-bottom: 10px;">
+                            <strong>何ができる？</strong> ある地点から最も近い施設をランキング<br>
+                            <strong>使い道：</strong> 最寄り駅案内、緊急時の病院検索、店舗レコメンド
+                        </p>
+                        <button onclick="demoNearest()">各寺社の最寄り駅を検索</button>
+                        <div class="sql-box" id="nearestSQL"></div>
+                        <div class="result-box" id="nearestResult">結果がここに表示されます</div>
+                    </div>
+
+                    <div class="demo-card">
+                        <h3>重心計算 - 最適な中心地を見つける</h3>
+                        <p style="color: #666; font-size: 12px; margin-bottom: 10px;">
+                            <strong>何ができる？</strong> 複数地点の地理的な中心を計算<br>
+                            <strong>使い道：</strong> 物流センター最適配置、集合場所の決定、サービス拠点選定
+                        </p>
+                        <button onclick="demoCentroid()">観光地群の中心地を計算</button>
+                        <div class="sql-box" id="centroidSQL"></div>
+                        <div class="result-box" id="centroidResult">結果がここに表示されます</div>
+                    </div>
+                </div>
+
+                <!-- 高度な分析タブ -->
+                <div class="tab-content" id="advancedTab">
+                    <div class="demo-card">
+                        <h3>空間結合 - 位置関係でデータを結合</h3>
+                        <p style="color: #666; font-size: 12px; margin-bottom: 10px;">
+                            <strong>何ができる？</strong> 距離や包含関係でテーブルを結合<br>
+                            <strong>使い道：</strong> 駅周辺の物件検索、学区内の施設一覧、配送エリア内の顧客抽出
+                        </p>
+                        <button onclick="demoSpatialJoin()">各駅の徒歩圏（500m）内の観光地を検索</button>
+                        <div class="sql-box" id="spatialJoinSQL"></div>
+                        <div class="result-box" id="spatialJoinResult">結果がここに表示されます</div>
+                    </div>
+
+                    <div class="demo-card">
+                        <h3>商圏分析 - サービスエリアの重複チェック</h3>
+                        <p style="color: #666; font-size: 12px; margin-bottom: 10px;">
+                            <strong>何ができる？</strong> 複数店舗の商圏の重複を分析<br>
+                            <strong>使い道：</strong> 新店舗の出店計画、配達エリアの最適化、営業テリトリー設計
+                        </p>
+                        <button onclick="demoServiceArea()">駅商圏の重複エリアを分析</button>
+                        <div class="sql-box" id="serviceAreaSQL"></div>
+                        <div class="result-box" id="serviceAreaResult">結果がここに表示されます</div>
+                    </div>
+
+                    <div class="demo-card">
+                        <h3>エリア内検索 - 範囲内にあるものを探す</h3>
+                        <p style="color: #666; font-size: 12px; margin-bottom: 10px;">
+                            <strong>何ができる？</strong> 指定エリア内の施設を抽出<br>
+                            <strong>使い道：</strong> 行政区内の施設管理、災害時の影響範囲確認、観光ルート作成
+                        </p>
+                        <button onclick="demoWithin()">東山区内の観光施設を検索</button>
+                        <div class="sql-box" id="withinSQL"></div>
+                        <div class="result-box" id="withinResult">結果がここに表示されます</div>
+                    </div>
+
+                    <div class="demo-card">
+                        <h3>空間集計 - エリアごとの統計</h3>
+                        <p style="color: #666; font-size: 12px; margin-bottom: 10px;">
+                            <strong>何ができる？</strong> エリア単位でPOIを集計<br>
+                            <strong>使い道：</strong> 地域別の施設密度分析、人口分布の可視化、売上エリア分析
+                        </p>
+                        <button onclick="demoSpatialAgg()">500mグリッドで施設密度を計算</button>
+                        <div class="sql-box" id="spatialAggSQL"></div>
+                        <div class="result-box" id="spatialAggResult">結果がここに表示されます</div>
+                    </div>
+                </div>
+
+                <!-- 空間インデックスタブ -->
+                <div class="tab-content" id="indexTab">
+                    <div class="demo-card">
+                        <h3>グリッド分析 - エリアをマス目に分けて集計</h3>
+                        <p style="color: #666; font-size: 12px; margin-bottom: 10px;">
+                            <strong>何ができる？</strong> 地図を格子状に区切って統計を取る<br>
+                            <strong>使い道：</strong> ヒートマップ作成、犯罪統計の可視化、人流解析、売上分布
+                        </p>
+                        <button onclick="demoGrid()">京都を250mグリッドで分析</button>
+                        <div class="sql-box" id="gridSQL"></div>
+                        <div class="result-box" id="gridResult">結果がここに表示されます</div>
+                    </div>
+
+                    <div class="demo-card">
+                        <h3>空間述語 - 位置関係を判定</h3>
+                        <p style="color: #666; font-size: 12px; margin-bottom: 10px;">
+                            <strong>何ができる？</strong> 「含む」「交差する」「隣接する」などの関係を判定<br>
+                            <strong>使い道：</strong> 建築制限の確認、配送可能エリア判定、管轄区域の確認
+                        </p>
+                        <button onclick="demoPredicates()">京都駅1km圏の内外判定</button>
+                        <div class="sql-box" id="predicatesSQL"></div>
+                        <div class="result-box" id="predicatesResult">結果がここに表示されます</div>
+                    </div>
+
+                </div>
+
+                <!-- 先進的分析タブ -->
+                <div class="tab-content" id="expertTab">
+                    <div class="demo-card">
+                        <h3>H3六角形グリッド分析</h3>
+                        <p style="color: #666; font-size: 12px; margin-bottom: 10px;">
+                            <strong>何ができる？</strong> Uberが開発した六角形グリッドシステムで空間分析<br>
+                            <strong>使い道：</strong> 配送エリア最適化、人流分析、サービス密度の視覚化
+                        </p>
+                        <button onclick="demoH3Grid()">H3グリッドで京都を分析</button>
+                        <div class="sql-box" id="h3GridSQL"></div>
+                        <div class="result-box" id="h3GridResult">結果がここに表示されます</div>
+                    </div>
+
+                    <div class="demo-card">
+                        <h3>凸包と空間集約</h3>
+                        <p style="color: #666; font-size: 12px; margin-bottom: 10px;">
+                            <strong>何ができる？</strong> 複数地点を包む最小の多角形を生成<br>
+                            <strong>使い道：</strong> サービスエリア定義、配送範囲の可視化、グループ化
+                        </p>
+                        <button onclick="demoConvexHull()">観光地群の凸包を生成</button>
+                        <div class="sql-box" id="convexHullSQL"></div>
+                        <div class="result-box" id="convexHullResult">結果がここに表示されます</div>
+                    </div>
+
+                    <div class="demo-card">
+                        <h3>ボロノイ図</h3>
+                        <p style="color: #666; font-size: 12px; margin-bottom: 10px;">
+                            <strong>何ができる？</strong> 最近隣に基づくサービスエリアを自動生成<br>
+                            <strong>使い道：</strong> 商圏分析、緊急サービスの管轄エリア、最適配置計画
+                        </p>
+                        <button onclick="demoVoronoi()">駅別サービスエリアを生成</button>
+                        <div class="sql-box" id="voronoiSQL"></div>
+                        <div class="result-box" id="voronoiResult">結果がここに表示されます</div>
+                    </div>
+
+                    <div class="demo-card">
+                        <h3>孤立施設の検出</h3>
+                        <p style="color: #666; font-size: 12px; margin-bottom: 10px;">
+                            <strong>何ができる？</strong> 他の施設から離れた孤立した場所を検出<br>
+                            <strong>使い道：</strong> アクセシビリティ分析、サービス空白地域の特定
+                        </p>
+                        <button onclick="demoOutlierDetection()">孤立した施設を検出</button>
+                        <div class="sql-box" id="outlierSQL"></div>
+                        <div class="result-box" id="outlierResult">結果がここに表示されます</div>
+                    </div>
+
+                    <div class="demo-card">
+                        <h3>観光ルート分析</h3>
+                        <p style="color: #666; font-size: 12px; margin-bottom: 10px;">
+                            <strong>何ができる？</strong> 複数の観光地を結ぶルートを分析<br>
+                            <strong>使い道：</strong> 観光ルート計画、移動時間の見積もり
+                        </p>
+                        <button onclick="demoLineAnalysis()">観光ルート分析</button>
+                        <div class="sql-box" id="lineSQL"></div>
+                        <div class="result-box" id="lineResult">結果がここに表示されます</div>
+                    </div>
+
+                    <div class="demo-card">
+                        <h3>密度ベースクラスタリング</h3>
+                        <p style="color: #666; font-size: 12px; margin-bottom: 10px;">
+                            <strong>何ができる？</strong> 近隣の密度で施設をグループ化<br>
+                            <strong>使い道：</strong> 観光エリアの検出、混雑エリアの特定
+                        </p>
+                        <button onclick="demoDBSCAN()">施設の密度クラスタを検出</button>
+                        <div class="sql-box" id="dbscanSQL"></div>
+                        <div class="result-box" id="dbscanResult">結果がここに表示されます</div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- SQLコンソール -->
+            <div class="section">
+                <h2>データレイヤー表示</h2>
+                <h3 style="margin-top: 10px; font-size: 14px;">OpenStreetMap</h3>
+                <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px; margin: 10px 0;">
+                    <button onclick="toggleDataLayer('temples')" class="layer-toggle-btn" data-layer="temples">寺社</button>
+                    <button onclick="toggleDataLayer('stations')" class="layer-toggle-btn" data-layer="stations">駅</button>
+                    <button onclick="toggleDataLayer('restaurants')" class="layer-toggle-btn" data-layer="restaurants">レストラン</button>
+                    <button onclick="toggleDataLayer('accommodation')" class="layer-toggle-btn" data-layer="accommodation">宿泊施設</button>
+                    <button onclick="toggleDataLayer('convenience')" class="layer-toggle-btn" data-layer="convenience">コンビニ</button>
+                    <button onclick="toggleDataLayer('parks')" class="layer-toggle-btn" data-layer="parks">公園・庭園</button>
+                    <button onclick="toggleDataLayer('souvenirs')" class="layer-toggle-btn" data-layer="souvenirs">お土産店</button>
+                    <button onclick="toggleDataLayer('supermarkets')" class="layer-toggle-btn" data-layer="supermarkets">スーパー</button>
+                </div>
+                <h3 style="margin-top: 10px; font-size: 14px;">PLATEAU（都市データ）</h3>
+                <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px; margin: 10px 0;">
+                    <button onclick="toggleDataLayer('plateau_shelters')" class="layer-toggle-btn" data-layer="plateau_shelters">避難所</button>
+                    <button onclick="toggleDataLayer('plateau_landmarks')" class="layer-toggle-btn" data-layer="plateau_landmarks">ランドマーク</button>
+                    <button onclick="toggleDataLayer('plateau_parks')" class="layer-toggle-btn" data-layer="plateau_parks">PLATEAU公園</button>
+                    <button onclick="toggleDataLayer('plateau_emergency')" class="layer-toggle-btn" data-layer="plateau_emergency">緊急輸送道路</button>
+                </div>
+                <button onclick="clearAllLayers()">すべてクリア</button>
+            </div>
+
+            <div class="section">
+                <h2>SQLコンソール</h2>
+                <textarea id="customSQL" style="width: 100%; height: 100px; padding: 10px; font-family: monospace; font-size: 12px;">
+-- カスタムSQLを入力
+SELECT COUNT(*) FROM temples;</textarea>
+                <button onclick="executeCustomSQL()">実行</button>
+                <div class="result-box" id="customResult">結果がここに表示されます</div>
+            </div>
+        </div>
+
+        <div class="map-container">
+            <div id="map"></div>
+        </div>
+    </div>
+
+
+    <script src="https://unpkg.com/maplibre-gl@3.6.2/dist/maplibre-gl.js"></script>
+    <!-- Prism.js -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.29.0/components/prism-core.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.29.0/plugins/autoloader/prism-autoloader.min.js"></script>
+    <script type="module">
+        import * as duckdb from "https://cdn.jsdelivr.net/npm/@duckdb/duckdb-wasm@1.29.0/+esm";
+
+        // グローバル変数をwindowオブジェクトにアタッチ
+        window.duckdb = duckdb;
+        window.db = null;
+        window.conn = null;
+        window.map = null;
+    </script>
+    <script src="app.js"></script>
+</body>
+</html>

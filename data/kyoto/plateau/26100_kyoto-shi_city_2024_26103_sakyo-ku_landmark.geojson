@@ -1,0 +1,1386 @@
+{
+	"type" : "FeatureCollection",
+	"name" : "26103_kyoto-shi_sakyo-ku_landmark",
+	"features" : [
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.7613194567, 35.0868696379 ]
+			},
+			"properties" : {
+				"名称" : "下鴨警察署静市交番",
+				"高さ" : "7.8",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.7879805597, 35.0853672451 ]
+			},
+			"properties" : {
+				"名称" : "市立岩倉北小学校",
+				"高さ" : "11.4",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.7648269575, 35.0899977875 ]
+			},
+			"properties" : {
+				"名称" : "市立市原野小学校",
+				"高さ" : "10.5",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.8173246393, 35.0847842595 ]
+			},
+			"properties" : {
+				"名称" : "市立八瀬小学校",
+				"高さ" : "9.7",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.7623194564, 35.0880024078 ]
+			},
+			"properties" : {
+				"名称" : "京都静市市原郵便局",
+				"高さ" : "7.4",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.7713134501, 35.0326701731 ]
+			},
+			"properties" : {
+				"名称" : "京都家庭裁判所",
+				"高さ" : "12",
+				"種類" : "国の機関"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.7729245498, 35.0261979423 ]
+			},
+			"properties" : {
+				"名称" : "京都少年鑑別所",
+				"高さ" : "9",
+				"種類" : "国の機関"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.7810356493, 35.0176423908 ]
+			},
+			"properties" : {
+				"名称" : "大阪国税局左京税務署",
+				"高さ" : "11.8",
+				"種類" : "国の機関"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.7785467534, 35.048607833 ]
+			},
+			"properties" : {
+				"名称" : "京都市左京区役所",
+				"高さ" : "17.7",
+				"種類" : "地方の機関"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.7746186506, 35.0331891329 ]
+			},
+			"properties" : {
+				"名称" : "下鴨警察署",
+				"高さ" : "15.1",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.7780962487, 35.0150826505 ]
+			},
+			"properties" : {
+				"名称" : "川端警察署",
+				"高さ" : "16.6",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.8081243588, 35.0650734218 ]
+			},
+			"properties" : {
+				"名称" : "下鴨警察署叡山口駐在所",
+				"高さ" : "7.7",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.772664039, 35.0290504545 ]
+			},
+			"properties" : {
+				"名称" : "下鴨警察署加茂大橋交番",
+				"高さ" : "6.6",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.7880296577, 35.0751540943 ]
+			},
+			"properties" : {
+				"名称" : "下鴨警察署岩倉交番",
+				"高さ" : "7.3",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.7810348531, 35.0418480826 ]
+			},
+			"properties" : {
+				"名称" : "下鴨警察署高野交番",
+				"高さ" : "6.3",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.7685161512, 35.0419927937 ]
+			},
+			"properties" : {
+				"名称" : "下鴨警察署芝本町交番",
+				"高さ" : "6.1",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.7917285555, 35.0496931419 ]
+			},
+			"properties" : {
+				"名称" : "下鴨警察署修学院交番",
+				"高さ" : "6.3",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.7912523569, 35.0607882335 ]
+			},
+			"properties" : {
+				"名称" : "下鴨警察署上高野交番",
+				"高さ" : "5.1",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.7736189532, 35.0520868341 ]
+			},
+			"properties" : {
+				"名称" : "下鴨警察署北山交番",
+				"高さ" : "7",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.7928636529, 35.0296948304 ]
+			},
+			"properties" : {
+				"名称" : "下鴨警察署北白川交番",
+				"高さ" : "7.1",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.7822948491, 35.0134601103 ]
+			},
+			"properties" : {
+				"名称" : "川端警察署岡崎公園交番",
+				"高さ" : "7.7",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.7927433521, 35.0277461901 ]
+			},
+			"properties" : {
+				"名称" : "川端警察署銀閣寺交番",
+				"高さ" : "4.9",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.7857219497, 35.0183761005 ]
+			},
+			"properties" : {
+				"名称" : "川端警察署黒谷交番",
+				"高さ" : "7.3",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.7764193497, 35.0251281021 ]
+			},
+			"properties" : {
+				"名称" : "川端警察署東一条交番",
+				"高さ" : "6.8",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.7879718496, 35.0112862899 ]
+			},
+			"properties" : {
+				"名称" : "川端警察署南禅寺交番",
+				"高さ" : "6.4",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.7804884488, 35.0116502301 ]
+			},
+			"properties" : {
+				"名称" : "京都市消防局左京消防署岡崎消防出張所",
+				"高さ" : "10.2",
+				"種類" : "消防署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.7930632516, 35.0198985497 ]
+			},
+			"properties" : {
+				"名称" : "京都市消防局左京消防署鹿ヶ谷消防出張所",
+				"高さ" : "9.4",
+				"種類" : "消防署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.7810319521, 35.0362873725 ]
+			},
+			"properties" : {
+				"名称" : "京都市消防局左京消防署",
+				"高さ" : "16.9",
+				"種類" : "消防署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.791782055, 35.0481727919 ]
+			},
+			"properties" : {
+				"名称" : "京都市消防局左京消防署修学院消防出張所",
+				"高さ" : "7.5",
+				"種類" : "消防署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.7762986556, 35.0675267746 ]
+			},
+			"properties" : {
+				"名称" : "京都市消防局左京消防署岩倉消防出張所",
+				"高さ" : "8.7",
+				"種類" : "消防署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.7859592433, 35.0665090819 ]
+			},
+			"properties" : {
+				"名称" : "私立同志社中学校",
+				"高さ" : "13.2",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.773323552, 35.0455061336 ]
+			},
+			"properties" : {
+				"名称" : "市立葵小学校",
+				"高さ" : "11.2",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.7849986568, 35.0673466441 ]
+			},
+			"properties" : {
+				"名称" : "市立岩倉南小学校",
+				"高さ" : "13",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.7824123498, 35.0181367804 ]
+			},
+			"properties" : {
+				"名称" : "市立錦林小学校",
+				"高さ" : "12.9",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.7885642538, 35.0447910623 ]
+			},
+			"properties" : {
+				"名称" : "市立修学院第二小学校",
+				"高さ" : "11.5",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.7953069572, 35.0613009628 ]
+			},
+			"properties" : {
+				"名称" : "市立上高野小学校",
+				"高さ" : "12.1",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.7747208495, 35.0254363719 ]
+			},
+			"properties" : {
+				"名称" : "市立第四錦林小学校",
+				"高さ" : "11.3",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.7929310529, 35.0320420908 ]
+			},
+			"properties" : {
+				"名称" : "市立北白川小学校",
+				"高さ" : "13.9",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.7863168582, 35.0752506646 ]
+			},
+			"properties" : {
+				"名称" : "市立明徳小学校",
+				"高さ" : "12.3",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.7787022512, 35.0326701724 ]
+			},
+			"properties" : {
+				"名称" : "市立養正小学校",
+				"高さ" : "12.1",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.7835862529, 35.037736772 ]
+			},
+			"properties" : {
+				"名称" : "市立養徳小学校",
+				"高さ" : "12",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.7799276499, 35.021780341 ]
+			},
+			"properties" : {
+				"名称" : "市立近衛中学校",
+				"高さ" : "15",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.7832522531, 35.039950582 ]
+			},
+			"properties" : {
+				"名称" : "市立高野中学校",
+				"高さ" : "11.6",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.7886189539, 35.0424757215 ]
+			},
+			"properties" : {
+				"名称" : "市立修学院中学校",
+				"高さ" : "14.8",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.7943751576, 35.0137175374 ]
+			},
+			"properties" : {
+				"名称" : "私立東山中学校",
+				"高さ" : "15.7",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.7730999138, 35.024955161 ]
+			},
+			"properties" : {
+				"名称" : "私立京都精華学園中学校",
+				"高さ" : "15.8",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.7731165702, 35.0249819302 ]
+			},
+			"properties" : {
+				"名称" : "私立京都精華学園高等学校",
+				"高さ" : "15.8",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.7940331094, 35.0133100555 ]
+			},
+			"properties" : {
+				"名称" : "私立東山高等学校",
+				"高さ" : "15.1",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.7716796523, 35.0460581134 ]
+			},
+			"properties" : {
+				"名称" : "府立洛北高等学校",
+				"高さ" : "13.7",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.7726467557, 35.0740590659 ]
+			},
+			"properties" : {
+				"名称" : "京都精華大学",
+				"高さ" : "15.3",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.7791923107, 35.025724731 ]
+			},
+			"properties" : {
+				"名称" : "京都大学吉田キャンパス",
+				"高さ" : "22.9",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.7668800519, 35.0469118547 ]
+			},
+			"properties" : {
+				"名称" : "京都府立大学",
+				"高さ" : "13.5",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.768452251, 35.0374201733 ]
+			},
+			"properties" : {
+				"名称" : "市立下鴨小学校",
+				"高さ" : "11.1",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.7722250792, 35.0506325575 ]
+			},
+			"properties" : {
+				"名称" : "京都ノートルダム女子大学",
+				"高さ" : "19.4",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.7731061559, 35.0702196951 ]
+			},
+			"properties" : {
+				"名称" : "府立北稜高等学校",
+				"高さ" : "12.2",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.7749541516, 35.0385934832 ]
+			},
+			"properties" : {
+				"名称" : "市立下鴨中学校",
+				"高さ" : "11.7",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.7808101488, 35.0108600299 ]
+			},
+			"properties" : {
+				"名称" : "私立京都文教短期大学付属小学校",
+				"高さ" : "14.9",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.7861590216, 35.067455381 ]
+			},
+			"properties" : {
+				"名称" : "私立同志社高等学校",
+				"高さ" : "13.5",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.787339957, 35.0704089741 ]
+			},
+			"properties" : {
+				"名称" : "市立洛北中学校",
+				"高さ" : "15",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.7897897499, 35.0162578 ]
+			},
+			"properties" : {
+				"名称" : "市立岡崎中学校",
+				"高さ" : "12.5",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.7923479538, 35.037480101 ]
+			},
+			"properties" : {
+				"名称" : "京都芸術大学",
+				"高さ" : "28.2",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.794207256, 35.053354282 ]
+			},
+			"properties" : {
+				"名称" : "市立修学院小学校",
+				"高さ" : "8.9",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.7797836482, 35.0115709801 ]
+			},
+			"properties" : {
+				"名称" : "私立京都文教中学校",
+				"高さ" : "12.2",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.7796560487, 35.01088865 ]
+			},
+			"properties" : {
+				"名称" : "私立京都文教高等学校",
+				"高さ" : "20.2",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.7925634514, 35.0191701698 ]
+			},
+			"properties" : {
+				"名称" : "市立第三錦林小学校",
+				"高さ" : "11.3",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.7967311513, 35.0193870392 ]
+			},
+			"properties" : {
+				"名称" : "私立ノートルダム女学院中学校",
+				"高さ" : "27.9",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.7967311513, 35.0193870392 ]
+			},
+			"properties" : {
+				"名称" : "私立ノートルダム女学院高等学校",
+				"高さ" : "27.9",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.7814441536, 35.0490839933 ]
+			},
+			"properties" : {
+				"名称" : "京都工芸繊維大学(松ヶ崎キャンパス)",
+				"高さ" : "16.9",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.7728234388, 35.0513132418 ]
+			},
+			"properties" : {
+				"名称" : "私立ノートルダム学院小学校",
+				"高さ" : "18.4",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.7820695545, 35.0530294929 ]
+			},
+			"properties" : {
+				"名称" : "市立松ヶ崎小学校",
+				"高さ" : "11.1",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.7845956506, 35.0203010007 ]
+			},
+			"properties" : {
+				"名称" : "市立白河総合支援学校",
+				"高さ" : "13",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.7716796523, 35.0460581134 ]
+			},
+			"properties" : {
+				"名称" : "府立洛北高等学校附属中学校",
+				"高さ" : "13.7",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.786295957, 35.0684608941 ]
+			},
+			"properties" : {
+				"名称" : "私立同志社小学校",
+				"高さ" : "10.5",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.7793225512, 35.0306953617 ]
+			},
+			"properties" : {
+				"名称" : "京都情報大学院大学",
+				"高さ" : "8.6",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.7774622191, 35.0197436312 ]
+			},
+			"properties" : {
+				"名称" : "京都大学医学部附属病院",
+				"高さ" : "32.9",
+				"種類" : "病院"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.7961969515, 35.0339757859 ]
+			},
+			"properties" : {
+				"名称" : "総合病院日本バプテスト病院",
+				"高さ" : "17",
+				"種類" : "病院"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.7785059522, 35.0428397627 ]
+			},
+			"properties" : {
+				"名称" : "京都下鴨病院",
+				"高さ" : "15",
+				"種類" : "病院"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.7809478513, 35.0314708218 ]
+			},
+			"properties" : {
+				"名称" : "京都民医連あすかい病院",
+				"高さ" : "17.1",
+				"種類" : "病院"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.779498849, 35.0181386306 ]
+			},
+			"properties" : {
+				"名称" : "吉川病院",
+				"高さ" : "18.2",
+				"種類" : "病院"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.7836768581, 35.0791977357 ]
+			},
+			"properties" : {
+				"名称" : "洛陽病院",
+				"高さ" : "15.2",
+				"種類" : "病院"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.7675760524, 35.0518076644 ]
+			},
+			"properties" : {
+				"名称" : "京都北山郵便局",
+				"高さ" : "8.8",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.7808061529, 35.0420946525 ]
+			},
+			"properties" : {
+				"名称" : "左京郵便局",
+				"高さ" : "22",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.7734597487, 35.0174041916 ]
+			},
+			"properties" : {
+				"名称" : "京都丸太町川端郵便局",
+				"高さ" : "10.8",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.7743728502, 35.0303384023 ]
+			},
+			"properties" : {
+				"名称" : "京都田中郵便局",
+				"高さ" : "13.6",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.775536748, 35.0137594008 ]
+			},
+			"properties" : {
+				"名称" : "京都二条川端郵便局",
+				"高さ" : "6.4",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.7761588529, 35.0443625032 ]
+			},
+			"properties" : {
+				"名称" : "京都下鴨高木郵便局",
+				"高さ" : "11.9",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.7739709497, 35.025443982 ]
+			},
+			"properties" : {
+				"名称" : "京都吉田牛ノ宮郵便局",
+				"高さ" : "11",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.7791166496, 35.0175661105 ]
+			},
+			"properties" : {
+				"名称" : "京都聖護院郵便局",
+				"高さ" : "6.1",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.7796748517, 35.0373498822 ]
+			},
+			"properties" : {
+				"名称" : "京都高野東開郵便局",
+				"高さ" : "3.8",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.7796704511, 35.0289788219 ]
+			},
+			"properties" : {
+				"名称" : "京都百万遍郵便局",
+				"高さ" : "12.4",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.7819284531, 35.0431158326 ]
+			},
+			"properties" : {
+				"名称" : "京都高野竹屋郵便局",
+				"高さ" : "9.8",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.7826602502, 35.0216721209 ]
+			},
+			"properties" : {
+				"名称" : "京都吉田郵便局",
+				"高さ" : "10.4",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.7845404499, 35.0177039005 ]
+			},
+			"properties" : {
+				"名称" : "京都岡崎郵便局",
+				"高さ" : "22.3",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.7847334521, 35.0341967513 ]
+			},
+			"properties" : {
+				"名称" : "京都田中樋ノ口郵便局",
+				"高さ" : "6.4",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.7872810531, 35.0367117917 ]
+			},
+			"properties" : {
+				"名称" : "京都田中高原郵便局",
+				"高さ" : "6.8",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.7878450582, 35.0745233845 ]
+			},
+			"properties" : {
+				"名称" : "京都岩倉郵便局",
+				"高さ" : "6.5",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.7897159553, 35.0501558523 ]
+			},
+			"properties" : {
+				"名称" : "京都山端郵便局",
+				"高さ" : "8",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.7908702506, 35.01772046 ]
+			},
+			"properties" : {
+				"名称" : "京都天王町郵便局",
+				"高さ" : "19.1",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.7913225519, 35.0296873509 ]
+			},
+			"properties" : {
+				"名称" : "京都北白川郵便局",
+				"高さ" : "7.3",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.7920615568, 35.0586801325 ]
+			},
+			"properties" : {
+				"名称" : "京都上高野郵便局",
+				"高さ" : "10",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.7921030539, 35.0434359517 ]
+			},
+			"properties" : {
+				"名称" : "京都一乗寺郵便局",
+				"高さ" : "10.4",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.7921414516, 35.0250399005 ]
+			},
+			"properties" : {
+				"名称" : "京都浄土寺郵便局",
+				"高さ" : "9.9",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.7706735516, 35.0445282236 ]
+			},
+			"properties" : {
+				"名称" : "京都洛北高校前郵便局",
+				"高さ" : "6.8",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.7759638558, 35.0657248245 ]
+			},
+			"properties" : {
+				"名称" : "京都岩倉幡枝郵便局",
+				"高さ" : "15.2",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.7928337506, 35.0175936896 ]
+			},
+			"properties" : {
+				"名称" : "泉屋博古館",
+				"高さ" : "14.5",
+				"種類" : "博物館・美術館"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.7811954542, 35.0494600035 ]
+			},
+			"properties" : {
+				"名称" : "京都工芸繊維大学美術工芸資料館",
+				"高さ" : "15.3",
+				"種類" : "博物館・美術館"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.7938080469, 35.027081269 ]
+			},
+			"properties" : {
+				"名称" : "白沙村荘橋本関雪記念館",
+				"高さ" : "10",
+				"種類" : "博物館・美術館"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.7933653501, 35.0129669192 ]
+			},
+			"properties" : {
+				"名称" : "野村美術館",
+				"高さ" : "9.5",
+				"種類" : "博物館・美術館"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.7792050507, 35.0271832813 ]
+			},
+			"properties" : {
+				"名称" : "京都大学総合博物館",
+				"高さ" : "21.9",
+				"種類" : "博物館・美術館"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.7704340561, 35.0727760662 ]
+			},
+			"properties" : {
+				"名称" : "京都精華大学ギャラリーフロール",
+				"高さ" : "16.6",
+				"種類" : "博物館・美術館"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.7820034488, 35.0123639805 ]
+			},
+			"properties" : {
+				"名称" : "京都国立近代美術館",
+				"高さ" : "22.6",
+				"種類" : "博物館・美術館"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.7836206495, 35.0128708302 ]
+			},
+			"properties" : {
+				"名称" : "京都市美術館",
+				"高さ" : "21.6",
+				"種類" : "博物館・美術館"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.7796895488, 35.0138040805 ]
+			},
+			"properties" : {
+				"名称" : "細見美術館",
+				"高さ" : "9.9",
+				"種類" : "博物館・美術館"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.7809543491, 35.0128493106 ]
+			},
+			"properties" : {
+				"名称" : "日図デザイン博物館",
+				"高さ" : "23",
+				"種類" : "博物館・美術館"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.7849921491, 35.0131592796 ]
+			},
+			"properties" : {
+				"名称" : "京都市動物園",
+				"高さ" : "11.7",
+				"種類" : "博物館・美術館"
+			}
+		}
+	]
+}

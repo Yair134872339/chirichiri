@@ -1,0 +1,36 @@
+{
+	"type" : "FeatureCollection",
+	"name" : "26102_kyoto-shi_kamigyo-ku_station",
+	"features" : [
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.7593478488, 35.0299235032 ]
+			},
+			"properties" : {
+				"駅名" : "今出川駅",
+				"高さ" : "0",
+				"鉄道区分" : "普通鉄道",
+				"事業者種別" : "公営鉄道",
+				"路線名" : "烏丸線",
+				"運営会社" : "京都市"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.7593378494, 35.0371935045 ]
+			},
+			"properties" : {
+				"駅名" : "鞍馬口駅",
+				"高さ" : "0",
+				"鉄道区分" : "普通鉄道",
+				"事業者種別" : "公営鉄道",
+				"路線名" : "烏丸線",
+				"運営会社" : "京都市"
+			}
+		}
+	]
+}

@@ -1,0 +1,786 @@
+{
+	"type" : "FeatureCollection",
+	"name" : "26111_kyoto-shi_nishikyo-ku_landmark",
+	"features" : [
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.6876194359, 35.0003734075 ]
+			},
+			"properties" : {
+				"名称" : "西京警察署松尾交番",
+				"高さ" : "6.2",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.6865356367, 35.0072257286 ]
+			},
+			"properties" : {
+				"名称" : "市立嵐山東小学校",
+				"高さ" : "12",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.6831879359, 35.0060398792 ]
+			},
+			"properties" : {
+				"名称" : "京都嵐山郵便局",
+				"高さ" : "6.7",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.7123206365, 34.9814664042 ]
+			},
+			"properties" : {
+				"名称" : "近畿地方整備局淀川河川事務所桂川出張所",
+				"高さ" : "15.1",
+				"種類" : "国の機関"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.6933318346, 34.9850942965 ]
+			},
+			"properties" : {
+				"名称" : "京都市西京区役所",
+				"高さ" : "12.6",
+				"種類" : "地方の機関"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.6929522338, 34.9811701755 ]
+			},
+			"properties" : {
+				"名称" : "西京警察署",
+				"高さ" : "16.2",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.7080329354, 34.9799999546 ]
+			},
+			"properties" : {
+				"名称" : "西京警察署桂交番",
+				"高さ" : "10.6",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.6988389362, 34.9906254661 ]
+			},
+			"properties" : {
+				"名称" : "西京警察署上桂交番",
+				"高さ" : "7.7",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.6979346335, 34.9763381254 ]
+			},
+			"properties" : {
+				"名称" : "西京警察署川岡交番",
+				"高さ" : "6.6",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.66632973, 34.9778954179 ]
+			},
+			"properties" : {
+				"名称" : "西京警察署大枝交番",
+				"高さ" : "7.2",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.6756972294, 34.9623554762 ]
+			},
+			"properties" : {
+				"名称" : "西京警察署洛西交番",
+				"高さ" : "8",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.7022833943, 34.9792373948 ]
+			},
+			"properties" : {
+				"名称" : "西京警察署桂西口交番",
+				"高さ" : "7.1",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.6752721297, 34.9693828063 ]
+			},
+			"properties" : {
+				"名称" : "京都市消防局西京消防署洛西消防出張所",
+				"高さ" : "10.7",
+				"種類" : "消防署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.6944607335, 34.9751583851 ]
+			},
+			"properties" : {
+				"名称" : "京都市消防局西京消防署",
+				"高さ" : "18",
+				"種類" : "消防署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.7079063351, 34.9799095647 ]
+			},
+			"properties" : {
+				"名称" : "京都市消防局西京消防署桂消防出張所",
+				"高さ" : "10.8",
+				"種類" : "消防署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.6931580413, 34.9902617969 ]
+			},
+			"properties" : {
+				"名称" : "京都市消防局西京消防署松尾消防出張所",
+				"高さ" : "12.5",
+				"種類" : "消防署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.6972802331, 34.9724747753 ]
+			},
+			"properties" : {
+				"名称" : "市立樫原小学校",
+				"高さ" : "11.6",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.6710345292, 34.9628472763 ]
+			},
+			"properties" : {
+				"名称" : "市立境谷小学校",
+				"高さ" : "13.2",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.6640235311, 34.9864730994 ]
+			},
+			"properties" : {
+				"名称" : "市立桂坂小学校",
+				"高さ" : "14.9",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.7001874346, 34.9827984452 ]
+			},
+			"properties" : {
+				"名称" : "市立桂小学校",
+				"高さ" : "11.7",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.7078667349, 34.9775930539 ]
+			},
+			"properties" : {
+				"名称" : "市立桂東小学校",
+				"高さ" : "11.9",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.6894711347, 34.9926450269 ]
+			},
+			"properties" : {
+				"名称" : "市立松尾小学校",
+				"高さ" : "13.3",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.6891585333, 34.9815402263 ]
+			},
+			"properties" : {
+				"名称" : "市立松陽小学校",
+				"高さ" : "15.2",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.6848945291, 34.9522462548 ]
+			},
+			"properties" : {
+				"名称" : "市立上里小学校",
+				"高さ" : "15.2",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.6696670297, 34.9686379774 ]
+			},
+			"properties" : {
+				"名称" : "市立新林小学校",
+				"高さ" : "12.5",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.7037895345, 34.9756601745 ]
+			},
+			"properties" : {
+				"名称" : "市立川岡小学校",
+				"高さ" : "11.5",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.7150639362, 34.9758188436 ]
+			},
+			"properties" : {
+				"名称" : "市立川岡東小学校",
+				"高さ" : "15.2",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.6763411289, 34.9570590651 ]
+			},
+			"properties" : {
+				"名称" : "市立竹の里小学校",
+				"高さ" : "15.6",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.6823110597, 34.957374465 ]
+			},
+			"properties" : {
+				"名称" : "市立福西小学校",
+				"高さ" : "15.2",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.6907300334, 34.9766423956 ]
+			},
+			"properties" : {
+				"名称" : "市立樫原中学校",
+				"高さ" : "11.9",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.7152278359, 34.9763994333 ]
+			},
+			"properties" : {
+				"名称" : "市立桂川中学校",
+				"高さ" : "15.1",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.6934701347, 34.9887472962 ]
+			},
+			"properties" : {
+				"名称" : "市立桂中学校",
+				"高さ" : "7.6",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.6830454094, 34.9587296651 ]
+			},
+			"properties" : {
+				"名称" : "市立西陵中学校",
+				"高さ" : "15.4",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.6643148317, 34.9884234395 ]
+			},
+			"properties" : {
+				"名称" : "市立大枝中学校",
+				"高さ" : "16.8",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.6712462288, 34.963847667 ]
+			},
+			"properties" : {
+				"名称" : "市立洛西中学校",
+				"高さ" : "12.1",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.6673199284, 34.9626324169 ]
+			},
+			"properties" : {
+				"名称" : "府立洛西高等学校",
+				"高さ" : "14.1",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.6795239309, 34.9715820963 ]
+			},
+			"properties" : {
+				"名称" : "京都経済短期大学",
+				"高さ" : "21.6",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.6637300293, 34.9743923984 ]
+			},
+			"properties" : {
+				"名称" : "京都市立芸術大学",
+				"高さ" : "23.1",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.6725593304, 34.9737484173 ]
+			},
+			"properties" : {
+				"名称" : "市立大枝小学校",
+				"高さ" : "8.6",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.679441131, 34.9695371763 ]
+			},
+			"properties" : {
+				"名称" : "私立京都明徳高等学校",
+				"高さ" : "16.6",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.7054522341, 34.9725590644 ]
+			},
+			"properties" : {
+				"名称" : "府立桂高等学校",
+				"高さ" : "13.5",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.7060073367, 34.9892860249 ]
+			},
+			"properties" : {
+				"名称" : "市立桂徳小学校",
+				"高さ" : "10.8",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.7000030365, 34.9949587866 ]
+			},
+			"properties" : {
+				"名称" : "市立桂川小学校",
+				"高さ" : "11.5",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.6907984359, 34.9971673274 ]
+			},
+			"properties" : {
+				"名称" : "市立松尾中学校",
+				"高さ" : "14",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.6816224318, 34.9789044964 ]
+			},
+			"properties" : {
+				"名称" : "京都大学桂キャンパス",
+				"高さ" : "29.5",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.6540476304, 34.9889622899 ]
+			},
+			"properties" : {
+				"名称" : "市立西総合支援学校",
+				"高さ" : "13.4",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.6878344335, 34.9819760765 ]
+			},
+			"properties" : {
+				"名称" : "京都桂病院",
+				"高さ" : "27",
+				"種類" : "病院"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.692772034, 34.9816632856 ]
+			},
+			"properties" : {
+				"名称" : "シミズ病院",
+				"高さ" : "28.2",
+				"種類" : "病院"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.693895234, 34.9793952958 ]
+			},
+			"properties" : {
+				"名称" : "西京都病院",
+				"高さ" : "18.4",
+				"種類" : "病院"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.6655257294, 34.9752470681 ]
+			},
+			"properties" : {
+				"名称" : "洛西シミズ病院",
+				"高さ" : "28.6",
+				"種類" : "病院"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.6739165298, 34.9667878169 ]
+			},
+			"properties" : {
+				"名称" : "洛西ニュータウン病院",
+				"高さ" : "7.9",
+				"種類" : "病院"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.7012897174, 34.9881987494 ]
+			},
+			"properties" : {
+				"名称" : "三菱京都病院",
+				"高さ" : "22.2",
+				"種類" : "病院"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.6752310291, 34.963957696 ]
+			},
+			"properties" : {
+				"名称" : "洛西郵便局",
+				"高さ" : "11.5",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.6659548312, 34.9829630189 ]
+			},
+			"properties" : {
+				"名称" : "京都桂坂郵便局",
+				"高さ" : "8.6",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.6668895163, 34.9683399486 ]
+			},
+			"properties" : {
+				"名称" : "京都大枝西新林郵便局",
+				"高さ" : "8.8",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.6710541282, 34.9569498762 ]
+			},
+			"properties" : {
+				"名称" : "京都大原野西竹の里郵便局",
+				"高さ" : "6.3",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.6831766296, 34.959513195 ]
+			},
+			"properties" : {
+				"名称" : "京都大枝北福西郵便局",
+				"高さ" : "9.8",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.6883411289, 34.9504479439 ]
+			},
+			"properties" : {
+				"名称" : "京都上里郵便局",
+				"高さ" : "5.7",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.6897259354, 34.9942394675 ]
+			},
+			"properties" : {
+				"名称" : "京都松尾郵便局",
+				"高さ" : "8.6",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.6927898346, 34.9839160866 ]
+			},
+			"properties" : {
+				"名称" : "京都山田郵便局",
+				"高さ" : "8.6",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.6954678329, 34.9732614755 ]
+			},
+			"properties" : {
+				"名称" : "京都樫原郵便局",
+				"高さ" : "4.5",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.7006280344, 34.9788813452 ]
+			},
+			"properties" : {
+				"名称" : "京都桂西口郵便局",
+				"高さ" : "8",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.703442936, 34.9845103648 ]
+			},
+			"properties" : {
+				"名称" : "京都桂上豆田郵便局",
+				"高さ" : "7.5",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.7070816351, 34.9798995544 ]
+			},
+			"properties" : {
+				"名称" : "京都桂郵便局",
+				"高さ" : "4.9",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 135.7139491353, 34.9743055436 ]
+			},
+			"properties" : {
+				"名称" : "京都下津林郵便局",
+				"高さ" : "7.4",
+				"種類" : "郵便局"
+			}
+		}
+	]
+}

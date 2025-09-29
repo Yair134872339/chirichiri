@@ -1,0 +1,256 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+    background: white;
+}
+
+.header {
+    background: #f8f8f8;
+    color: #333;
+    padding: 15px 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-bottom: 1px solid #ddd;
+}
+
+.header h1 {
+    color: #333;
+    font-size: 1.5rem;
+}
+
+.header #dbStatus {
+    color: #666;
+    font-size: 0.9rem;
+}
+
+.main-container {
+    display: flex;
+    height: calc(100vh - 60px);
+}
+
+.sidebar {
+    width: 450px;
+    background: white;
+    overflow-y: auto;
+    border-right: 1px solid #e0e0e0;
+}
+
+.map-container {
+    flex: 1;
+    position: relative;
+}
+
+#map {
+    width: 100%;
+    height: 100%;
+}
+
+.section {
+    padding: 20px;
+    border-bottom: 1px solid #e0e0e0;
+}
+
+.section h2 {
+    font-size: 1.1rem;
+    margin-bottom: 15px;
+    color: #333;
+    border-bottom: 1px solid #ddd;
+    padding-bottom: 8px;
+}
+
+.demo-card {
+    background: white;
+    padding: 15px;
+    border: 1px solid #e0e0e0;
+    border-radius: 4px;
+    margin-bottom: 15px;
+}
+
+.demo-card h3 {
+    font-size: 0.95rem;
+    color: #333;
+    margin-bottom: 10px;
+    font-weight: 500;
+}
+
+button {
+    background: white;
+    color: #333;
+    border: 1px solid #ccc;
+    padding: 10px 20px;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 14px;
+    width: 100%;
+    margin-bottom: 10px;
+    transition: background 0.2s;
+}
+
+button:hover:not(:disabled) {
+    background: #f0f0f0;
+}
+
+button:disabled {
+    background: #f8f8f8;
+    cursor: not-allowed;
+    color: #999;
+    border-color: #e0e0e0;
+}
+
+.result-box {
+    background: white;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    max-height: 200px;
+    overflow-y: auto;
+    font-family: monospace;
+    font-size: 12px;
+    white-space: pre-wrap;
+}
+
+.loading {
+    display: none;
+    text-align: center;
+    padding: 20px;
+    color: #666;
+}
+
+.loading.active {
+    display: block;
+}
+
+.spinner {
+    display: inline-block;
+    width: 30px;
+    height: 30px;
+    border: 3px solid #f0f0f0;
+    border-top: 3px solid #333;
+    border-radius: 50%;
+    animation: spin 1s linear infinite;
+}
+
+@keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+}
+
+.sql-box {
+    margin: 10px 0;
+    max-height: 120px;
+    overflow-y: auto;
+    border-radius: 4px;
+}
+
+.sql-box pre {
+    margin: 0;
+    padding: 8px 10px;
+    background: #2d2d2d;
+    border-radius: 4px;
+    overflow-x: auto;
+}
+
+.sql-box code {
+    font-family: 'Menlo', 'Monaco', 'Courier New', monospace;
+    font-size: 11px;
+    line-height: 1.4;
+}
+
+.status {
+    padding: 5px 10px;
+    border-radius: 4px;
+    font-size: 12px;
+    margin-top: 10px;
+}
+
+.status.success {
+    background: #f8f8f8;
+    color: #333;
+    border: 1px solid #ccc;
+    padding: 8px;
+    border-radius: 4px;
+}
+
+.status.error {
+    background: #f8f8f8;
+    color: #333;
+    border: 1px solid #999;
+    padding: 8px;
+    border-radius: 4px;
+}
+
+.input-group {
+    display: flex;
+    gap: 10px;
+    margin-bottom: 10px;
+}
+
+.input-group input, .input-group select {
+    flex: 1;
+    padding: 8px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+}
+
+.tabs {
+    display: flex;
+    gap: 5px;
+    margin-bottom: 15px;
+}
+
+.tab {
+    padding: 8px 16px;
+    background: transparent;
+    color: #666;
+    border: none;
+    border-bottom: 2px solid transparent;
+    border-radius: 0;
+    cursor: pointer;
+    font-size: 14px;
+    transition: all 0.2s;
+}
+
+.tab.active {
+    background: white;
+    color: #333;
+    border-bottom: 2px solid #333;
+}
+
+.tab-content {
+    display: none;
+}
+
+.tab-content.active {
+    display: block;
+}
+
+.layer-toggle-btn {
+    padding: 10px;
+    border: 1px solid #ccc;
+    background: white;
+    color: #333;
+    cursor: pointer;
+    transition: all 0.2s;
+    font-size: 14px;
+}
+
+.layer-toggle-btn.active {
+    background: #333;
+    color: white;
+    border-color: #333;
+}
+
+.layer-toggle-btn:hover {
+    background: #f8f8f8;
+}
+
+.layer-toggle-btn.active:hover {
+    background: #555;
+}
+

@@ -6,8 +6,6 @@
 ![OpenStreetMap](https://img.shields.io/badge/Data-OpenStreetMap-brightgreen?logo=openstreetmap)
 ![PLATEAU](https://img.shields.io/badge/Data-PLATEAU-blue)
 ![GeoJSON](https://img.shields.io/badge/Format-GeoJSON-orange)
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow?logo=javascript)
-![Python](https://img.shields.io/badge/Python-3.8+-blue?logo=python)
 
 > [!CAUTION]
 > **License and Attribution Notice**
